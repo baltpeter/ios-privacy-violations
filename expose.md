@@ -16,9 +16,9 @@ Meanwhile, in late 2020, Apple started requiring self-labeling of the affected c
 
 ## Goal
 
-The project will give an up-to-date insight into how common tracking is in iOS apps. In particular, tracking without any user interaction, and thus without consent, will be analysed.
+The project will give an up-to-date insight into how common tracking in iOS apps is. In particular, tracking without any user interaction, and thus without consent, will be analysed.
 
-To this end, a large number of popular iOS will be collected and automatically analysed to record the network traffic happening in the background.
+To this end, a large number of popular iOS apps will be collected and automatically analysed to record the network traffic happening in the background.
 
 The results of this analysis will then be compared to the existing results for Android.
 
