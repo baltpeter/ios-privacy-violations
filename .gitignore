@@ -1,1 +1,4 @@
 tmp/
+*.tmp
+tmp.*
+secrets.json
