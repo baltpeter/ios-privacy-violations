@@ -4,7 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "execa": "^5.1.0",
+    "frida": "^14.2.18",
     "glob": "^7.1.7",
-    "ipa-extract-info": "^1.2.5"
+    "ipa-extract-info": "^1.2.5",
+    "pg-promise": "^10.10.2",
+    "yesno": "^0.3.1"
   }
 }

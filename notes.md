@@ -1,5 +1,11 @@
 # Notes
 
+## Presentation
+
+* Video of buying apps in 3u
+* Video of scrolling through App Store purchases
+* Screenshot of Facebook app or whatever with funny permissions
+
 ## iOS emulation
 
 ### Appetize.io
@@ -98,6 +104,7 @@ https://corellium.com/security-research
 * [ ] https://github.com/chaitin/passionfruit
 * [x] https://libimobiledevice.org/
 * [ ] https://cydia.akemi.ai/?page/com.linusyang.appinst
+* [ ] https://github.com/IntergalacticPenguin/mobile-toolkit
 
 ## Device
 
@@ -154,3 +161,307 @@ Then you can:
     - In Filza, go to `/private/var/mobile/Library/Mobile Documents/com~apple~CloudDocs/Downloads` and install.
     - Respring.
     - Enable in Settings under SSL Kill Switch 2.
+
+## Device preparation
+
+* Jailbreak
+* mitmproxy section
+* Enable SSH server 
+    - Install packages OpenSSH, Open, Sqlite3 from Cydia
+    - Connect using `root@<ip>`, password `alpine`
+* Settings
+    - Display & Brightness -> Auto-Lock -> Never
+* Install [Activator](https://cydia.saurik.com/package/libactivator/)
+
+## Automation
+
+### From macOS
+
+* Install app: `cfgutil install-app <file>.ipa`
+* Uninstall app: `cfgutil remove-app <bundle-id>`
+
+### From Linux
+
+* Install app: `ideviceinstaller --install <file>.ipa`
+* Start app: `sshpass -p alpine ssh root@10.0.0.83 "open <bundle-id>"` (requires `apt install sshpass`)
+* Uninstall app: `ideviceinstaller --uninstall <bundle-id>`
+* List installed apps: `ideviceinstaller -l`
+* Activator commands: `sshpass -p alpine ssh root@10.0.0.83 "<command>"`
+    - Press home button: `activator send libactivator.system.homebutton`
+    - Press power button: `activator send libactivator.system.sleepbutton`
+    - Open app: `activator send <bundle-id>`
+
+## Background noise
+
+* Background traffic (without any interactions other than turning screen off and on) captured between 2021-05-29T12:41:56 and 2021-05-31T23:27:48.
+* Stored in `flows/bg-noise-flows`.
+* Can be imported using `mitmdump -s mitm_addon.py --set appname=background-noise -r flows/bg-noise-flows` (first create app `background-noise` in DB).
+* Apple has a very helpful support pages that explains (most) background connections: https://support.apple.com/en-us/HT210060
+    - ```js
+      $$('tr').filter(e => e.children[3].textContent.includes('iOS')).map(e => e.children).map(c => ([c[0].textContent, c[4].textContent])).map(i => `requests.host ${i[0].includes('*') ? '~~' : '='} '${i[0].replace(/\*/g, '%')}' -- "${i[1]}" (${window.location})`).join('\nAND NOT ')
+      ```
+
+### Filter view
+
+```sql
+CREATE VIEW filtered_requests AS
+SELECT * FROM requests WHERE NOT requests.host = 'albert.apple.com' -- "Device activation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'captive.apple.com' -- "Internet connectivity validation for networks that use captive portals" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'gs.apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'humb.apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'static.ips.apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'sq-device.apple.com' -- "eSIM activation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'tbsc.apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'time-ios.apple.com' -- "Used by devices to set their date and time" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'time.apple.com' -- "Used by devices to set their date and time" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host ~~ '%.push.apple.com' -- "Push notifications" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'gdmf.apple.com' -- "Used by an MDM server to identify which software updates are available to devices that use managed software updates" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'deviceenrollment.apple.com' -- "DEP provisional enrollment" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'deviceservices-external.apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'identity.apple.com' -- "APNs certificate request portal" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'iprofiles.apple.com' -- "Hosts enrollment profiles used when devices enroll in Apple School Manager or Apple Business Manager through Device Enrollment" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'mdmenrollment.apple.com' -- "MDM servers to upload enrollment profiles used by clients enrolling through Device Enrollment in Apple School Manager or Apple Business Manager, and to look up devices and accounts" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'setup.icloud.com' -- "Required to log in with a Managed Apple ID on Shared iPad" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'vpp.itunes.apple.com' -- "MDM servers to perform operations related to Apps and Books, like assigning or revoking licenses on a device" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'appldnld.apple.com' -- "iOS updates" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'gg.apple.com' -- "iOS, tvOS, and macOS updates" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'mesu.apple.com' -- "Hosts software update catalogs" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'ns.itunes.apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'updates-http.cdn-apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'updates.cdn-apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'xp.apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host ~~ '%.itunes.apple.com' -- "Store content such as apps, books, and music" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host ~~ '%.apps.apple.com' -- "Store content such as apps, books, and music" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host ~~ '%.mzstatic.com' -- "Store content such as apps, books, and music" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'itunes.apple.com' -- (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'ppq.apple.com' -- "Enterprise App validation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'serverstatus.apple.com' -- "Content caching client public IP determination" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host ~~ '%.appattest.apple.com' -- "App validation, Touch ID and Face ID authentication for websites" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'fba.apple.com' -- "Used by Feedback Assistant to file and view feedback" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'cssubmissions.apple.com' -- "Used by Feedback Assistant to upload files" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'diagassets.apple.com' -- "Used by Apple devices to help detect possible hardware issues" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'doh.dns.apple.com' -- "Used for DNS over HTTPS (DoH)" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'crl.apple.com' -- "Certificate validation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'crl.entrust.net' -- "Certificate validation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'crl3.digicert.com' -- "Certificate validation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'crl4.digicert.com' -- "Certificate validation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'ocsp.apple.com' -- "Certificate validation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'ocsp.digicert.com' -- "Certificate validation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'ocsp.entrust.net' -- "Certificate validation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'ocsp.verisign.net' -- "Certificate validation" (https://support.apple.com/en-us/HT210060)
+AND NOT requests.host = 'valid.apple.com' -- "Certificate validation" (https://support.apple.com/en-us/HT210060)
+
+AND NOT requests.host = 'ocsp2.apple.com' -- OCSP
+AND NOT requests.host ~~ '%smoot.apple.com' -- Spotlight (https://apple.stackexchange.com/a/157495)
+AND NOT requests.host = 'configuration.apple.com' -- CloudKit/iCloud (https://en.wikipedia.org/wiki/CloudKit)
+AND NOT requests.host = 'configuration.ls.apple.com'
+AND NOT requests.host ~~ 'gspe%-ssl.ls.apple.com' -- Apple Maps (https://developer.apple.com/forums/thread/99015)
+AND NOT requests.host ~~ 'gsp%-ssl.ls.apple.com' -- Apple Maps (https://developer.apple.com/forums/thread/99015)
+AND NOT requests.host = 'weather-data.apple.com' -- Weather data
+AND NOT requests.host = 'pancake.apple.com'
+AND NOT requests.host = 'token.safebrowsing.apple' -- Safe browsing
+AND NOT requests.host = 'apple-finance.query.yahoo.com' -- Finance widget
+AND NOT requests.host ~~ 'p%-%.icloud.com' -- iCloud calendar, contacts
+AND NOT requests.host = 'keyvalueservice.icloud.com' -- iCloud keychain (https://speakerdeck.com/belenko/icloud-keychain-and-ios-7-data-protection, https://github.com/prabhu/iCloud)
+AND NOT requests.host = 'gs-loc.apple.com' -- Location services (https://apple.stackexchange.com/questions/63540/what-is-gs-loc-apple-com, https://github.com/zadewg/GS-LOC)
+```
+
+## Granting permissions
+
+* Permissions stored in `/private/var/mobile/Library/TCC/TCC.db`, table `access`.
+    - `auth_value == 0` means permission not granted, `auth_value == 2` means permission granted.
+    - `INSERT OR REPLACE INTO access VALUES("kTCCServiceCalendar", "com.podfactor.pod", 0, 2, 2, 1, NULL, NULL, 0, "UNUSED", NULL, 0, 1623176245);`
+    - `INSERT OR REPLACE INTO access (service, client, client_type, auth_value, auth_reason, auth_version, indirect_object_identifier_type, indirect_object_identifier, flags, last_modified) VALUES ("kTCCServiceMicrophone", "com.podfactor.pod", 0, 2, 2, 1, 0, "UNUSED", 0, 1623176245);`
+    - Following permissions are available (see: `/System/Library/PrivateFrameworks/TCC.framework/en.lproj/Localizable.strings`):
+        * [x] `kTCCServiceLiverpool` (no visible effect, people claim it's related to location access)
+        * [x] `kTCCServiceUbiquity` (no visible effect, people claim it's related to iCloud)
+        * [ ] `kTCCServiceWebKitIntelligentTrackingPrevention` ("Allow Cross-Website Tracking", 0 means yes, 2 no)
+
+        * [ ] `kTCCServiceSensorKitBedSensingWriting` (no visible effect, "Add Data for Research Purposes", "record bed sensing Sensor & Usage data")
+        * [ ] `kTCCServiceGameCenterFriends` (no visible effect, "connect you with your Game Center friends")
+        * [x] `kTCCServiceExposureNotification` ("Exposure Notifications", "Your iPhone can securely collect and share random IDs with nearby devices. The app can use these IDs to notify you if you may have been exposed to COVID-19. The date, duration, and signal strength of an exposure will be shared", "COVID-19 Exposure Logging and Notifications")
+        * [ ] `kTCCServicePrototype4Rights` (no visible effect, "Authorization to Test Service Proto4Right")
+        * [0] `kTCCServiceUserTracking` ("Allow Tracking", "track your activity across other companies’ apps and websites")
+        * [x] `kTCCServiceCalendar` ("Calendars", "Access Your Calendar")
+        * [x] `kTCCServiceAddressBook` ("Contacts", "Access Your Contacts")
+        * [x] `kTCCServiceReminders` ("Reminders", "Access Your Reminders")
+        * [x] `kTCCServicePhotos` ("Photos (All Photos)", "Access your photos")
+        * [ ] `kTCCServicePhotosAdd` ("Photos (Add Photos Only)", "Add to your Photos")
+        * [x] `kTCCServiceMediaLibrary` ("Media & Apple Music", "access Apple Music, your music and video activity, and your media library")
+        * [x] `kTCCServiceBluetoothAlways` ("Bluetooth", "find and connect to Bluetooth accessories.  This app may also use Bluetooth to know when you’re nearby")
+        * [ ] `kTCCServiceFallDetection` (no visible effect, "Fall Detection Data", "receive data from Apple Watch if a fall is detected and follow up in case help is needed")
+        * [ ] `kTCCServiceSiri` (no visible effect, "Some of your %@ data will be sent to Apple to process your requests")
+        * [ ] `kTCCServiceBluetoothPeripheral` (no visible effect, "make data available to nearby Bluetooth devices even when you’re not using the app")
+        * [ ] `kTCCServiceSpeechRecognition` ("Speech Recognition", "Access Speech Recognition", "Speech data from this app will be sent to Apple to process your requests. This will also help Apple improve its speech recognition technology")
+        * [ ] `kTCCServicePrototype3Rights` (no visible effect, "Authorization to Test Service Proto3Right")
+        * [x] `kTCCServiceMotion` ("Motion & Fitness", "Access Your Motion & Fitness Activity")
+        * [ ] `kTCCServiceCalls` (no visible effect, "Receive VoIP Calls in the Background")
+        * [0] `kTCCServiceCamera` ("Camera", "Access the Camera")
+        * [0] `kTCCServiceMicrophone` ("Microphone", "Access the Microphone")
+        * [x] `kTCCServiceWillow` ("Home Data", "Access Your Home Data")
+    - Helpful reference of what the columns mean: https://rainforest.engineering/2021-02-09-macos-tcc/
+
+### Location permission
+
+Location permission is handled differently. 
+
+```js
+// To set:
+// Traced using: frida-trace -U -m "*[CLLocationManager *]" Settings
+// Works when run from Settings.
+// Values (determined empirically, also see: https://developer.apple.com/documentation/corelocation/clauthorizationstatus/kclauthorizationstatusnotdetermined):
+//   * 0: Ask Next Time
+//   * 2: Never
+//   * 3: Always
+//   * 4: While Using the App
+ObjC.classes.CLLocationManager.setAuthorizationStatusByType_forBundleIdentifier_(2, "com.bryceco.GoMap")
+
+// To check:
+ObjC.classes.CLLocationManager.authorizationStatus() // For the running app.
+ObjC.classes.CLLocationManager.authorizationStatusForBundleIdentifier_("org.mozilla.ios.Firefox") // For an arbitrary app.
+```
+
+### Ideas
+
+* https://github.com/lucaIz-ldx/ForceReset/blob/de004718c1ebde9a80dc686040853089ceea20a0/Tweak.x#L46-L54
+* https://github.com/lucaIz-ldx/ForceReset/blob/master/Tweak.x#L125-L146
+* https://github.com/lucaIz-ldx/ForceReset/blob/de004718c1ebde9a80dc686040853089ceea20a0/TCCFunctions.m#L60
+* https://github.com/FouadRaheb/AppData/blob/eebc09cfb17375f04f5df08796754738d60b5e13/AppData/Classes/Model/ADAppData.m#L272-L280
+* https://github.com/alexPNG/BegoneCIA
+
+* https://frida.re/docs/examples/ios/
+* https://frida.re/docs/javascript-api/#nativefunction
+* https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75#frida-server
+
+```objc
+CFBundleRef bundle = CFBundleCreate(kCFAllocatorDefault, "com.apple.bla");
+NSArray *array = TCCAccessCopyInformationForBundle(bundle);
+```
+
+```js
+function bundleURL(id) {
+    var all_apps = ObjC.classes.LSApplicationWorkspace.defaultWorkspace().allInstalledApplications();
+    for (var i = 0; i < all_apps.count(); i++) {
+        var app = all_apps.objectAtIndex_(i);
+        if (app.bundleIdentifier().toString() == id) return app.bundleURL();
+    }
+}
+
+var CFBundleCreate_addr = Module.findExportByName(null, "CFBundleCreate");
+var CFBundleCreate = new NativeFunction(CFBundleCreate_addr, 'pointer', ['pointer', 'pointer']);
+
+var kCFAllocatorDefault = Module.findExportByName(null, "kCFAllocatorDefault");
+
+var b = bundleURL("com.bryceco.GoMap");
+// var b = ObjC.classes.NSBundle.mainBundle().bundleURL();
+
+// Can only access own bundle.
+var bundle = CFBundleCreate(kCFAllocatorDefault, b);
+// new ObjC.Object(bundle); // Maybe needed? You can call .toString() on that anyway.
+
+// returns 0x0
+// var TCCAccessCopyInformationForBundle_addr = Module.findExportByName("/System/Library/PrivateFrameworks/TCC.framework/TCC", "TCCAccessCopyInformationForBundle");
+// var TCCAccessCopyInformationForBundle = new NativeFunction(TCCAccessCopyInformationForBundle_addr, "pointer", ["pointer"]);
+
+var kTCCServiceAll = Module.findExportByName(null, "kTCCServiceAll");
+
+// access violation
+// var TCCAccessResetForBundle_addr = Module.findExportByName("/System/Library/PrivateFrameworks/TCC.framework/TCC", "TCCAccessResetForBundle");
+// var TCCAccessResetForBundle = new NativeFunction(TCCAccessResetForBundle_addr, "bool", ["pointer", "pointer"]);
+```
+
+* https://codeshare.frida.re/@lichao890427/device--parameter/
+
+```sh
+#/bin/bash
+# Adapted after: https://stackoverflow.com/a/53875499 and https://stackoverflow.com/a/29548123
+NEEDLE="com.bryceco.GoMap"
+
+find / -name '*.db' -print0 | while IFS= read -r -d '' file; do
+    for X in $(sqlite3 $file .tables) ; do sqlite3 $file "SELECT * FROM $X;" | grep >/dev/null $NEEDLE && echo "Found in file '$file', table '$X'"; done
+done
+```
+
+```
+Found in file '/private/var/mobile/Library/Caches/com.apple.appstored/storeUser.db', table 'launch_events'
+Found in file '/private/var/mobile/Library/Caches/com.apple.appstored/storeUser.db', table 'purchase_history_apps'
+Found in file '/private/var/mobile/Library/Caches/com.apple.appstored/storeUser.db', table 'current_apps_crossfire'
+Found in file '/private/var/mobile/Library/TCC/TCC.db', table 'access'
+Found in file '/private/var/mobile/Library/DuetExpertCenter/_ATXDataStore.db', table 'anchorModelTrainingData'
+Found in file '/private/var/mobile/Library/DuetExpertCenter/_ATXDataStore.db', table 'appInfo'
+Found in file '/private/var/mobile/Library/FrontBoard/applicationState.db', table 'application_identifier_tab'
+Found in file '/private/var/mobile/Library/FrontBoard/applicationState.db', table 'kvs_debug'
+Found in file '/private/var/mobile/Library/CoreDuet/Knowledge/knowledgeC.db', table 'ZOBJECT'
+Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard_failures'
+```
+
+
+## Honey data
+
+*Contact: Frank Walther, frank.walther.1978@icloud.com; `JGKfozntbF TBFFZbBYea`, 0155 57543434, `RYnlSPbEYh@bn.al`, `https://q8phlLSJgq.de`, `N2AsWEMI5D 565, 859663 p0GdKDTbYV`
+* Location: Schreinerweg 6, 38126 Braunschweig; 52.235288, 10.564235
+* Messages: `9FBqD2CNIJ` to +4917691377604
+* Photos, videos, and screenshots
+* Clipboard: `LDDsvPqQdT`
+* Calendar: `fWAs4GFbpN`, at `urscf2178L`, 2021-08-14T08:56 – 2021-08-17T21:24, repeats every month, alarm
+* Reminder: `b5jHg3Eh1k`, `HQBOdx4kx2` (scheduled for 2021-08-02T13:38)
+* Note: `S0Ei7sFP9b`
+* Voice memo
+* Health details: Name `DkwIXobsJN t5TfTlezmn`, DOB 1973-05-15, female, height 146cm, weight 108.5kg 
+* Home data: Rooms `bEZf1h06j1` (with wallpaper photo), `DX7BgPtH99` (basement); second home `g1bVNue3On` (with wallpaper photo)
+* WiFi network: WLAN3.ALTPETER.ME
+* Device name: `R2Gl5OLv20`
+* OS version: 14.5.1
+* Model no.: MX162ZD/A
+* SN: FFMZP87VN1N0
+* IMEI: 356395106788056
+* WiFi addr: 3C:CD:36:D4:CC:E4
+* Bluetooth addr: 3C:CD:36:D2:BD:B2
+* Modem firmware: 4.03.05
+* SEID: 044B24632…
+
+## Settings:
+
+* General
+    - Background App Refresh: off (to hopefully minimize background network traffic)
+* Privacy
+    - Analytics & Improvements
+        * Share iPhone Analytics: off
+    - Apple Advertising
+        * Personalised Ads: on (default)
+* App Store
+    - Automatic Downloads
+        * Apps: off
+        * App Updates: off
+
+* Turn on Bluetooth.
+* Uninstall all third-party apps that are not absolutely necessary.
+
+## TODO
+
+* [x] Disable PiHole!
+* [x] Grant permissions?
+* [x] Honey data
+* [x] Clipboard seeding?
+    - `ObjC.classes.UIPasteboard.generalPasteboard().setString_("LDDsvPqQdT")`
+* [x] ~~Screenrecording?~~
+* [x] Device settings?
+* [ ] Is uninstalling enough?
+* [ ] Add OkCupid to dataset
+
+## Simon
+
+* Personalised Ads setting?
+* Limitation: Jailbreak detection
+* Status complaint OkCupid
+* How to Abgabe?
+* Future work: Instead of only observing network traffic, actually trace interesting functions using Frida.
+* Assume that people have seen the previous talk?
+
+## References
+
+* Activator commands:
+    - `activator listeners` (https://jbguide.me/2016/url-schemes-after-jailbreak)
+    - https://github.com/ArtikusHG/nimbus/blob/master/nimbus
+    - https://junesiphone.com/actions/
+    - https://www.reddit.com/r/iOStraverse/comments/3rx3sn/tutorial_activator_actions/
