@@ -264,6 +264,8 @@ AND NOT requests.host = 'apple-finance.query.yahoo.com' -- Finance widget
 AND NOT requests.host ~~ 'p%-%.icloud.com' -- iCloud calendar, contacts
 AND NOT requests.host = 'keyvalueservice.icloud.com' -- iCloud keychain (https://speakerdeck.com/belenko/icloud-keychain-and-ios-7-data-protection, https://github.com/prabhu/iCloud)
 AND NOT requests.host = 'gs-loc.apple.com' -- Location services (https://apple.stackexchange.com/questions/63540/what-is-gs-loc-apple-com, https://github.com/zadewg/GS-LOC)
+AND NOT requests.host = 'gateway.icloud.com'
+AND NOT requests.host = 'metrics.icloud.com'
 ```
 
 ## Granting permissions
@@ -398,7 +400,7 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
 
 ## Honey data
 
-*Contact: Frank Walther, frank.walther.1978@icloud.com; `JGKfozntbF TBFFZbBYea`, 0155 57543434, `RYnlSPbEYh@bn.al`, `https://q8phlLSJgq.de`, `N2AsWEMI5D 565, 859663 p0GdKDTbYV`
+* Contact: Frank Walther, frank.walther.1978@icloud.com; `JGKfozntbF TBFFZbBYea`, 0155 57543434, `RYnlSPbEYh@bn.al`, `https://q8phlLSJgq.de`, `N2AsWEMI5D 565, 859663 p0GdKDTbYV`
 * Location: Schreinerweg 6, 38126 Braunschweig; 52.235288, 10.564235
 * Messages: `9FBqD2CNIJ` to +4917691377604
 * Photos, videos, and screenshots
@@ -415,8 +417,10 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
 * Model no.: MX162ZD/A
 * SN: FFMZP87VN1N0
 * IMEI: 356395106788056
+* BSSID: 34:81:c4:dc:36:1
 * WiFi addr: 3C:CD:36:D4:CC:E4
 * Bluetooth addr: 3C:CD:36:D2:BD:B2
+* Local IP: `10.0.0.68`
 * Modem firmware: 4.03.05
 * SEID: 044B24632…
 
@@ -465,3 +469,7 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
     - https://github.com/ArtikusHG/nimbus/blob/master/nimbus
     - https://junesiphone.com/actions/
     - https://www.reddit.com/r/iOStraverse/comments/3rx3sn/tutorial_activator_actions/
+
+## TODO
+
+* Offsets der libs nach Neustart

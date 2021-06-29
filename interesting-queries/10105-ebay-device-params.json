@@ -1,0 +1,144 @@
+{
+    "clientInfo": {
+        "appInfo": {
+            "appBuildConfiguration": "release",
+            "appBuildIdentifier": "2412",
+            "appVersion": "6.17.0",
+            "appVersionHash": "9IA9pz28zzmAnmHWcQ2sZ4NyjbaS4ReTNZxmKena51kpCIu9fSNBQfaBKWx3QNL72HZtRQCIFufs1hn0VRBBAw==",
+            "vendorAppId": "com.ebay.iphone"
+        },
+        "deviceInfo": {
+            "clientType": "mobile",
+            "emulator": false,
+            "localeIdentifier": "en_DE",
+            "lowPowerModeEnabled": false,
+            "manufacturer": "Apple",
+            "model": "iPhone10,4",
+            "osName": "iOS",
+            "osVersion": "14.5.1",
+            "physicalMemory": 2070495232,
+            "processorArchitecture": "arm",
+            "processorCount": 6,
+            "processorWordSize": 64,
+            "systemUptime": 763195.016,
+            "thermalState": "nominal",
+            "timeZone": "Europe/Berlin",
+            "userLanguage": "en"
+        },
+        "ebayConfiguration": {
+            "configVersion": "W/\"77\"",
+            "countryCode": "de",
+            "environment": "production",
+            "globalId": "EBAY-DE",
+            "mrollp": 75.58
+        },
+        "networkInfo": [
+            {
+                "constrained": false,
+                "expensive": false,
+                "network": "wifi",
+                "networkScore": 0.6,
+                "networkSubtype": "unknown",
+                "supportsIPv4": true,
+                "supportsIPv6": true
+            }
+        ],
+        "sessionGuid": "288af0e417aedc9e31a7cf4001d35186",
+        "userInfo": { "deviceGuid": "288aed6817a35f1f474999b001568ca8" }
+    },
+    "operations": [
+        {
+            "call": {
+                "beaconId": 2,
+                "connection": {
+                    "cdn": "AKAMAI",
+                    "httpVersion": 2,
+                    "ipVersion": 4,
+                    "multipath": false,
+                    "network": 0,
+                    "proxied": false,
+                    "remoteAddress": "10.0.0.68",
+                    "reused": true,
+                    "tlsCipher": "0x1302",
+                    "tlsVersion": "1.3"
+                },
+                "operation": "register",
+                "payload": {
+                    "additionalDetails": {
+                        "requestHeaders": {
+                            "accept": "application/json",
+                            "accept-language": "en-GB",
+                            "authorization": "****",
+                            "content-length": "1212",
+                            "content-type": "application/json",
+                            "ebay-ets-device-theme": "dark",
+                            "user-agent": "eBayiPhone/6.17.0",
+                            "x-ebay-4pp": "AQADMgBtk/tV2YV6AumRdx9jtuHsKYn1WeW3FnunteKxx4uGfQZHufilFpoSMszxptKl",
+                            "x-ebay-c-correlation-session": "si=288aed6817a35f1f474999b001568ca8",
+                            "x-ebay-c-cultural-pref": "Currency=EUR,Timezone=Europe/Berlin,Units=Metric",
+                            "x-ebay-c-enduserctx": "userAgent=ebayUserAgent/eBayIOS;6.17.0;iOS;14.5.1;Apple;iPhone10_4;no-carrier;375x667;2.0",
+                            "x-ebay-c-exp": "noepheader=1,epcalenv=,eprlogid=t6fuuq%60%3F%3Cumjcwpse*kkkwk%28rbpv6710-17a288af118-0xee",
+                            "x-ebay-c-marketplace-id": "EBAY-DE",
+                            "x-ebay-c-territory-id": "DE",
+                            "x-ebay-c-tracking": "guid=288aed6817a35f1f474999b001568ca8",
+                            "x-ebay-mobile-app-version": "6.17.0"
+                        },
+                        "responseBodySample": "{\"errorMessage\":{\"error\":[{\"errorId\":485320,\"domain\":\"TIDE\",\"severity\":\"ERROR\",\"category\":\"REQUEST\",\"message\":\"Invalid Request.\",\"parameter\":[],\"longMessage\":\"Invalid Request.\",\"actionToTake\":\"CORRECTINPUTDATA\",\"httpStatusCode\":400}]}}",
+                        "responseHeaders": {
+                            "cache-control": "max-age=0, no-cache, no-store",
+                            "content-encoding": "gzip",
+                            "content-length": "189",
+                            "content-type": "application/json",
+                            "date": "Sun, 20 Jun 2021 08:30:33 GMT",
+                            "expires": "Sun, 20 Jun 2021 08:30:33 GMT",
+                            "pragma": "no-cache",
+                            "rlogid": "t6ghutuf%3C%3Dosucnvuq%60%28%3F1agt*w%60ut3540-17a288af600-0x124",
+                            "server": "ebay-proxy-server",
+                            "set-cookie": "ebay=%5Esbf%3D%23%5E;Domain=.ebay.com;Path=/; Secure, dp1=bu1p/QEBfX0BAX19AQA**649163a9^;Domain=.ebay.com;Expires=Tue, 20-Jun-20",
+                            "vary": "Accept-Encoding",
+                            "x-cdn": "AKAMAI",
+                            "x-content-type-options": "nosniff",
+                            "x-ebay-c-request-id": "ri=69KI7fqDymOR,rci=b400cd12e810b886",
+                            "x-ebay-c-version": "1.0.0",
+                            "x-ebay-client-tls-version": "TLSv1.2,TLSv1.3",
+                            "x-ebay-pop-id": "UFES2-SLCAZ01-internalapi, UFES2-DUS-pop-api-nativeapp",
+                            "x-envoy-upstream-service-time": "305",
+                            "x-frame-options": "SAMEORIGIN",
+                            "x-xss-protection": "1; mode=block"
+                        }
+                    },
+                    "bodyBytesRcvd": 207,
+                    "bodyBytesSent": 1230,
+                    "encoding": "gzip",
+                    "headerBytesRcvd": 381,
+                    "headerBytesSent": 472,
+                    "httpStatus": 400,
+                    "rlogId": "t6ghutuf%3C%3Dosucnvuq%60%28%3F1agt*w%60ut3540-17a288af600-0x124",
+                    "type": "application/json"
+                },
+                "perf": { "deserialize": 0.007, "request": 0, "response": 0.003, "serialize": 0.002, "total": 0.419 },
+                "refId": 15,
+                "retryInfo": { "attempt": 0, "eventualSuccess": false, "success": false },
+                "service": "device",
+                "start": 3.319,
+                "url": "https://apisd.ebay.com/identity/v2/device/application/register",
+                "urlTruncated": false
+            },
+            "errors": [
+                {
+                    "category": "server",
+                    "domain": "TIDE",
+                    "errorId": "485320",
+                    "message": "Invalid Request.",
+                    "severity": "error"
+                }
+            ]
+        }
+    ],
+    "reportInfo": {
+        "packageEnd": "2021-06-20T08:30:33Z",
+        "packageStart": "2021-06-20T08:30:33Z",
+        "reportType": "error",
+        "sessionStart": "2021-06-20T08:30:29Z"
+    }
+}
