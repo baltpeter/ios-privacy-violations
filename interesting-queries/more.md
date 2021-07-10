@@ -15,3 +15,9 @@ SELECT name, r2.* from apps join runs r on apps.name = r.app join filtered_reque
 * Apps using PayPal SDK and sending the same data
     - `com.modanisa.iPhone`: `21839`, `21844`, `21845`
     - `com.ebay.iphone`: `10090`
+
+## Obersavations
+
+* 74 apps without any requests, including various banking TAN apps, Signal, and TeleGuard but also Facebook, and Zoom.
+* Filter list data
+    - Total requests: 34925, requests after filtering: 30439

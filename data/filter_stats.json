@@ -1,0 +1,6491 @@
+[
+    {
+        "name": "com.appstudiopl.whatspoof",
+        "total_requests": 7,
+        "requests_after_filtering": 0,
+        "blocked_requests": 7,
+        "blocked_ratio": 1
+    },
+    {
+        "name": "com.mikrasya.Wheel",
+        "total_requests": 5,
+        "requests_after_filtering": 0,
+        "blocked_requests": 5,
+        "blocked_ratio": 1
+    },
+    {
+        "name": "com.nguyenvh.holeio",
+        "total_requests": 1,
+        "requests_after_filtering": 0,
+        "blocked_requests": 1,
+        "blocked_ratio": 1
+    },
+    {
+        "name": "com.ohmgames.cheatandrun",
+        "total_requests": 1,
+        "requests_after_filtering": 0,
+        "blocked_requests": 1,
+        "blocked_ratio": 1
+    },
+    {
+        "name": "io.voodoo.paper2",
+        "total_requests": 1,
+        "requests_after_filtering": 0,
+        "blocked_requests": 1,
+        "blocked_ratio": 1
+    },
+    {
+        "name": "ios.bacha.soft.qr.code.v3",
+        "total_requests": 13,
+        "requests_after_filtering": 1,
+        "blocked_requests": 12,
+        "blocked_ratio": 0.9230769230769231
+    },
+    {
+        "name": "com.smmservice.smartprinter",
+        "total_requests": 9,
+        "requests_after_filtering": 1,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.8888888888888888
+    },
+    {
+        "name": "com.smmservice.printer",
+        "total_requests": 9,
+        "requests_after_filtering": 1,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.8888888888888888
+    },
+    {
+        "name": "com.atherisapps.fgen",
+        "total_requests": 8,
+        "requests_after_filtering": 1,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.875
+    },
+    {
+        "name": "com.overwolf.statsroyale",
+        "total_requests": 8,
+        "requests_after_filtering": 1,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.875
+    },
+    {
+        "name": "de.dwins.Financeguru",
+        "total_requests": 8,
+        "requests_after_filtering": 2,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.75
+    },
+    {
+        "name": "com.expressvpn.iosvpn",
+        "total_requests": 7,
+        "requests_after_filtering": 2,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.7142857142857143
+    },
+    {
+        "name": "com.luzala.Fontise2",
+        "total_requests": 14,
+        "requests_after_filtering": 4,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.7142857142857143
+    },
+    {
+        "name": "Mg.FamilyLocator.PhoneTracker2",
+        "total_requests": 14,
+        "requests_after_filtering": 5,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.6428571428571429
+    },
+    {
+        "name": "com.ios.rbcdown.Countdown",
+        "total_requests": 11,
+        "requests_after_filtering": 4,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.6363636363636364
+    },
+    {
+        "name": "vsmedia.de.photoblend",
+        "total_requests": 11,
+        "requests_after_filtering": 4,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.6363636363636364
+    },
+    {
+        "name": "com.duosecurity.DuoMobile",
+        "total_requests": 5,
+        "requests_after_filtering": 2,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.6
+    },
+    {
+        "name": "com.holidaypirates.urlaubspiraten",
+        "total_requests": 15,
+        "requests_after_filtering": 6,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.6
+    },
+    {
+        "name": "com.teacapps.QRbot",
+        "total_requests": 5,
+        "requests_after_filtering": 2,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.6
+    },
+    {
+        "name": "com.aidana.cardriving.ios",
+        "total_requests": 12,
+        "requests_after_filtering": 5,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.5833333333333334
+    },
+    {
+        "name": "com.diguotech.numbertiles",
+        "total_requests": 114,
+        "requests_after_filtering": 50,
+        "blocked_requests": 64,
+        "blocked_ratio": 0.5614035087719298
+    },
+    {
+        "name": "com.limasky.doodlejumpfree",
+        "total_requests": 9,
+        "requests_after_filtering": 4,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.5555555555555556
+    },
+    {
+        "name": "com.tahquam.CountdownStarFree",
+        "total_requests": 20,
+        "requests_after_filtering": 9,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.55
+    },
+    {
+        "name": "com.xing.XING",
+        "total_requests": 13,
+        "requests_after_filtering": 6,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.5384615384615384
+    },
+    {
+        "name": "com.gouciapp.logos",
+        "total_requests": 45,
+        "requests_after_filtering": 21,
+        "blocked_requests": 24,
+        "blocked_ratio": 0.5333333333333333
+    },
+    {
+        "name": "com.freemium.ios.apps.bubble.level",
+        "total_requests": 49,
+        "requests_after_filtering": 23,
+        "blocked_requests": 26,
+        "blocked_ratio": 0.5306122448979592
+    },
+    {
+        "name": "com.drink.water.aquarium",
+        "total_requests": 8,
+        "requests_after_filtering": 4,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "com.google.chrome.ios",
+        "total_requests": 4,
+        "requests_after_filtering": 2,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "com.internet-rocks.codescanner",
+        "total_requests": 12,
+        "requests_after_filtering": 6,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "com.roborock.smart",
+        "total_requests": 2,
+        "requests_after_filtering": 1,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "com.qnniu.renpho",
+        "total_requests": 8,
+        "requests_after_filtering": 4,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "com.skgames.motor",
+        "total_requests": 4,
+        "requests_after_filtering": 2,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "de.dpdhl.its.berlin.lps.consumers",
+        "total_requests": 8,
+        "requests_after_filtering": 4,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "com.viber",
+        "total_requests": 6,
+        "requests_after_filtering": 3,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "com.womboai.wombo",
+        "total_requests": 14,
+        "requests_after_filtering": 7,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "de.avm.MyFRITZ",
+        "total_requests": 4,
+        "requests_after_filtering": 2,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "de.westwing.shop",
+        "total_requests": 8,
+        "requests_after_filtering": 4,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "de.westwingnow.iosshop",
+        "total_requests": 8,
+        "requests_after_filtering": 4,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "de.md.meinmd",
+        "total_requests": 6,
+        "requests_after_filtering": 3,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "de.no26.Number26",
+        "total_requests": 14,
+        "requests_after_filtering": 7,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "org.mozilla.ios.Firefox",
+        "total_requests": 2,
+        "requests_after_filtering": 1,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.5
+    },
+    {
+        "name": "com.vacation.countdown.app",
+        "total_requests": 37,
+        "requests_after_filtering": 19,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.4864864864864865
+    },
+    {
+        "name": "com.aster.UltimateDrivingSim2021",
+        "total_requests": 54,
+        "requests_after_filtering": 28,
+        "blocked_requests": 26,
+        "blocked_ratio": 0.48148148148148145
+    },
+    {
+        "name": "capital.scalable.Scalable-Capital",
+        "total_requests": 15,
+        "requests_after_filtering": 8,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.4666666666666667
+    },
+    {
+        "name": "com.wetter.iosclient",
+        "total_requests": 45,
+        "requests_after_filtering": 24,
+        "blocked_requests": 21,
+        "blocked_ratio": 0.4666666666666667
+    },
+    {
+        "name": "com.shazam.Shazam",
+        "total_requests": 13,
+        "requests_after_filtering": 7,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.46153846153846156
+    },
+    {
+        "name": "com.lillydoo.app",
+        "total_requests": 13,
+        "requests_after_filtering": 7,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.46153846153846156
+    },
+    {
+        "name": "de.traderepublic.app",
+        "total_requests": 13,
+        "requests_after_filtering": 7,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.46153846153846156
+    },
+    {
+        "name": "de.jochen-holzer.QR-Code-Scanner",
+        "total_requests": 24,
+        "requests_after_filtering": 13,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.4583333333333333
+    },
+    {
+        "name": "com.bjoernbartels.MyLove",
+        "total_requests": 22,
+        "requests_after_filtering": 12,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.45454545454545453
+    },
+    {
+        "name": "com.mgc.runnergame",
+        "total_requests": 11,
+        "requests_after_filtering": 6,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.45454545454545453
+    },
+    {
+        "name": "co.infinitysoft.vpn360",
+        "total_requests": 73,
+        "requests_after_filtering": 40,
+        "blocked_requests": 33,
+        "blocked_ratio": 0.4520547945205479
+    },
+    {
+        "name": "com.xilinpany.likeanimal.game",
+        "total_requests": 71,
+        "requests_after_filtering": 39,
+        "blocked_requests": 32,
+        "blocked_ratio": 0.4507042253521127
+    },
+    {
+        "name": "org.freevpn.vpn",
+        "total_requests": 20,
+        "requests_after_filtering": 11,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.45
+    },
+    {
+        "name": "com.geniussoftware.GeniusScan",
+        "total_requests": 9,
+        "requests_after_filtering": 5,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.4444444444444444
+    },
+    {
+        "name": "com.duolingo.DuolingoMobile",
+        "total_requests": 9,
+        "requests_after_filtering": 5,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.4444444444444444
+    },
+    {
+        "name": "nickseidel.passthebomb",
+        "total_requests": 27,
+        "requests_after_filtering": 15,
+        "blocked_requests": 12,
+        "blocked_ratio": 0.4444444444444444
+    },
+    {
+        "name": "de.meinprospekt.ios",
+        "total_requests": 25,
+        "requests_after_filtering": 14,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.44
+    },
+    {
+        "name": "de.deutschlandcard.DeutschlandCard",
+        "total_requests": 16,
+        "requests_after_filtering": 9,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.4375
+    },
+    {
+        "name": "net.skyscanner.iphone",
+        "total_requests": 71,
+        "requests_after_filtering": 40,
+        "blocked_requests": 31,
+        "blocked_ratio": 0.43661971830985913
+    },
+    {
+        "name": "com.outfit7.mytalkingtom",
+        "total_requests": 46,
+        "requests_after_filtering": 26,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.43478260869565216
+    },
+    {
+        "name": "com.BuhlData.SteuerPhone",
+        "total_requests": 7,
+        "requests_after_filtering": 4,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.42857142857142855
+    },
+    {
+        "name": "com.netcetera.s-id-check",
+        "total_requests": 7,
+        "requests_after_filtering": 4,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.42857142857142855
+    },
+    {
+        "name": "com.go-tellm.tellm",
+        "total_requests": 7,
+        "requests_after_filtering": 4,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.42857142857142855
+    },
+    {
+        "name": "com.nect.app.prod",
+        "total_requests": 7,
+        "requests_after_filtering": 4,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.42857142857142855
+    },
+    {
+        "name": "com.sixdays.trust",
+        "total_requests": 7,
+        "requests_after_filtering": 4,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.42857142857142855
+    },
+    {
+        "name": "com.skypaw.decibel",
+        "total_requests": 7,
+        "requests_after_filtering": 4,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.42857142857142855
+    },
+    {
+        "name": "de.aboutyou.mobile.app",
+        "total_requests": 14,
+        "requests_after_filtering": 8,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.42857142857142855
+    },
+    {
+        "name": "com.WhatStat",
+        "total_requests": 7,
+        "requests_after_filtering": 4,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.42857142857142855
+    },
+    {
+        "name": "nl.picnic.picnic-supermarkt",
+        "total_requests": 7,
+        "requests_after_filtering": 4,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.42857142857142855
+    },
+    {
+        "name": "com.barber.barberchopiphone",
+        "total_requests": 68,
+        "requests_after_filtering": 39,
+        "blocked_requests": 29,
+        "blocked_ratio": 0.4264705882352941
+    },
+    {
+        "name": "videoeditor.app",
+        "total_requests": 45,
+        "requests_after_filtering": 26,
+        "blocked_requests": 19,
+        "blocked_ratio": 0.4222222222222222
+    },
+    {
+        "name": "com.riseup.game",
+        "total_requests": 12,
+        "requests_after_filtering": 7,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.4166666666666667
+    },
+    {
+        "name": "com.ome.vpn",
+        "total_requests": 48,
+        "requests_after_filtering": 28,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.4166666666666667
+    },
+    {
+        "name": "de.tagesschau.Tagesschau",
+        "total_requests": 12,
+        "requests_after_filtering": 7,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.4166666666666667
+    },
+    {
+        "name": "com.converter.mp3",
+        "total_requests": 63,
+        "requests_after_filtering": 37,
+        "blocked_requests": 26,
+        "blocked_ratio": 0.4126984126984127
+    },
+    {
+        "name": "com.nordvpn.NordVPN",
+        "total_requests": 17,
+        "requests_after_filtering": 10,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.4117647058823529
+    },
+    {
+        "name": "com.testerheld.app",
+        "total_requests": 17,
+        "requests_after_filtering": 10,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.4117647058823529
+    },
+    {
+        "name": "wifisolutions.com.ua.AR",
+        "total_requests": 17,
+        "requests_after_filtering": 10,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.4117647058823529
+    },
+    {
+        "name": "com.wallpaperscraft.wallpapers",
+        "total_requests": 107,
+        "requests_after_filtering": 63,
+        "blocked_requests": 44,
+        "blocked_ratio": 0.411214953271028
+    },
+    {
+        "name": "com.google.ios.youtubemusic",
+        "total_requests": 27,
+        "requests_after_filtering": 16,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.4074074074074074
+    },
+    {
+        "name": "de.kaufda.kaufda",
+        "total_requests": 27,
+        "requests_after_filtering": 16,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.4074074074074074
+    },
+    {
+        "name": "com.paysafecard.paysafecard",
+        "total_requests": 10,
+        "requests_after_filtering": 6,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.4
+    },
+    {
+        "name": "de.smarthouse.finanzen",
+        "total_requests": 10,
+        "requests_after_filtering": 6,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.4
+    },
+    {
+        "name": "de.rossmann.app",
+        "total_requests": 5,
+        "requests_after_filtering": 3,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.4
+    },
+    {
+        "name": "de.payback.client.iphone",
+        "total_requests": 20,
+        "requests_after_filtering": 12,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.4
+    },
+    {
+        "name": "spa.games",
+        "total_requests": 10,
+        "requests_after_filtering": 6,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.4
+    },
+    {
+        "name": "com.hbs.broadcast.ometv",
+        "total_requests": 53,
+        "requests_after_filtering": 32,
+        "blocked_requests": 21,
+        "blocked_ratio": 0.39622641509433965
+    },
+    {
+        "name": "com.pureple.wardrobe",
+        "total_requests": 63,
+        "requests_after_filtering": 39,
+        "blocked_requests": 24,
+        "blocked_ratio": 0.38095238095238093
+    },
+    {
+        "name": "de.gymondo.Gymondo",
+        "total_requests": 37,
+        "requests_after_filtering": 23,
+        "blocked_requests": 14,
+        "blocked_ratio": 0.3783783783783784
+    },
+    {
+        "name": "com.bodyplan.bittimer",
+        "total_requests": 8,
+        "requests_after_filtering": 5,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.375
+    },
+    {
+        "name": "com.flixbus.ios.Flixbus",
+        "total_requests": 16,
+        "requests_after_filtering": 10,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.375
+    },
+    {
+        "name": "com.imangi.templerun",
+        "total_requests": 8,
+        "requests_after_filtering": 5,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.375
+    },
+    {
+        "name": "com.steuerbot",
+        "total_requests": 16,
+        "requests_after_filtering": 10,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.375
+    },
+    {
+        "name": "com.sunhilltechnologies.TraviPay",
+        "total_requests": 16,
+        "requests_after_filtering": 10,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.375
+    },
+    {
+        "name": "dk.ooono.connect",
+        "total_requests": 8,
+        "requests_after_filtering": 5,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.375
+    },
+    {
+        "name": "net.poppic.PopPic",
+        "total_requests": 8,
+        "requests_after_filtering": 5,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.375
+    },
+    {
+        "name": "om.mars.games.master.master.LH.Germany",
+        "total_requests": 8,
+        "requests_after_filtering": 5,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.375
+    },
+    {
+        "name": "com.sillens.iShape",
+        "total_requests": 19,
+        "requests_after_filtering": 12,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.3684210526315789
+    },
+    {
+        "name": "de.blaetterkatalog.emp",
+        "total_requests": 19,
+        "requests_after_filtering": 12,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.3684210526315789
+    },
+    {
+        "name": "com.bentostudio.ballsvsblocks",
+        "total_requests": 11,
+        "requests_after_filtering": 7,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.36363636363636365
+    },
+    {
+        "name": "com.KaueRosa.CityTakeover",
+        "total_requests": 11,
+        "requests_after_filtering": 7,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.36363636363636365
+    },
+    {
+        "name": "com.sally.sallyswelt",
+        "total_requests": 11,
+        "requests_after_filtering": 7,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.36363636363636365
+    },
+    {
+        "name": "com.yourdelivery.lieferando",
+        "total_requests": 33,
+        "requests_after_filtering": 21,
+        "blocked_requests": 12,
+        "blocked_ratio": 0.36363636363636365
+    },
+    {
+        "name": "de.softgames.commerzbank",
+        "total_requests": 11,
+        "requests_after_filtering": 7,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.36363636363636365
+    },
+    {
+        "name": "de.wetteronline.RegenRadar",
+        "total_requests": 68,
+        "requests_after_filtering": 44,
+        "blocked_requests": 24,
+        "blocked_ratio": 0.35294117647058826
+    },
+    {
+        "name": "com.iapps.whatsapp",
+        "total_requests": 43,
+        "requests_after_filtering": 28,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.3488372093023256
+    },
+    {
+        "name": "works.jubilee.timetree",
+        "total_requests": 26,
+        "requests_after_filtering": 17,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.34615384615384615
+    },
+    {
+        "name": "com.ebaykleinanzeigen.ebc",
+        "total_requests": 38,
+        "requests_after_filtering": 25,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.34210526315789475
+    },
+    {
+        "name": "com.atlassian.JitsiMeet.ios",
+        "total_requests": 9,
+        "requests_after_filtering": 6,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.bettergames.real.drivingschool.simulator",
+        "total_requests": 54,
+        "requests_after_filtering": 36,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.limasky.doodlejump2",
+        "total_requests": 9,
+        "requests_after_filtering": 6,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.mysports.branded.mcfit",
+        "total_requests": 6,
+        "requests_after_filtering": 4,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.o2.meino2",
+        "total_requests": 9,
+        "requests_after_filtering": 6,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.rastislavcervenak.InternetQualityWiFiAR",
+        "total_requests": 6,
+        "requests_after_filtering": 4,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.plantidentification",
+        "total_requests": 30,
+        "requests_after_filtering": 20,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.quvideo.XiaoYing",
+        "total_requests": 15,
+        "requests_after_filtering": 10,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "de.deinupdateMediaGmbh.deinupdate",
+        "total_requests": 27,
+        "requests_after_filtering": 18,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.vorwerk.thermomixuniversal",
+        "total_requests": 6,
+        "requests_after_filtering": 4,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.wakanim.ios.prod.wakanim",
+        "total_requests": 3,
+        "requests_after_filtering": 2,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "de.fitx.member",
+        "total_requests": 9,
+        "requests_after_filtering": 6,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "de.identity.autoidapp",
+        "total_requests": 3,
+        "requests_after_filtering": 2,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "de.mobiletrend.flirtwiese",
+        "total_requests": 18,
+        "requests_after_filtering": 12,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "se.parkster.Parkster",
+        "total_requests": 9,
+        "requests_after_filtering": 6,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "de.promobil.mobillife",
+        "total_requests": 6,
+        "requests_after_filtering": 4,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "de.traveliq.Hotelsuche",
+        "total_requests": 12,
+        "requests_after_filtering": 8,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "de.webfactor.MehrTankenApp",
+        "total_requests": 9,
+        "requests_after_filtering": 6,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "net.zedge.wallpapers",
+        "total_requests": 27,
+        "requests_after_filtering": 18,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.3333333333333333
+    },
+    {
+        "name": "com.busuu.english.app",
+        "total_requests": 25,
+        "requests_after_filtering": 17,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.32
+    },
+    {
+        "name": "com.sppalabs.movies",
+        "total_requests": 47,
+        "requests_after_filtering": 32,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.3191489361702128
+    },
+    {
+        "name": "com.2ksports.mynba2k21",
+        "total_requests": 22,
+        "requests_after_filtering": 15,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.3181818181818182
+    },
+    {
+        "name": "com.topfreegames.bikeracefree",
+        "total_requests": 44,
+        "requests_after_filtering": 30,
+        "blocked_requests": 14,
+        "blocked_ratio": 0.3181818181818182
+    },
+    {
+        "name": "com.fc2.web.fujicubesoft.ManyBricksBreaker",
+        "total_requests": 63,
+        "requests_after_filtering": 43,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.31746031746031744
+    },
+    {
+        "name": "com.corentinlarroque.walkie-talkie",
+        "total_requests": 41,
+        "requests_after_filtering": 28,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.3170731707317073
+    },
+    {
+        "name": "com.csj.ling",
+        "total_requests": 57,
+        "requests_after_filtering": 39,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.3157894736842105
+    },
+    {
+        "name": "com.vysgames.Exposed",
+        "total_requests": 19,
+        "requests_after_filtering": 13,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.3157894736842105
+    },
+    {
+        "name": "com.bigwinepot.nwdn.international",
+        "total_requests": 80,
+        "requests_after_filtering": 55,
+        "blocked_requests": 25,
+        "blocked_ratio": 0.3125
+    },
+    {
+        "name": "com.cihan.crashmasterrr",
+        "total_requests": 13,
+        "requests_after_filtering": 9,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.3076923076923077
+    },
+    {
+        "name": "com.kik.chat",
+        "total_requests": 13,
+        "requests_after_filtering": 9,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.3076923076923077
+    },
+    {
+        "name": "com.tarekmongy.RunofLife",
+        "total_requests": 13,
+        "requests_after_filtering": 9,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.3076923076923077
+    },
+    {
+        "name": "de.eplus.mappecc.client.ios.alditalk",
+        "total_requests": 13,
+        "requests_after_filtering": 9,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.3076923076923077
+    },
+    {
+        "name": "de.swr.avp.ard.tablet",
+        "total_requests": 13,
+        "requests_after_filtering": 9,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.3076923076923077
+    },
+    {
+        "name": "com.twoheadedshark.tco",
+        "total_requests": 46,
+        "requests_after_filtering": 32,
+        "blocked_requests": 14,
+        "blocked_ratio": 0.30434782608695654
+    },
+    {
+        "name": "com.pastapizza.qrcode",
+        "total_requests": 43,
+        "requests_after_filtering": 30,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.3023255813953488
+    },
+    {
+        "name": "com.BallGames.Woodturning",
+        "total_requests": 10,
+        "requests_after_filtering": 7,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3
+    },
+    {
+        "name": "com.dermanostic",
+        "total_requests": 10,
+        "requests_after_filtering": 7,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3
+    },
+    {
+        "name": "com.fansup.followersplus",
+        "total_requests": 20,
+        "requests_after_filtering": 14,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.3
+    },
+    {
+        "name": "com.feelthemusi.musi",
+        "total_requests": 10,
+        "requests_after_filtering": 7,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3
+    },
+    {
+        "name": "com.garmin.connect.mobile",
+        "total_requests": 10,
+        "requests_after_filtering": 7,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3
+    },
+    {
+        "name": "com.htv.prioone",
+        "total_requests": 10,
+        "requests_after_filtering": 7,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3
+    },
+    {
+        "name": "com.plus500.plus500",
+        "total_requests": 10,
+        "requests_after_filtering": 7,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.3
+    },
+    {
+        "name": "de.komoot.berlinbikeapp",
+        "total_requests": 20,
+        "requests_after_filtering": 14,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.3
+    },
+    {
+        "name": "com.microsoft.azureauthenticator",
+        "total_requests": 7,
+        "requests_after_filtering": 5,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2857142857142857
+    },
+    {
+        "name": "com.lightx.photoeditor",
+        "total_requests": 28,
+        "requests_after_filtering": 20,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.2857142857142857
+    },
+    {
+        "name": "com.moonsted.TGTG",
+        "total_requests": 14,
+        "requests_after_filtering": 10,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2857142857142857
+    },
+    {
+        "name": "com.ookla.speedtest",
+        "total_requests": 14,
+        "requests_after_filtering": 10,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2857142857142857
+    },
+    {
+        "name": "com.pixelbox.roofrails",
+        "total_requests": 14,
+        "requests_after_filtering": 10,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2857142857142857
+    },
+    {
+        "name": "com.smartloftapps.phototranslatefree",
+        "total_requests": 35,
+        "requests_after_filtering": 25,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.2857142857142857
+    },
+    {
+        "name": "com.todoist.ios",
+        "total_requests": 14,
+        "requests_after_filtering": 10,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2857142857142857
+    },
+    {
+        "name": "com.tummygames.sliceit",
+        "total_requests": 14,
+        "requests_after_filtering": 10,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2857142857142857
+    },
+    {
+        "name": "com.ebay.iphone",
+        "total_requests": 32,
+        "requests_after_filtering": 23,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.28125
+    },
+    {
+        "name": "com.sixt.isixt",
+        "total_requests": 36,
+        "requests_after_filtering": 26,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.2777777777777778
+    },
+    {
+        "name": "com.tomatamara.stickermaker",
+        "total_requests": 29,
+        "requests_after_filtering": 21,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.27586206896551724
+    },
+    {
+        "name": "com.lexwarelabs.goodmorning",
+        "total_requests": 40,
+        "requests_after_filtering": 29,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.275
+    },
+    {
+        "name": "com.com.convertermp3.player",
+        "total_requests": 11,
+        "requests_after_filtering": 8,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.2727272727272727
+    },
+    {
+        "name": "com.groundspeak.GeocachingIntro",
+        "total_requests": 22,
+        "requests_after_filtering": 16,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.2727272727272727
+    },
+    {
+        "name": "com.kineticstars.Moon",
+        "total_requests": 33,
+        "requests_after_filtering": 24,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.2727272727272727
+    },
+    {
+        "name": "com.synlab.access",
+        "total_requests": 11,
+        "requests_after_filtering": 8,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.2727272727272727
+    },
+    {
+        "name": "com.tramb.park4night",
+        "total_requests": 11,
+        "requests_after_filtering": 8,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.2727272727272727
+    },
+    {
+        "name": "com.yourcompany.PPClient",
+        "total_requests": 22,
+        "requests_after_filtering": 16,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.2727272727272727
+    },
+    {
+        "name": "de.mobile.iphone",
+        "total_requests": 59,
+        "requests_after_filtering": 43,
+        "blocked_requests": 16,
+        "blocked_ratio": 0.2711864406779661
+    },
+    {
+        "name": "com.gametion.ludo",
+        "total_requests": 63,
+        "requests_after_filtering": 46,
+        "blocked_requests": 17,
+        "blocked_ratio": 0.2698412698412698
+    },
+    {
+        "name": "com.unicostudio.braintest",
+        "total_requests": 141,
+        "requests_after_filtering": 103,
+        "blocked_requests": 38,
+        "blocked_ratio": 0.2695035460992908
+    },
+    {
+        "name": "com.blinkslabs.Blinkist",
+        "total_requests": 26,
+        "requests_after_filtering": 19,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.2692307692307692
+    },
+    {
+        "name": "com.masomo.headball2",
+        "total_requests": 26,
+        "requests_after_filtering": 19,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.2692307692307692
+    },
+    {
+        "name": "xyz.screenkit.screenkit",
+        "total_requests": 26,
+        "requests_after_filtering": 19,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.2692307692307692
+    },
+    {
+        "name": "com.bostonbanana.VideoToLive",
+        "total_requests": 41,
+        "requests_after_filtering": 30,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.2682926829268293
+    },
+    {
+        "name": "tv.twitch",
+        "total_requests": 15,
+        "requests_after_filtering": 11,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.26666666666666666
+    },
+    {
+        "name": "de.spiegel.spon",
+        "total_requests": 15,
+        "requests_after_filtering": 11,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.26666666666666666
+    },
+    {
+        "name": "info.codecheck.Codecheck",
+        "total_requests": 79,
+        "requests_after_filtering": 58,
+        "blocked_requests": 21,
+        "blocked_ratio": 0.26582278481012656
+    },
+    {
+        "name": "com.cassette.aquapark",
+        "total_requests": 19,
+        "requests_after_filtering": 14,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.2631578947368421
+    },
+    {
+        "name": "com.camerasideas.Peachy",
+        "total_requests": 51,
+        "requests_after_filtering": 38,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.2549019607843137
+    },
+    {
+        "name": "evolly.app.rokuremote",
+        "total_requests": 63,
+        "requests_after_filtering": 47,
+        "blocked_requests": 16,
+        "blocked_ratio": 0.25396825396825395
+    },
+    {
+        "name": "app.tier.sharing",
+        "total_requests": 28,
+        "requests_after_filtering": 21,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "at.grupet.mobile.um",
+        "total_requests": 8,
+        "requests_after_filtering": 6,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "com.ei.robmaster3d",
+        "total_requests": 60,
+        "requests_after_filtering": 45,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "com.google.Tachyon",
+        "total_requests": 8,
+        "requests_after_filtering": 6,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "com.gnarcade.doge",
+        "total_requests": 24,
+        "requests_after_filtering": 18,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "com.isharing.iSharing-Lite",
+        "total_requests": 36,
+        "requests_after_filtering": 27,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "com.lidl.eci.lidl.plus",
+        "total_requests": 4,
+        "requests_after_filtering": 3,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "com.nakiostudio.playdotjs",
+        "total_requests": 4,
+        "requests_after_filtering": 3,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "com.netpulse.fitnessfirst",
+        "total_requests": 12,
+        "requests_after_filtering": 9,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "tr.gov.saglik.hayatevesigar",
+        "total_requests": 12,
+        "requests_after_filtering": 9,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "war.of.islands",
+        "total_requests": 8,
+        "requests_after_filtering": 6,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "de.zalando.lounge",
+        "total_requests": 8,
+        "requests_after_filtering": 6,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "Stocard",
+        "total_requests": 8,
+        "requests_after_filtering": 6,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "io.state.fight",
+        "total_requests": 8,
+        "requests_after_filtering": 6,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "net.atos.spth",
+        "total_requests": 8,
+        "requests_after_filtering": 6,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.25
+    },
+    {
+        "name": "co.allconnected.speedtest",
+        "total_requests": 69,
+        "requests_after_filtering": 52,
+        "blocked_requests": 17,
+        "blocked_ratio": 0.2463768115942029
+    },
+    {
+        "name": "com.cardinalblue.PicCollage",
+        "total_requests": 37,
+        "requests_after_filtering": 28,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.24324324324324326
+    },
+    {
+        "name": "de.taxfix.Taxfix",
+        "total_requests": 33,
+        "requests_after_filtering": 25,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.24242424242424243
+    },
+    {
+        "name": "de.brunogehalt.Bruno",
+        "total_requests": 29,
+        "requests_after_filtering": 22,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.2413793103448276
+    },
+    {
+        "name": "com.pickery.app",
+        "total_requests": 25,
+        "requests_after_filtering": 19,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.24
+    },
+    {
+        "name": "de.thesimpleclub.thesimpleclub.ios",
+        "total_requests": 25,
+        "requests_after_filtering": 19,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.24
+    },
+    {
+        "name": "com.modanisa.iPhone",
+        "total_requests": 42,
+        "requests_after_filtering": 32,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.23809523809523808
+    },
+    {
+        "name": "at.runtastic.gpssportapp",
+        "total_requests": 34,
+        "requests_after_filtering": 26,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.23529411764705882
+    },
+    {
+        "name": "com.costarastrology.costar-mobile",
+        "total_requests": 17,
+        "requests_after_filtering": 13,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.23529411764705882
+    },
+    {
+        "name": "de.ideawise.popcorn",
+        "total_requests": 17,
+        "requests_after_filtering": 13,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.23529411764705882
+    },
+    {
+        "name": "com.soundcloud.TouchApp",
+        "total_requests": 17,
+        "requests_after_filtering": 13,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.23529411764705882
+    },
+    {
+        "name": "scannerapp.free",
+        "total_requests": 77,
+        "requests_after_filtering": 59,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.23376623376623376
+    },
+    {
+        "name": "app.scanz",
+        "total_requests": 13,
+        "requests_after_filtering": 10,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.23076923076923078
+    },
+    {
+        "name": "com.lightricks.Enlight-Video",
+        "total_requests": 26,
+        "requests_after_filtering": 20,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.23076923076923078
+    },
+    {
+        "name": "com.gopro.GoPro",
+        "total_requests": 26,
+        "requests_after_filtering": 20,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.23076923076923078
+    },
+    {
+        "name": "com.opera.OperaTouch",
+        "total_requests": 13,
+        "requests_after_filtering": 10,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.23076923076923078
+    },
+    {
+        "name": "com.sergey-gerasimenko.EasyDocScan",
+        "total_requests": 13,
+        "requests_after_filtering": 10,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.23076923076923078
+    },
+    {
+        "name": "com.smmservice.pdfeditor",
+        "total_requests": 13,
+        "requests_after_filtering": 10,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.23076923076923078
+    },
+    {
+        "name": "com.kicktipp.kicktippiphone",
+        "total_requests": 35,
+        "requests_after_filtering": 27,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.22857142857142856
+    },
+    {
+        "name": "com.mojiedit.mojiedit",
+        "total_requests": 35,
+        "requests_after_filtering": 27,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.22857142857142856
+    },
+    {
+        "name": "com.robtop.geometryjumplite",
+        "total_requests": 35,
+        "requests_after_filtering": 27,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.22857142857142856
+    },
+    {
+        "name": "com.opera.OperaNews",
+        "total_requests": 35,
+        "requests_after_filtering": 27,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.22857142857142856
+    },
+    {
+        "name": "de.limango.shop",
+        "total_requests": 35,
+        "requests_after_filtering": 27,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.22857142857142856
+    },
+    {
+        "name": "com.driving.sim2021.cargame",
+        "total_requests": 101,
+        "requests_after_filtering": 78,
+        "blocked_requests": 23,
+        "blocked_ratio": 0.22772277227722773
+    },
+    {
+        "name": "de.fastic.app",
+        "total_requests": 31,
+        "requests_after_filtering": 24,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.22580645161290322
+    },
+    {
+        "name": "com.instancea.Kata",
+        "total_requests": 58,
+        "requests_after_filtering": 45,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.22413793103448276
+    },
+    {
+        "name": "com.dreamgames.royalmatch",
+        "total_requests": 27,
+        "requests_after_filtering": 21,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.2222222222222222
+    },
+    {
+        "name": "swc",
+        "total_requests": 18,
+        "requests_after_filtering": 14,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2222222222222222
+    },
+    {
+        "name": "com.nordcurrent.fashion",
+        "total_requests": 9,
+        "requests_after_filtering": 7,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2222222222222222
+    },
+    {
+        "name": "com.quok.blobRunner",
+        "total_requests": 9,
+        "requests_after_filtering": 7,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2222222222222222
+    },
+    {
+        "name": "com.symantec.securewifi",
+        "total_requests": 18,
+        "requests_after_filtering": 14,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2222222222222222
+    },
+    {
+        "name": "de.wetteronline.WetterApp",
+        "total_requests": 81,
+        "requests_after_filtering": 63,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.2222222222222222
+    },
+    {
+        "name": "de.otto.shop",
+        "total_requests": 27,
+        "requests_after_filtering": 21,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.2222222222222222
+    },
+    {
+        "name": "com.mars.avgchapters",
+        "total_requests": 109,
+        "requests_after_filtering": 85,
+        "blocked_requests": 24,
+        "blocked_ratio": 0.22018348623853212
+    },
+    {
+        "name": "iDeC.SteveWidget",
+        "total_requests": 50,
+        "requests_after_filtering": 39,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.22
+    },
+    {
+        "name": "com.fingersoft.hillclimbracing",
+        "total_requests": 105,
+        "requests_after_filtering": 82,
+        "blocked_requests": 23,
+        "blocked_ratio": 0.21904761904761905
+    },
+    {
+        "name": "com.appmind.germanyradios",
+        "total_requests": 115,
+        "requests_after_filtering": 90,
+        "blocked_requests": 25,
+        "blocked_ratio": 0.21739130434782608
+    },
+    {
+        "name": "com.kiss2go.iphone",
+        "total_requests": 23,
+        "requests_after_filtering": 18,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.21739130434782608
+    },
+    {
+        "name": "com.mobiblocks.McDonaldsCouponsiPhone",
+        "total_requests": 51,
+        "requests_after_filtering": 40,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.21568627450980393
+    },
+    {
+        "name": "com.aplicativoslegais.Memes-For-WhatsApp",
+        "total_requests": 84,
+        "requests_after_filtering": 66,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.21428571428571427
+    },
+    {
+        "name": "com.dpd.dpdAllgemein",
+        "total_requests": 14,
+        "requests_after_filtering": 11,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.21428571428571427
+    },
+    {
+        "name": "com.socialchain.blockchainvault",
+        "total_requests": 14,
+        "requests_after_filtering": 11,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.21428571428571427
+    },
+    {
+        "name": "com.outerspaceapps.itranslate",
+        "total_requests": 28,
+        "requests_after_filtering": 22,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.21428571428571427
+    },
+    {
+        "name": "com.samsung.gearwatch",
+        "total_requests": 14,
+        "requests_after_filtering": 11,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.21428571428571427
+    },
+    {
+        "name": "com.uberblic.ParcelTrack",
+        "total_requests": 14,
+        "requests_after_filtering": 11,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.21428571428571427
+    },
+    {
+        "name": "com.vfs.vibrator",
+        "total_requests": 14,
+        "requests_after_filtering": 11,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.21428571428571427
+    },
+    {
+        "name": "com.yazio.ios.YAZIO",
+        "total_requests": 14,
+        "requests_after_filtering": 11,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.21428571428571427
+    },
+    {
+        "name": "solutions.wzp.translator",
+        "total_requests": 14,
+        "requests_after_filtering": 11,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.21428571428571427
+    },
+    {
+        "name": "com.brainbow.peakprod",
+        "total_requests": 33,
+        "requests_after_filtering": 26,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.21212121212121213
+    },
+    {
+        "name": "com.finderly.shpock",
+        "total_requests": 38,
+        "requests_after_filtering": 30,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.21052631578947367
+    },
+    {
+        "name": "com.spotify.client",
+        "total_requests": 19,
+        "requests_after_filtering": 15,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.21052631578947367
+    },
+    {
+        "name": "de.immonet.iphone",
+        "total_requests": 38,
+        "requests_after_filtering": 30,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.21052631578947367
+    },
+    {
+        "name": "com.smule.sing",
+        "total_requests": 24,
+        "requests_after_filtering": 19,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.20833333333333334
+    },
+    {
+        "name": "de.hermes-europe.hermes",
+        "total_requests": 24,
+        "requests_after_filtering": 19,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.20833333333333334
+    },
+    {
+        "name": "se.resenatverket.FlightRadar24-Free",
+        "total_requests": 24,
+        "requests_after_filtering": 19,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.20833333333333334
+    },
+    {
+        "name": "com.microblink.PhotoMath",
+        "total_requests": 34,
+        "requests_after_filtering": 27,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.20588235294117646
+    },
+    {
+        "name": "com.quizlet.quizlet",
+        "total_requests": 34,
+        "requests_after_filtering": 27,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.20588235294117646
+    },
+    {
+        "name": "com.babbel.babbelMulti",
+        "total_requests": 39,
+        "requests_after_filtering": 31,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.20512820512820512
+    },
+    {
+        "name": "com.chillfleet.buddy",
+        "total_requests": 49,
+        "requests_after_filtering": 39,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.20408163265306123
+    },
+    {
+        "name": "com.dazz.hoop",
+        "total_requests": 64,
+        "requests_after_filtering": 51,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.203125
+    },
+    {
+        "name": "com.dazn.theApp",
+        "total_requests": 30,
+        "requests_after_filtering": 24,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.chess.iphone",
+        "total_requests": 15,
+        "requests_after_filtering": 12,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.google.GoogleMobile",
+        "total_requests": 10,
+        "requests_after_filtering": 8,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.crunchyroll.iphone",
+        "total_requests": 20,
+        "requests_after_filtering": 16,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.gameloft.despicableme2",
+        "total_requests": 10,
+        "requests_after_filtering": 8,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.lightricks.Enlight-Photos",
+        "total_requests": 25,
+        "requests_after_filtering": 20,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.inditex.zara.iphone",
+        "total_requests": 15,
+        "requests_after_filtering": 12,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.learnu.ios",
+        "total_requests": 10,
+        "requests_after_filtering": 8,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.playstation.eu.playstationadhoc",
+        "total_requests": 20,
+        "requests_after_filtering": 16,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "de.bioscientia.docnet.app.corona",
+        "total_requests": 5,
+        "requests_after_filtering": 4,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.readdle.CalendarsLite",
+        "total_requests": 10,
+        "requests_after_filtering": 8,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.popcap.ios.PvZ2",
+        "total_requests": 10,
+        "requests_after_filtering": 8,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.sonos.SonosController2",
+        "total_requests": 5,
+        "requests_after_filtering": 4,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.thousandblade.InsightPlus",
+        "total_requests": 10,
+        "requests_after_filtering": 8,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.weightwatchers.wwmobile",
+        "total_requests": 15,
+        "requests_after_filtering": 12,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.Yannick.SpiderDoll",
+        "total_requests": 5,
+        "requests_after_filtering": 4,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "de.eventim.iphoneapp",
+        "total_requests": 5,
+        "requests_after_filtering": 4,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "de.klarmobil.kundenservice",
+        "total_requests": 5,
+        "requests_after_filtering": 4,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "de.rossmann.fotowelt",
+        "total_requests": 20,
+        "requests_after_filtering": 16,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "io.cleanfox.ios",
+        "total_requests": 10,
+        "requests_after_filtering": 8,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "no.mobitroll.kahoot.controller",
+        "total_requests": 30,
+        "requests_after_filtering": 24,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.2
+    },
+    {
+        "name": "com.nordcurrent.canteenhd",
+        "total_requests": 86,
+        "requests_after_filtering": 69,
+        "blocked_requests": 17,
+        "blocked_ratio": 0.19767441860465115
+    },
+    {
+        "name": "game.block.puzzles.iq",
+        "total_requests": 123,
+        "requests_after_filtering": 99,
+        "blocked_requests": 24,
+        "blocked_ratio": 0.1951219512195122
+    },
+    {
+        "name": "org.venture361.Reportly",
+        "total_requests": 31,
+        "requests_after_filtering": 25,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.1935483870967742
+    },
+    {
+        "name": "com.iscoolentertainment.snc",
+        "total_requests": 88,
+        "requests_after_filtering": 71,
+        "blocked_requests": 17,
+        "blocked_ratio": 0.19318181818181818
+    },
+    {
+        "name": "com.vivid.money",
+        "total_requests": 26,
+        "requests_after_filtering": 21,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.19230769230769232
+    },
+    {
+        "name": "com.Stickers.ColorfulStickers",
+        "total_requests": 84,
+        "requests_after_filtering": 68,
+        "blocked_requests": 16,
+        "blocked_ratio": 0.19047619047619047
+    },
+    {
+        "name": "com.voiapp.voi",
+        "total_requests": 21,
+        "requests_after_filtering": 17,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.19047619047619047
+    },
+    {
+        "name": "de.immowelt.immoweltapp",
+        "total_requests": 42,
+        "requests_after_filtering": 34,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.19047619047619047
+    },
+    {
+        "name": "com.rxsj.ios.en4399",
+        "total_requests": 21,
+        "requests_after_filtering": 17,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.19047619047619047
+    },
+    {
+        "name": "com.app.reportspro",
+        "total_requests": 37,
+        "requests_after_filtering": 30,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.1891891891891892
+    },
+    {
+        "name": "com.picsart.studio",
+        "total_requests": 53,
+        "requests_after_filtering": 43,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.18867924528301888
+    },
+    {
+        "name": "com.attapoll.ios",
+        "total_requests": 16,
+        "requests_after_filtering": 13,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1875
+    },
+    {
+        "name": "com.ndident.prod",
+        "total_requests": 16,
+        "requests_after_filtering": 13,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1875
+    },
+    {
+        "name": "com.inditex.pullbear",
+        "total_requests": 16,
+        "requests_after_filtering": 13,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1875
+    },
+    {
+        "name": "com.park-now.app",
+        "total_requests": 16,
+        "requests_after_filtering": 13,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1875
+    },
+    {
+        "name": "com.valuephone.nettoOfferFinder",
+        "total_requests": 16,
+        "requests_after_filtering": 13,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1875
+    },
+    {
+        "name": "fontskeyboard.fonts",
+        "total_requests": 16,
+        "requests_after_filtering": 13,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1875
+    },
+    {
+        "name": "de.radio.",
+        "total_requests": 59,
+        "requests_after_filtering": 48,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.1864406779661017
+    },
+    {
+        "name": "com.igtracker.insights",
+        "total_requests": 86,
+        "requests_after_filtering": 70,
+        "blocked_requests": 16,
+        "blocked_ratio": 0.18604651162790697
+    },
+    {
+        "name": "de.brance.momfit",
+        "total_requests": 27,
+        "requests_after_filtering": 22,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.18518518518518517
+    },
+    {
+        "name": "com.sptube.browser",
+        "total_requests": 71,
+        "requests_after_filtering": 58,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.18309859154929578
+    },
+    {
+        "name": "ch.publisheria.bring",
+        "total_requests": 22,
+        "requests_after_filtering": 18,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "com.abishkking.periodcalendar",
+        "total_requests": 11,
+        "requests_after_filtering": 9,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "com.iteration-mobile.radarbot-free-ww",
+        "total_requests": 44,
+        "requests_after_filtering": 36,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "com.jaumo.iphoneapp",
+        "total_requests": 22,
+        "requests_after_filtering": 18,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "com.igg.ios.lordsmobile",
+        "total_requests": 22,
+        "requests_after_filtering": 18,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "com.limebike",
+        "total_requests": 22,
+        "requests_after_filtering": 18,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "com.rewe.iosapp",
+        "total_requests": 11,
+        "requests_after_filtering": 9,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "com.pg.pampersclubde.1617.am.0070",
+        "total_requests": 33,
+        "requests_after_filtering": 27,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "de.ikkclassic.one",
+        "total_requests": 11,
+        "requests_after_filtering": 9,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "de.lotum.4pics1word",
+        "total_requests": 77,
+        "requests_after_filtering": 63,
+        "blocked_requests": 14,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "net.easypark.app",
+        "total_requests": 22,
+        "requests_after_filtering": 18,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.18181818181818182
+    },
+    {
+        "name": "com.slippy.linerusher",
+        "total_requests": 127,
+        "requests_after_filtering": 104,
+        "blocked_requests": 23,
+        "blocked_ratio": 0.18110236220472442
+    },
+    {
+        "name": "eu.pons.dictionary",
+        "total_requests": 39,
+        "requests_after_filtering": 32,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.1794871794871795
+    },
+    {
+        "name": "com.baidujp.SimejiIntl",
+        "total_requests": 140,
+        "requests_after_filtering": 115,
+        "blocked_requests": 25,
+        "blocked_ratio": 0.17857142857142858
+    },
+    {
+        "name": "com.ifisek.instareportapp",
+        "total_requests": 84,
+        "requests_after_filtering": 69,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.17857142857142858
+    },
+    {
+        "name": "com.abishkking.loseweight",
+        "total_requests": 17,
+        "requests_after_filtering": 14,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.17647058823529413
+    },
+    {
+        "name": "com.bitpanda.bitpanda",
+        "total_requests": 34,
+        "requests_after_filtering": 28,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.17647058823529413
+    },
+    {
+        "name": "com.braindom2riddle",
+        "total_requests": 51,
+        "requests_after_filtering": 42,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.17647058823529413
+    },
+    {
+        "name": "com.gunthermarktl.stepapp",
+        "total_requests": 17,
+        "requests_after_filtering": 14,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.17647058823529413
+    },
+    {
+        "name": "com.igraal.cashback",
+        "total_requests": 17,
+        "requests_after_filtering": 14,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.17647058823529413
+    },
+    {
+        "name": "com.lightricks.Facetune2",
+        "total_requests": 23,
+        "requests_after_filtering": 19,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.17391304347826086
+    },
+    {
+        "name": "com.miniclip.8ballpoolmult",
+        "total_requests": 23,
+        "requests_after_filtering": 19,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.17391304347826086
+    },
+    {
+        "name": "com.mind.quiz.brain.out",
+        "total_requests": 23,
+        "requests_after_filtering": 19,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.17391304347826086
+    },
+    {
+        "name": "com.twodestudios.dodgemaster",
+        "total_requests": 23,
+        "requests_after_filtering": 19,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.17391304347826086
+    },
+    {
+        "name": "com.thebinaryfamily.wissenstraining.free",
+        "total_requests": 58,
+        "requests_after_filtering": 48,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.1724137931034483
+    },
+    {
+        "name": "com.cewecolor.cewefotowelt",
+        "total_requests": 35,
+        "requests_after_filtering": 29,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.17142857142857143
+    },
+    {
+        "name": "eu.thalia.app",
+        "total_requests": 35,
+        "requests_after_filtering": 29,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.17142857142857143
+    },
+    {
+        "name": "com.collage.belka",
+        "total_requests": 76,
+        "requests_after_filtering": 63,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.17105263157894737
+    },
+    {
+        "name": "com.appgo.glassvpn",
+        "total_requests": 18,
+        "requests_after_filtering": 15,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.adamszedelyi.snapme",
+        "total_requests": 6,
+        "requests_after_filtering": 5,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.aftership.AfterShip",
+        "total_requests": 18,
+        "requests_after_filtering": 15,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.amelosinteractive.snake",
+        "total_requests": 12,
+        "requests_after_filtering": 10,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.arvato.afterpay.international",
+        "total_requests": 6,
+        "requests_after_filtering": 5,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.cardify.tinder",
+        "total_requests": 18,
+        "requests_after_filtering": 15,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.lightricks.FacetuneVideo",
+        "total_requests": 24,
+        "requests_after_filtering": 20,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.highcore.giantrush",
+        "total_requests": 96,
+        "requests_after_filtering": 80,
+        "blocked_requests": 16,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.logmein.gotomeeting",
+        "total_requests": 12,
+        "requests_after_filtering": 10,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.justbook.JustBook",
+        "total_requests": 24,
+        "requests_after_filtering": 20,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.kiloo.subwaysurfers",
+        "total_requests": 12,
+        "requests_after_filtering": 10,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.musica.ios",
+        "total_requests": 102,
+        "requests_after_filtering": 85,
+        "blocked_requests": 17,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "cz.nmbbrno.covid",
+        "total_requests": 12,
+        "requests_after_filtering": 10,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.thinxnet.tanktaler",
+        "total_requests": 12,
+        "requests_after_filtering": 10,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "de.arbeitsagentur.bka",
+        "total_requests": 6,
+        "requests_after_filtering": 5,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "com.unitedinternet.mmc.mobile.gmx.iosmailer",
+        "total_requests": 12,
+        "requests_after_filtering": 10,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "de.web.mobilenavigator",
+        "total_requests": 12,
+        "requests_after_filtering": 10,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "de.bottledsoftware.123Tanken",
+        "total_requests": 12,
+        "requests_after_filtering": 10,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "de.bvg.ticket",
+        "total_requests": 6,
+        "requests_after_filtering": 5,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "de.uniq.snkraddicted.app",
+        "total_requests": 18,
+        "requests_after_filtering": 15,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "de.zdf.mediathek.universal",
+        "total_requests": 6,
+        "requests_after_filtering": 5,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "fddb.mobile.ios",
+        "total_requests": 18,
+        "requests_after_filtering": 15,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "net.peakgames.toonblast",
+        "total_requests": 6,
+        "requests_after_filtering": 5,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.16666666666666666
+    },
+    {
+        "name": "de.transfermarkt.v2",
+        "total_requests": 109,
+        "requests_after_filtering": 91,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.1651376146788991
+    },
+    {
+        "name": "com.vestiairedecopines.vestiaire",
+        "total_requests": 49,
+        "requests_after_filtering": 41,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.16326530612244897
+    },
+    {
+        "name": "com.happymagenta.fromcore",
+        "total_requests": 135,
+        "requests_after_filtering": 113,
+        "blocked_requests": 22,
+        "blocked_ratio": 0.16296296296296298
+    },
+    {
+        "name": "com.playstrom.bob",
+        "total_requests": 31,
+        "requests_after_filtering": 26,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.16129032258064516
+    },
+    {
+        "name": "com.amanotes.magictiles",
+        "total_requests": 112,
+        "requests_after_filtering": 94,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.16071428571428573
+    },
+    {
+        "name": "com.ovilex.drivingschoolsim",
+        "total_requests": 50,
+        "requests_after_filtering": 42,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.16
+    },
+    {
+        "name": "com.what3words.ios.what3words",
+        "total_requests": 25,
+        "requests_after_filtering": 21,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.16
+    },
+    {
+        "name": "co.bird.Ride",
+        "total_requests": 19,
+        "requests_after_filtering": 16,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.15789473684210525
+    },
+    {
+        "name": "de.uniq.ps.app",
+        "total_requests": 19,
+        "requests_after_filtering": 16,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.15789473684210525
+    },
+    {
+        "name": "de.olympiaverlag.kicker.kickeronline",
+        "total_requests": 38,
+        "requests_after_filtering": 32,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.15789473684210525
+    },
+    {
+        "name": "com.smo.deepcleaninc3d",
+        "total_requests": 223,
+        "requests_after_filtering": 188,
+        "blocked_requests": 35,
+        "blocked_ratio": 0.15695067264573992
+    },
+    {
+        "name": "com.babyeducationtoys.fashionstyle",
+        "total_requests": 51,
+        "requests_after_filtering": 43,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.1568627450980392
+    },
+    {
+        "name": "de.idealo.Idealo",
+        "total_requests": 45,
+        "requests_after_filtering": 38,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.15555555555555556
+    },
+    {
+        "name": "com.logmein.gotowebinar",
+        "total_requests": 13,
+        "requests_after_filtering": 11,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.15384615384615385
+    },
+    {
+        "name": "com.lebleby.gearrace",
+        "total_requests": 13,
+        "requests_after_filtering": 11,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.15384615384615385
+    },
+    {
+        "name": "com.panoramik.forgeofgodsblitz",
+        "total_requests": 26,
+        "requests_after_filtering": 22,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.15384615384615385
+    },
+    {
+        "name": "com.philips.lighting.hue2",
+        "total_requests": 13,
+        "requests_after_filtering": 11,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.15384615384615385
+    },
+    {
+        "name": "com.uefa.euro2016",
+        "total_requests": 39,
+        "requests_after_filtering": 33,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.15384615384615385
+    },
+    {
+        "name": "de.avm.fritzappwlan",
+        "total_requests": 13,
+        "requests_after_filtering": 11,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.15384615384615385
+    },
+    {
+        "name": "com.ducnguyen.watchd",
+        "total_requests": 59,
+        "requests_after_filtering": 50,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.15254237288135594
+    },
+    {
+        "name": "com.wayfair.WayfairApp",
+        "total_requests": 33,
+        "requests_after_filtering": 28,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.15151515151515152
+    },
+    {
+        "name": "com.momox.momox",
+        "total_requests": 20,
+        "requests_after_filtering": 17,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.15
+    },
+    {
+        "name": "com.momox.momoxFashion",
+        "total_requests": 20,
+        "requests_after_filtering": 17,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.15
+    },
+    {
+        "name": "com.verv.app",
+        "total_requests": 20,
+        "requests_after_filtering": 17,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.15
+    },
+    {
+        "name": "com.vilcsak.bitcoin2",
+        "total_requests": 20,
+        "requests_after_filtering": 17,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.15
+    },
+    {
+        "name": "pinterest",
+        "total_requests": 40,
+        "requests_after_filtering": 34,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.15
+    },
+    {
+        "name": "net.actionverite.avfranceinapp",
+        "total_requests": 20,
+        "requests_after_filtering": 17,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.15
+    },
+    {
+        "name": "com.homiebearstudio.ufoidle",
+        "total_requests": 134,
+        "requests_after_filtering": 114,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.14925373134328357
+    },
+    {
+        "name": "com.alien.shooter.galaxy.attack",
+        "total_requests": 101,
+        "requests_after_filtering": 86,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.1485148514851485
+    },
+    {
+        "name": "mytown.cinema.free",
+        "total_requests": 101,
+        "requests_after_filtering": 86,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.1485148514851485
+    },
+    {
+        "name": "com.autoscout24.lab",
+        "total_requests": 27,
+        "requests_after_filtering": 23,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.14814814814814814
+    },
+    {
+        "name": "de.tui.meinetui",
+        "total_requests": 27,
+        "requests_after_filtering": 23,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.14814814814814814
+    },
+    {
+        "name": "com.game.colorslime",
+        "total_requests": 184,
+        "requests_after_filtering": 157,
+        "blocked_requests": 27,
+        "blocked_ratio": 0.14673913043478262
+    },
+    {
+        "name": "com.holidu.holidu",
+        "total_requests": 55,
+        "requests_after_filtering": 47,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.14545454545454545
+    },
+    {
+        "name": "bp.rmaster.free",
+        "total_requests": 69,
+        "requests_after_filtering": 59,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.14492753623188406
+    },
+    {
+        "name": "archery.storify",
+        "total_requests": 21,
+        "requests_after_filtering": 18,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.bestsecret.BestSecret",
+        "total_requests": 7,
+        "requests_after_filtering": 6,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.camerasideas.InstaShot",
+        "total_requests": 35,
+        "requests_after_filtering": 30,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.dbmeterpro.dB-Meter-Free",
+        "total_requests": 21,
+        "requests_after_filtering": 18,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.capp.cappuccino",
+        "total_requests": 28,
+        "requests_after_filtering": 24,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "de.motain.iliga",
+        "total_requests": 105,
+        "requests_after_filtering": 90,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.google.ios.ytcreator",
+        "total_requests": 14,
+        "requests_after_filtering": 12,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.google.LightCycle",
+        "total_requests": 7,
+        "requests_after_filtering": 6,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.futurekeyapp",
+        "total_requests": 28,
+        "requests_after_filtering": 24,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.lightricks.Enlight-Phoenix",
+        "total_requests": 28,
+        "requests_after_filtering": 24,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.wetransfer.app",
+        "total_requests": 21,
+        "requests_after_filtering": 18,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.jd.jdsports",
+        "total_requests": 28,
+        "requests_after_filtering": 24,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.kura.save",
+        "total_requests": 14,
+        "requests_after_filtering": 12,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.life360.safetymap",
+        "total_requests": 28,
+        "requests_after_filtering": 24,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.mcafee.mms",
+        "total_requests": 21,
+        "requests_after_filtering": 18,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.midasplayer.apps.crash",
+        "total_requests": 7,
+        "requests_after_filtering": 6,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.strava.stravaride",
+        "total_requests": 21,
+        "requests_after_filtering": 18,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.thetrainline.iphone",
+        "total_requests": 21,
+        "requests_after_filtering": 18,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.tangramgames.wordcrush.ios.de",
+        "total_requests": 14,
+        "requests_after_filtering": 12,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.thehungrywasp.iamsober",
+        "total_requests": 21,
+        "requests_after_filtering": 18,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "de.congstar.meincongstar",
+        "total_requests": 7,
+        "requests_after_filtering": 6,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "de.knowunity.app",
+        "total_requests": 28,
+        "requests_after_filtering": 24,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.14285714285714285
+    },
+    {
+        "name": "com.azurgames.stackball",
+        "total_requests": 249,
+        "requests_after_filtering": 214,
+        "blocked_requests": 35,
+        "blocked_ratio": 0.14056224899598393
+    },
+    {
+        "name": "com.peoplefun.wordcross",
+        "total_requests": 107,
+        "requests_after_filtering": 92,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.14018691588785046
+    },
+    {
+        "name": "com.fidget.buttons.antistresskit.box.ktale",
+        "total_requests": 143,
+        "requests_after_filtering": 123,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.13986013986013987
+    },
+    {
+        "name": "com.fanatee.stop",
+        "total_requests": 93,
+        "requests_after_filtering": 80,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.13978494623655913
+    },
+    {
+        "name": "com.codexivetechlimited.lifeseeker",
+        "total_requests": 36,
+        "requests_after_filtering": 31,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.1388888888888889
+    },
+    {
+        "name": "com.freegame.wordconnect.de",
+        "total_requests": 29,
+        "requests_after_filtering": 25,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.13793103448275862
+    },
+    {
+        "name": "com.tocaboca.tocalifeworld",
+        "total_requests": 29,
+        "requests_after_filtering": 25,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.13793103448275862
+    },
+    {
+        "name": "com.red.business",
+        "total_requests": 153,
+        "requests_after_filtering": 132,
+        "blocked_requests": 21,
+        "blocked_ratio": 0.13725490196078433
+    },
+    {
+        "name": "com.opodo.flights",
+        "total_requests": 51,
+        "requests_after_filtering": 44,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.13725490196078433
+    },
+    {
+        "name": "com.driveby.app",
+        "total_requests": 22,
+        "requests_after_filtering": 19,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.13636363636363635
+    },
+    {
+        "name": "com.journiapp.book",
+        "total_requests": 37,
+        "requests_after_filtering": 32,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.13513513513513514
+    },
+    {
+        "name": "de.sky.skyonline",
+        "total_requests": 52,
+        "requests_after_filtering": 45,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.1346153846153846
+    },
+    {
+        "name": "com.asos.asos",
+        "total_requests": 75,
+        "requests_after_filtering": 65,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.13333333333333333
+    },
+    {
+        "name": "com.ea.ios.fifamobile",
+        "total_requests": 15,
+        "requests_after_filtering": 13,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.13333333333333333
+    },
+    {
+        "name": "com.Garawell.BridgeRace",
+        "total_requests": 15,
+        "requests_after_filtering": 13,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.13333333333333333
+    },
+    {
+        "name": "com.elokence.akinator.free",
+        "total_requests": 189,
+        "requests_after_filtering": 164,
+        "blocked_requests": 25,
+        "blocked_ratio": 0.13227513227513227
+    },
+    {
+        "name": "com.superbox.ios.fire2048",
+        "total_requests": 106,
+        "requests_after_filtering": 92,
+        "blocked_requests": 14,
+        "blocked_ratio": 0.1320754716981132
+    },
+    {
+        "name": "com.rebuy.App",
+        "total_requests": 38,
+        "requests_after_filtering": 33,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.13157894736842105
+    },
+    {
+        "name": "com.syubestgames.teachersimulator",
+        "total_requests": 245,
+        "requests_after_filtering": 213,
+        "blocked_requests": 32,
+        "blocked_ratio": 0.1306122448979592
+    },
+    {
+        "name": "at.ner.SolitaireNewFree",
+        "total_requests": 23,
+        "requests_after_filtering": 20,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.13043478260869565
+    },
+    {
+        "name": "de.sky.skysportapp",
+        "total_requests": 23,
+        "requests_after_filtering": 20,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.13043478260869565
+    },
+    {
+        "name": "com.mattel163.uno",
+        "total_requests": 77,
+        "requests_after_filtering": 67,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.12987012987012986
+    },
+    {
+        "name": "com.easybrain.blockudoku",
+        "total_requests": 31,
+        "requests_after_filtering": 27,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.12903225806451613
+    },
+    {
+        "name": "com.mayur.animaltransform",
+        "total_requests": 93,
+        "requests_after_filtering": 81,
+        "blocked_requests": 12,
+        "blocked_ratio": 0.12903225806451613
+    },
+    {
+        "name": "com.pacer.pacerapp",
+        "total_requests": 31,
+        "requests_after_filtering": 27,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.12903225806451613
+    },
+    {
+        "name": "com.gma.water.connect.puzzle",
+        "total_requests": 156,
+        "requests_after_filtering": 136,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.1282051282051282
+    },
+    {
+        "name": "com.hyper.slingplane",
+        "total_requests": 196,
+        "requests_after_filtering": 171,
+        "blocked_requests": 25,
+        "blocked_ratio": 0.12755102040816327
+    },
+    {
+        "name": "com.wgmb.angularkendo",
+        "total_requests": 55,
+        "requests_after_filtering": 48,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.12727272727272726
+    },
+    {
+        "name": "com.ewa.ewaapp",
+        "total_requests": 63,
+        "requests_after_filtering": 55,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.12698412698412698
+    },
+    {
+        "name": "com.gma.water.sort.puzzle",
+        "total_requests": 134,
+        "requests_after_filtering": 117,
+        "blocked_requests": 17,
+        "blocked_ratio": 0.12686567164179105
+    },
+    {
+        "name": "com.mattel163.phase10",
+        "total_requests": 71,
+        "requests_after_filtering": 62,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.1267605633802817
+    },
+    {
+        "name": "com.tunein.TuneInRadio",
+        "total_requests": 71,
+        "requests_after_filtering": 62,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.1267605633802817
+    },
+    {
+        "name": "com.hp.babylite",
+        "total_requests": 24,
+        "requests_after_filtering": 21,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.ingka.ikea.app",
+        "total_requests": 8,
+        "requests_after_filtering": 7,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.joom.joom",
+        "total_requests": 48,
+        "requests_after_filtering": 42,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.path36.SpliceFree",
+        "total_requests": 56,
+        "requests_after_filtering": 49,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.myfitnesspal.mfp",
+        "total_requests": 40,
+        "requests_after_filtering": 35,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.ovelin.guitartuna",
+        "total_requests": 16,
+        "requests_after_filtering": 14,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.reddit.Reddit",
+        "total_requests": 16,
+        "requests_after_filtering": 14,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.zhiliaoapp.musically",
+        "total_requests": 16,
+        "requests_after_filtering": 14,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.tonies.app",
+        "total_requests": 8,
+        "requests_after_filtering": 7,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.vova.ios",
+        "total_requests": 24,
+        "requests_after_filtering": 21,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "de.rki.impf-infos",
+        "total_requests": 8,
+        "requests_after_filtering": 7,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "ios.catwalk.fashion.star",
+        "total_requests": 16,
+        "requests_after_filtering": 14,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "de.vaccpro.vaccpro",
+        "total_requests": 8,
+        "requests_after_filtering": 7,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.125
+    },
+    {
+        "name": "com.kwalee.makeoverstudio",
+        "total_requests": 243,
+        "requests_after_filtering": 213,
+        "blocked_requests": 30,
+        "blocked_ratio": 0.12345679012345678
+    },
+    {
+        "name": "com.indeed.JobSearch",
+        "total_requests": 73,
+        "requests_after_filtering": 64,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.1232876712328767
+    },
+    {
+        "name": "com.fivemobile.wattpad",
+        "total_requests": 49,
+        "requests_after_filtering": 43,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.12244897959183673
+    },
+    {
+        "name": "com.gjg.colorfill3d",
+        "total_requests": 172,
+        "requests_after_filtering": 151,
+        "blocked_requests": 21,
+        "blocked_ratio": 0.12209302325581395
+    },
+    {
+        "name": "com.gamestart.hypergasstation3d",
+        "total_requests": 66,
+        "requests_after_filtering": 58,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.12121212121212122
+    },
+    {
+        "name": "com.adidas.app",
+        "total_requests": 25,
+        "requests_after_filtering": 22,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.12
+    },
+    {
+        "name": "com.deezer.Deezer",
+        "total_requests": 25,
+        "requests_after_filtering": 22,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.12
+    },
+    {
+        "name": "com.mango.2010",
+        "total_requests": 25,
+        "requests_after_filtering": 22,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.12
+    },
+    {
+        "name": "net.bitburst.pollpay",
+        "total_requests": 25,
+        "requests_after_filtering": 22,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.12
+    },
+    {
+        "name": "com.yottagames.gameofmafia",
+        "total_requests": 25,
+        "requests_after_filtering": 22,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.12
+    },
+    {
+        "name": "com.coinmarketcap.CoinMarketCap",
+        "total_requests": 17,
+        "requests_after_filtering": 15,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.11764705882352941
+    },
+    {
+        "name": "com.reflectly.app",
+        "total_requests": 17,
+        "requests_after_filtering": 15,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.11764705882352941
+    },
+    {
+        "name": "com.westernunion.mtr3app.eu",
+        "total_requests": 17,
+        "requests_after_filtering": 15,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.11764705882352941
+    },
+    {
+        "name": "com.gorilla.brass",
+        "total_requests": 358,
+        "requests_after_filtering": 316,
+        "blocked_requests": 42,
+        "blocked_ratio": 0.11731843575418995
+    },
+    {
+        "name": "com.amanotes.bh",
+        "total_requests": 145,
+        "requests_after_filtering": 128,
+        "blocked_requests": 17,
+        "blocked_ratio": 0.11724137931034483
+    },
+    {
+        "name": "com.whiteroom.crazydelivery",
+        "total_requests": 128,
+        "requests_after_filtering": 113,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.1171875
+    },
+    {
+        "name": "de.pixelhouse.chefkoch-iphone",
+        "total_requests": 43,
+        "requests_after_filtering": 38,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.11627906976744186
+    },
+    {
+        "name": "com.madfut.madfut21",
+        "total_requests": 112,
+        "requests_after_filtering": 99,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.11607142857142858
+    },
+    {
+        "name": "com.hammerandchisel.discord",
+        "total_requests": 52,
+        "requests_after_filtering": 46,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.11538461538461539
+    },
+    {
+        "name": "com.abishkking.maleworkout",
+        "total_requests": 52,
+        "requests_after_filtering": 46,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.11538461538461539
+    },
+    {
+        "name": "com.wholee",
+        "total_requests": 52,
+        "requests_after_filtering": 46,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.11538461538461539
+    },
+    {
+        "name": "com.woltapp.wolt",
+        "total_requests": 26,
+        "requests_after_filtering": 23,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.11538461538461539
+    },
+    {
+        "name": "de.tellonym.app",
+        "total_requests": 26,
+        "requests_after_filtering": 23,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.11538461538461539
+    },
+    {
+        "name": "lt.manodrabuziai.fr",
+        "total_requests": 26,
+        "requests_after_filtering": 23,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.11538461538461539
+    },
+    {
+        "name": "io.faceapp.ios",
+        "total_requests": 26,
+        "requests_after_filtering": 23,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.11538461538461539
+    },
+    {
+        "name": "ee.mtakso.client",
+        "total_requests": 35,
+        "requests_after_filtering": 31,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.11428571428571428
+    },
+    {
+        "name": "com.boohoo.app",
+        "total_requests": 44,
+        "requests_after_filtering": 39,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.11363636363636363
+    },
+    {
+        "name": "com.earlystudio.esound",
+        "total_requests": 107,
+        "requests_after_filtering": 95,
+        "blocked_requests": 12,
+        "blocked_ratio": 0.11214953271028037
+    },
+    {
+        "name": "app.doguniversity",
+        "total_requests": 27,
+        "requests_after_filtering": 24,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "com.body.positive",
+        "total_requests": 27,
+        "requests_after_filtering": 24,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "com.car2go.app",
+        "total_requests": 27,
+        "requests_after_filtering": 24,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "com.everywear.game5",
+        "total_requests": 18,
+        "requests_after_filtering": 16,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "com.resonantcavity.Voloco",
+        "total_requests": 117,
+        "requests_after_filtering": 104,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "com.HP.PregnancyiPhonelite",
+        "total_requests": 90,
+        "requests_after_filtering": 80,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "fi.reworks.redecor",
+        "total_requests": 18,
+        "requests_after_filtering": 16,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "com.rovio.baba",
+        "total_requests": 9,
+        "requests_after_filtering": 8,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "com.pg.oralb.1314.im.0046",
+        "total_requests": 9,
+        "requests_after_filtering": 8,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "com.watchapp.ios",
+        "total_requests": 9,
+        "requests_after_filtering": 8,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "vt.free",
+        "total_requests": 18,
+        "requests_after_filtering": 16,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "de.zeit.online",
+        "total_requests": 45,
+        "requests_after_filtering": 40,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.1111111111111111
+    },
+    {
+        "name": "com.ea.ios.simsmobile",
+        "total_requests": 28,
+        "requests_after_filtering": 25,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10714285714285714
+    },
+    {
+        "name": "com.hm.goe",
+        "total_requests": 28,
+        "requests_after_filtering": 25,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10714285714285714
+    },
+    {
+        "name": "com.klarna.app",
+        "total_requests": 28,
+        "requests_after_filtering": 25,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10714285714285714
+    },
+    {
+        "name": "com.photo.dualcam",
+        "total_requests": 28,
+        "requests_after_filtering": 25,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10714285714285714
+    },
+    {
+        "name": "de.dm.Foto-Paradies",
+        "total_requests": 28,
+        "requests_after_filtering": 25,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10714285714285714
+    },
+    {
+        "name": "de.aldi-nord.aldinordmobileapp",
+        "total_requests": 28,
+        "requests_after_filtering": 25,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10714285714285714
+    },
+    {
+        "name": "free.music.downloader",
+        "total_requests": 84,
+        "requests_after_filtering": 75,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.10714285714285714
+    },
+    {
+        "name": "com.sara.ios",
+        "total_requests": 122,
+        "requests_after_filtering": 109,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.10655737704918032
+    },
+    {
+        "name": "com.braindom",
+        "total_requests": 188,
+        "requests_after_filtering": 168,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.10638297872340426
+    },
+    {
+        "name": "com.vividgames.realboxing2",
+        "total_requests": 141,
+        "requests_after_filtering": 126,
+        "blocked_requests": 15,
+        "blocked_ratio": 0.10638297872340426
+    },
+    {
+        "name": "com.particlenews.newsbreak",
+        "total_requests": 66,
+        "requests_after_filtering": 59,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.10606060606060606
+    },
+    {
+        "name": "com.belka-games.solitaire",
+        "total_requests": 104,
+        "requests_after_filtering": 93,
+        "blocked_requests": 11,
+        "blocked_ratio": 0.10576923076923077
+    },
+    {
+        "name": "com.funcell.ninemonths",
+        "total_requests": 19,
+        "requests_after_filtering": 17,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.10526315789473684
+    },
+    {
+        "name": "com.muscle.rush",
+        "total_requests": 19,
+        "requests_after_filtering": 17,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.10526315789473684
+    },
+    {
+        "name": "com.nanotribe.games.cashier3d",
+        "total_requests": 19,
+        "requests_after_filtering": 17,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.10526315789473684
+    },
+    {
+        "name": "com.rtlinteractive.wetter.de",
+        "total_requests": 19,
+        "requests_after_filtering": 17,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.10526315789473684
+    },
+    {
+        "name": "com.playstrom.dop2",
+        "total_requests": 19,
+        "requests_after_filtering": 17,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.10526315789473684
+    },
+    {
+        "name": "com.studysmarter",
+        "total_requests": 38,
+        "requests_after_filtering": 34,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.10526315789473684
+    },
+    {
+        "name": "com.zaful.Zaful",
+        "total_requests": 48,
+        "requests_after_filtering": 43,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.10416666666666667
+    },
+    {
+        "name": "MeinVodafone",
+        "total_requests": 48,
+        "requests_after_filtering": 43,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.10416666666666667
+    },
+    {
+        "name": "com.hunkemoller",
+        "total_requests": 29,
+        "requests_after_filtering": 26,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10344827586206896
+    },
+    {
+        "name": "com.gr.visitgreece",
+        "total_requests": 29,
+        "requests_after_filtering": 26,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10344827586206896
+    },
+    {
+        "name": "com.photo.beautytuneapp",
+        "total_requests": 29,
+        "requests_after_filtering": 26,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10344827586206896
+    },
+    {
+        "name": "com.rtlinteractive.tvnow",
+        "total_requests": 29,
+        "requests_after_filtering": 26,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10344827586206896
+    },
+    {
+        "name": "com.tranzmate.tranzmate1",
+        "total_requests": 29,
+        "requests_after_filtering": 26,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.10344827586206896
+    },
+    {
+        "name": "com.ea.pvzfree.bv",
+        "total_requests": 39,
+        "requests_after_filtering": 35,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.10256410256410256
+    },
+    {
+        "name": "com.cleverapps.mergecraft",
+        "total_requests": 39,
+        "requests_after_filtering": 35,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.10256410256410256
+    },
+    {
+        "name": "com.pinpinteam.crowdbattle3d",
+        "total_requests": 318,
+        "requests_after_filtering": 286,
+        "blocked_requests": 32,
+        "blocked_ratio": 0.10062893081761007
+    },
+    {
+        "name": "com.fungames.sniper3d",
+        "total_requests": 209,
+        "requests_after_filtering": 188,
+        "blocked_requests": 21,
+        "blocked_ratio": 0.10047846889952153
+    },
+    {
+        "name": "com.farfetch.discover",
+        "total_requests": 60,
+        "requests_after_filtering": 54,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.1
+    },
+    {
+        "name": "com.halfbrick.fruitninjax",
+        "total_requests": 30,
+        "requests_after_filtering": 27,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1
+    },
+    {
+        "name": "com.nodestree.app.tiksave",
+        "total_requests": 20,
+        "requests_after_filtering": 18,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.1
+    },
+    {
+        "name": "com.n3twork.tetris",
+        "total_requests": 10,
+        "requests_after_filtering": 9,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.1
+    },
+    {
+        "name": "com.passport.photo.app",
+        "total_requests": 30,
+        "requests_after_filtering": 27,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.1
+    },
+    {
+        "name": "com.sapient.Saturn",
+        "total_requests": 10,
+        "requests_after_filtering": 9,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.1
+    },
+    {
+        "name": "com.reference.stepstone",
+        "total_requests": 40,
+        "requests_after_filtering": 36,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.1
+    },
+    {
+        "name": "com.sethusenthil.savetoker",
+        "total_requests": 20,
+        "requests_after_filtering": 18,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.1
+    },
+    {
+        "name": "com.Upperpik.HairChallenge",
+        "total_requests": 20,
+        "requests_after_filtering": 18,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.1
+    },
+    {
+        "name": "de.mytoys.mytoys",
+        "total_requests": 81,
+        "requests_after_filtering": 73,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.09876543209876543
+    },
+    {
+        "name": "com.hipsterwhale.crossy",
+        "total_requests": 204,
+        "requests_after_filtering": 184,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.09803921568627451
+    },
+    {
+        "name": "com.homeaway.HAMobile",
+        "total_requests": 31,
+        "requests_after_filtering": 28,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.0967741935483871
+    },
+    {
+        "name": "com.ryanair.cheapflights",
+        "total_requests": 31,
+        "requests_after_filtering": 28,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.0967741935483871
+    },
+    {
+        "name": "com.kayac.ball-run",
+        "total_requests": 362,
+        "requests_after_filtering": 327,
+        "blocked_requests": 35,
+        "blocked_ratio": 0.09668508287292818
+    },
+    {
+        "name": "com.peoplefun.blockscapes",
+        "total_requests": 136,
+        "requests_after_filtering": 123,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.09558823529411764
+    },
+    {
+        "name": "com.europosit.pixelcoloring",
+        "total_requests": 42,
+        "requests_after_filtering": 38,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.09523809523809523
+    },
+    {
+        "name": "com.lgeha.nuts",
+        "total_requests": 21,
+        "requests_after_filtering": 19,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.09523809523809523
+    },
+    {
+        "name": "trendyol.com.trendyol",
+        "total_requests": 42,
+        "requests_after_filtering": 38,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.09523809523809523
+    },
+    {
+        "name": "de.medpex",
+        "total_requests": 63,
+        "requests_after_filtering": 57,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.09523809523809523
+    },
+    {
+        "name": "com.ketchapp.rider",
+        "total_requests": 191,
+        "requests_after_filtering": 173,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.09424083769633508
+    },
+    {
+        "name": "com.holidaycheck.hc",
+        "total_requests": 32,
+        "requests_after_filtering": 29,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.09375
+    },
+    {
+        "name": "de.telekom.Kundencenter",
+        "total_requests": 32,
+        "requests_after_filtering": 29,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.09375
+    },
+    {
+        "name": "com.snowcorp.stickerly",
+        "total_requests": 32,
+        "requests_after_filtering": 29,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.09375
+    },
+    {
+        "name": "co.visualsupply.cam",
+        "total_requests": 43,
+        "requests_after_filtering": 39,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.09302325581395349
+    },
+    {
+        "name": "com.fungames.blockcraft",
+        "total_requests": 215,
+        "requests_after_filtering": 195,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.09302325581395349
+    },
+    {
+        "name": "com.avira.MobileEssentials",
+        "total_requests": 33,
+        "requests_after_filtering": 30,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.09090909090909091
+    },
+    {
+        "name": "com.betterme.bettermen",
+        "total_requests": 11,
+        "requests_after_filtering": 10,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.09090909090909091
+    },
+    {
+        "name": "com.firsttouch.hero2",
+        "total_requests": 11,
+        "requests_after_filtering": 10,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.09090909090909091
+    },
+    {
+        "name": "de.deananddavid",
+        "total_requests": 22,
+        "requests_after_filtering": 20,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.09090909090909091
+    },
+    {
+        "name": "com.snipes.snipesclique",
+        "total_requests": 22,
+        "requests_after_filtering": 20,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.09090909090909091
+    },
+    {
+        "name": "com.Splitwise.SplitwiseMobile",
+        "total_requests": 11,
+        "requests_after_filtering": 10,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.09090909090909091
+    },
+    {
+        "name": "com.wings.iPhone",
+        "total_requests": 22,
+        "requests_after_filtering": 20,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.09090909090909091
+    },
+    {
+        "name": "com.yorfstudio.zescape",
+        "total_requests": 201,
+        "requests_after_filtering": 183,
+        "blocked_requests": 18,
+        "blocked_ratio": 0.08955223880597014
+    },
+    {
+        "name": "com.bricksball.civil.crusher",
+        "total_requests": 56,
+        "requests_after_filtering": 51,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.08928571428571429
+    },
+    {
+        "name": "com.metamoki.weed",
+        "total_requests": 146,
+        "requests_after_filtering": 133,
+        "blocked_requests": 13,
+        "blocked_ratio": 0.08904109589041095
+    },
+    {
+        "name": "zzkko.com.ZZKKO",
+        "total_requests": 68,
+        "requests_after_filtering": 62,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.08823529411764706
+    },
+    {
+        "name": "patpat",
+        "total_requests": 35,
+        "requests_after_filtering": 32,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.08571428571428572
+    },
+    {
+        "name": "com.google.ios.youtube",
+        "total_requests": 24,
+        "requests_after_filtering": 22,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.08333333333333333
+    },
+    {
+        "name": "com.midasplayer.apps.candycrushsaga",
+        "total_requests": 12,
+        "requests_after_filtering": 11,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.08333333333333333
+    },
+    {
+        "name": "com.vytal.vytalconsumerapp",
+        "total_requests": 36,
+        "requests_after_filtering": 33,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.08333333333333333
+    },
+    {
+        "name": "com.sixwaves.cml",
+        "total_requests": 36,
+        "requests_after_filtering": 33,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.08333333333333333
+    },
+    {
+        "name": "de.BodyFast.BodyFast2",
+        "total_requests": 24,
+        "requests_after_filtering": 22,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.08333333333333333
+    },
+    {
+        "name": "com.super-toki.giraffe",
+        "total_requests": 12,
+        "requests_after_filtering": 11,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.08333333333333333
+    },
+    {
+        "name": "de.inforoad.cleverTanken",
+        "total_requests": 12,
+        "requests_after_filtering": 11,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.08333333333333333
+    },
+    {
+        "name": "com.MegaJoy.PrisonBreak68",
+        "total_requests": 244,
+        "requests_after_filtering": 224,
+        "blocked_requests": 20,
+        "blocked_ratio": 0.08196721311475409
+    },
+    {
+        "name": "com.amazon.CloudDrivePhotos",
+        "total_requests": 37,
+        "requests_after_filtering": 34,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.08108108108108109
+    },
+    {
+        "name": "co.thefabulous.app",
+        "total_requests": 111,
+        "requests_after_filtering": 102,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.08108108108108109
+    },
+    {
+        "name": "com.airyclub.ios",
+        "total_requests": 37,
+        "requests_after_filtering": 34,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.08108108108108109
+    },
+    {
+        "name": "com.stx.pullhimout",
+        "total_requests": 200,
+        "requests_after_filtering": 184,
+        "blocked_requests": 16,
+        "blocked_ratio": 0.08
+    },
+    {
+        "name": "com.apalonapps.plants",
+        "total_requests": 88,
+        "requests_after_filtering": 81,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.07954545454545454
+    },
+    {
+        "name": "com.lightricks.Enlight-Editor",
+        "total_requests": 51,
+        "requests_after_filtering": 47,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.0784313725490196
+    },
+    {
+        "name": "at.helloagain.muellerde",
+        "total_requests": 26,
+        "requests_after_filtering": 24,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.07692307692307693
+    },
+    {
+        "name": "com.itbigkeeper.safevpn",
+        "total_requests": 13,
+        "requests_after_filtering": 12,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.07692307692307693
+    },
+    {
+        "name": "com.kaufland.iosapp",
+        "total_requests": 26,
+        "requests_after_filtering": 24,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.07692307692307693
+    },
+    {
+        "name": "com.neocortext.doublicatapp",
+        "total_requests": 39,
+        "requests_after_filtering": 36,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.07692307692307693
+    },
+    {
+        "name": "net.DuckyGames.CraftIsland",
+        "total_requests": 289,
+        "requests_after_filtering": 267,
+        "blocked_requests": 22,
+        "blocked_ratio": 0.07612456747404844
+    },
+    {
+        "name": "com.mpmf.truckemall",
+        "total_requests": 319,
+        "requests_after_filtering": 295,
+        "blocked_requests": 24,
+        "blocked_ratio": 0.07523510971786834
+    },
+    {
+        "name": "com.amour.chicme",
+        "total_requests": 80,
+        "requests_after_filtering": 74,
+        "blocked_requests": 6,
+        "blocked_ratio": 0.075
+    },
+    {
+        "name": "com.feelty",
+        "total_requests": 40,
+        "requests_after_filtering": 37,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.075
+    },
+    {
+        "name": "com.zeptolab.cuttheropelite",
+        "total_requests": 94,
+        "requests_after_filtering": 87,
+        "blocked_requests": 7,
+        "blocked_ratio": 0.07446808510638298
+    },
+    {
+        "name": "com.google.Chromecast",
+        "total_requests": 27,
+        "requests_after_filtering": 25,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.07407407407407407
+    },
+    {
+        "name": "com.shop-apotheke.shop",
+        "total_requests": 41,
+        "requests_after_filtering": 38,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.07317073170731707
+    },
+    {
+        "name": "com.footlocker.europe.uk",
+        "total_requests": 28,
+        "requests_after_filtering": 26,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "com.byappointment.app",
+        "total_requests": 14,
+        "requests_after_filtering": 13,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "com.coloring.color.number.ios",
+        "total_requests": 14,
+        "requests_after_filtering": 13,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "com.decathlon.appmobile",
+        "total_requests": 14,
+        "requests_after_filtering": 13,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "com.heatmvmnt.mobileapp",
+        "total_requests": 14,
+        "requests_after_filtering": 13,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "com.retromonkey.shoerace",
+        "total_requests": 14,
+        "requests_after_filtering": 13,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "com.kfc.de.mobileapp",
+        "total_requests": 28,
+        "requests_after_filtering": 26,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "com.TeleClinic.TeleClinic",
+        "total_requests": 14,
+        "requests_after_filtering": 13,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "puzzle.blockpuzzle.cube.relax",
+        "total_requests": 14,
+        "requests_after_filtering": 13,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "de.lotto24.lottokiosk.app",
+        "total_requests": 14,
+        "requests_after_filtering": 13,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.07142857142857142
+    },
+    {
+        "name": "de.tui.tuicom",
+        "total_requests": 57,
+        "requests_after_filtering": 53,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.07017543859649122
+    },
+    {
+        "name": "com.kupferwerk.sport1de",
+        "total_requests": 15,
+        "requests_after_filtering": 14,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.06666666666666667
+    },
+    {
+        "name": "com.tensquaregames.letsfish2",
+        "total_requests": 30,
+        "requests_after_filtering": 28,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.06666666666666667
+    },
+    {
+        "name": "com.ups.m.iphone",
+        "total_requests": 15,
+        "requests_after_filtering": 14,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.06666666666666667
+    },
+    {
+        "name": "de.comdirect.App",
+        "total_requests": 15,
+        "requests_after_filtering": 14,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.06666666666666667
+    },
+    {
+        "name": "de.home24.www",
+        "total_requests": 151,
+        "requests_after_filtering": 141,
+        "blocked_requests": 10,
+        "blocked_ratio": 0.06622516556291391
+    },
+    {
+        "name": "com.fitbit.FitbitMobile",
+        "total_requests": 47,
+        "requests_after_filtering": 44,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.06382978723404255
+    },
+    {
+        "name": "com.nike.onenikecommerce",
+        "total_requests": 47,
+        "requests_after_filtering": 44,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.06382978723404255
+    },
+    {
+        "name": "com.101investing",
+        "total_requests": 32,
+        "requests_after_filtering": 30,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.0625
+    },
+    {
+        "name": "com.disney.disneyplus",
+        "total_requests": 49,
+        "requests_after_filtering": 46,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.061224489795918366
+    },
+    {
+        "name": "com.toursprung.bikemap",
+        "total_requests": 49,
+        "requests_after_filtering": 46,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.061224489795918366
+    },
+    {
+        "name": "de.mcdonalds.McDonaldsInfoApp",
+        "total_requests": 49,
+        "requests_after_filtering": 46,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.061224489795918366
+    },
+    {
+        "name": "com.Campless.Campless",
+        "total_requests": 83,
+        "requests_after_filtering": 78,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.060240963855421686
+    },
+    {
+        "name": "com.tiltingpoint.spongebob",
+        "total_requests": 50,
+        "requests_after_filtering": 47,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.06
+    },
+    {
+        "name": "com.lilithgame.roc.ios",
+        "total_requests": 134,
+        "requests_after_filtering": 126,
+        "blocked_requests": 8,
+        "blocked_ratio": 0.05970149253731343
+    },
+    {
+        "name": "com.bisonapp.bison",
+        "total_requests": 34,
+        "requests_after_filtering": 32,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.058823529411764705
+    },
+    {
+        "name": "de.nebenan.nebenan",
+        "total_requests": 17,
+        "requests_after_filtering": 16,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.058823529411764705
+    },
+    {
+        "name": "com.contextlogic.Wish",
+        "total_requests": 69,
+        "requests_after_filtering": 65,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.057971014492753624
+    },
+    {
+        "name": "br.com.tapps.bidwars2",
+        "total_requests": 52,
+        "requests_after_filtering": 49,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.057692307692307696
+    },
+    {
+        "name": "de.prosiebensat1digital.seventv",
+        "total_requests": 52,
+        "requests_after_filtering": 49,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.057692307692307696
+    },
+    {
+        "name": "com.visualhype.pedometer",
+        "total_requests": 243,
+        "requests_after_filtering": 229,
+        "blocked_requests": 14,
+        "blocked_ratio": 0.05761316872427984
+    },
+    {
+        "name": "de.check24.check24",
+        "total_requests": 18,
+        "requests_after_filtering": 17,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.05555555555555555
+    },
+    {
+        "name": "com.apple.store.Jolly",
+        "total_requests": 55,
+        "requests_after_filtering": 52,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.05454545454545454
+    },
+    {
+        "name": "de.menschdanke.meindeal",
+        "total_requests": 37,
+        "requests_after_filtering": 35,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.05405405405405406
+    },
+    {
+        "name": "com.uo.StoreLocator",
+        "total_requests": 57,
+        "requests_after_filtering": 54,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.05263157894736842
+    },
+    {
+        "name": "org.plantnetproject.PlantNet",
+        "total_requests": 79,
+        "requests_after_filtering": 75,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.05063291139240506
+    },
+    {
+        "name": "de.dm.meindm",
+        "total_requests": 20,
+        "requests_after_filtering": 19,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.05
+    },
+    {
+        "name": "com.plr.pam-app",
+        "total_requests": 61,
+        "requests_after_filtering": 58,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.04918032786885246
+    },
+    {
+        "name": "app.walpapers",
+        "total_requests": 62,
+        "requests_after_filtering": 59,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.04838709677419355
+    },
+    {
+        "name": "com.icandesignapp.all",
+        "total_requests": 42,
+        "requests_after_filtering": 40,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.047619047619047616
+    },
+    {
+        "name": "de.dkb.pushtan",
+        "total_requests": 21,
+        "requests_after_filtering": 20,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.047619047619047616
+    },
+    {
+        "name": "com.daimler.ris.mercedesme.ece.ios",
+        "total_requests": 22,
+        "requests_after_filtering": 21,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.045454545454545456
+    },
+    {
+        "name": "com.comuto.comuto",
+        "total_requests": 23,
+        "requests_after_filtering": 22,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.043478260869565216
+    },
+    {
+        "name": "com.nike.omega",
+        "total_requests": 23,
+        "requests_after_filtering": 22,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.043478260869565216
+    },
+    {
+        "name": "fonts.app",
+        "total_requests": 217,
+        "requests_after_filtering": 208,
+        "blocked_requests": 9,
+        "blocked_ratio": 0.041474654377880185
+    },
+    {
+        "name": "com.moonfrog.ludo.club",
+        "total_requests": 75,
+        "requests_after_filtering": 72,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.04
+    },
+    {
+        "name": "de.7mind.iphone",
+        "total_requests": 102,
+        "requests_after_filtering": 98,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.0392156862745098
+    },
+    {
+        "name": "marc.waesche.org.marcophono",
+        "total_requests": 102,
+        "requests_after_filtering": 98,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.0392156862745098
+    },
+    {
+        "name": "com.tipico.classic",
+        "total_requests": 117,
+        "requests_after_filtering": 113,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.03418803418803419
+    },
+    {
+        "name": "net.nextbike.official2012",
+        "total_requests": 31,
+        "requests_after_filtering": 30,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.03225806451612903
+    },
+    {
+        "name": "com.freiheit.tchibo-app",
+        "total_requests": 126,
+        "requests_after_filtering": 122,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.031746031746031744
+    },
+    {
+        "name": "com.intsig.CamScannerLite",
+        "total_requests": 129,
+        "requests_after_filtering": 125,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.031007751937984496
+    },
+    {
+        "name": "de.flaschenpost.app",
+        "total_requests": 33,
+        "requests_after_filtering": 32,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.030303030303030304
+    },
+    {
+        "name": "com.ubercab.UberEats",
+        "total_requests": 35,
+        "requests_after_filtering": 34,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.02857142857142857
+    },
+    {
+        "name": "com.tinyco.potter",
+        "total_requests": 177,
+        "requests_after_filtering": 172,
+        "blocked_requests": 5,
+        "blocked_ratio": 0.02824858757062147
+    },
+    {
+        "name": "com.adobe.PSMobile",
+        "total_requests": 144,
+        "requests_after_filtering": 140,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.027777777777777776
+    },
+    {
+        "name": "com.etsy.etsyforios",
+        "total_requests": 39,
+        "requests_after_filtering": 38,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.02564102564102564
+    },
+    {
+        "name": "com.moonlab.unfoldstories",
+        "total_requests": 120,
+        "requests_after_filtering": 117,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.025
+    },
+    {
+        "name": "com.expedia.booking",
+        "total_requests": 42,
+        "requests_after_filtering": 41,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.023809523809523808
+    },
+    {
+        "name": "com.groverapp.ios",
+        "total_requests": 42,
+        "requests_after_filtering": 41,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.023809523809523808
+    },
+    {
+        "name": "com.alltrails.AllTrails",
+        "total_requests": 86,
+        "requests_after_filtering": 84,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.023255813953488372
+    },
+    {
+        "name": "com.eisterhues-media.TorAlarmWM",
+        "total_requests": 88,
+        "requests_after_filtering": 86,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.022727272727272728
+    },
+    {
+        "name": "com.meitu.mtxx",
+        "total_requests": 88,
+        "requests_after_filtering": 86,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.022727272727272728
+    },
+    {
+        "name": "de.penny.ios.app",
+        "total_requests": 44,
+        "requests_after_filtering": 43,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.022727272727272728
+    },
+    {
+        "name": "com.Seriously.BestFiends",
+        "total_requests": 45,
+        "requests_after_filtering": 44,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.022222222222222223
+    },
+    {
+        "name": "de.eos-uptrade.fahrinfo.hvv",
+        "total_requests": 47,
+        "requests_after_filtering": 46,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.02127659574468085
+    },
+    {
+        "name": "de.deutschepost.dhl",
+        "total_requests": 47,
+        "requests_after_filtering": 46,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.02127659574468085
+    },
+    {
+        "name": "de.sevenoneintermedia.galileovideolexikon",
+        "total_requests": 47,
+        "requests_after_filtering": 46,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.02127659574468085
+    },
+    {
+        "name": "com.ubercab.UberClient",
+        "total_requests": 48,
+        "requests_after_filtering": 47,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.020833333333333332
+    },
+    {
+        "name": "de.WDR.NewsApp",
+        "total_requests": 48,
+        "requests_after_filtering": 47,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.020833333333333332
+    },
+    {
+        "name": "com.microsoft.Office.Outlook",
+        "total_requests": 145,
+        "requests_after_filtering": 142,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.020689655172413793
+    },
+    {
+        "name": "sg.bigo.live",
+        "total_requests": 155,
+        "requests_after_filtering": 152,
+        "blocked_requests": 3,
+        "blocked_ratio": 0.01935483870967742
+    },
+    {
+        "name": "com.SpielerPlus.SpielerPlus",
+        "total_requests": 105,
+        "requests_after_filtering": 103,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.01904761904761905
+    },
+    {
+        "name": "de.QUOKA.Kleinanzeigen",
+        "total_requests": 53,
+        "requests_after_filtering": 52,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.018867924528301886
+    },
+    {
+        "name": "com.circular.pixels",
+        "total_requests": 121,
+        "requests_after_filtering": 119,
+        "blocked_requests": 2,
+        "blocked_ratio": 0.01652892561983471
+    },
+    {
+        "name": "com.okcupid.app",
+        "total_requests": 69,
+        "requests_after_filtering": 68,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.014492753623188406
+    },
+    {
+        "name": "com.alibaba.sourcing",
+        "total_requests": 73,
+        "requests_after_filtering": 72,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.0136986301369863
+    },
+    {
+        "name": "com.yahoo.Aerogram",
+        "total_requests": 76,
+        "requests_after_filtering": 75,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.013157894736842105
+    },
+    {
+        "name": "de.dominos.iphone",
+        "total_requests": 81,
+        "requests_after_filtering": 80,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.012345679012345678
+    },
+    {
+        "name": "com.mobile-softing.coinmaster",
+        "total_requests": 326,
+        "requests_after_filtering": 322,
+        "blocked_requests": 4,
+        "blocked_ratio": 0.012269938650306749
+    },
+    {
+        "name": "de.klingel.app.ios",
+        "total_requests": 90,
+        "requests_after_filtering": 89,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.011111111111111112
+    },
+    {
+        "name": "de.impressionen.app.ios",
+        "total_requests": 93,
+        "requests_after_filtering": 92,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.010752688172043012
+    },
+    {
+        "name": "com.dr1ven.eraser",
+        "total_requests": 101,
+        "requests_after_filtering": 100,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.009900990099009901
+    },
+    {
+        "name": "com.floryday.ios",
+        "total_requests": 125,
+        "requests_after_filtering": 124,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.008
+    },
+    {
+        "name": "de.baur.shop",
+        "total_requests": 211,
+        "requests_after_filtering": 210,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.004739336492890996
+    },
+    {
+        "name": "de.burgerking.BurgerKing",
+        "total_requests": 341,
+        "requests_after_filtering": 340,
+        "blocked_requests": 1,
+        "blocked_ratio": 0.002932551319648094
+    },
+    {
+        "name": "com.amazon.AmazonDE",
+        "total_requests": 181,
+        "requests_after_filtering": 181,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.playrix.township-ios",
+        "total_requests": 112,
+        "requests_after_filtering": 112,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.alibaba.iAliexpress",
+        "total_requests": 311,
+        "requests_after_filtering": 311,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.adobe.Adobe-Reader",
+        "total_requests": 55,
+        "requests_after_filtering": 55,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.adobe.scan.ios",
+        "total_requests": 33,
+        "requests_after_filtering": 33,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.waze.iphone",
+        "total_requests": 83,
+        "requests_after_filtering": 83,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "cn.danatech.xingseus",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "co.alphaexploration.clubhouse",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.bonprix.bonprix",
+        "total_requests": 68,
+        "requests_after_filtering": 68,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "co.za.wigroup.dunkindonutsge",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.116117.app",
+        "total_requests": 12,
+        "requests_after_filtering": 12,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.advanzia.mypages.ios",
+        "total_requests": 31,
+        "requests_after_filtering": 31,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.adobe.FillAndSign",
+        "total_requests": 11,
+        "requests_after_filtering": 11,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.agilebits.onepassword-ios",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.airbnb.app",
+        "total_requests": 31,
+        "requests_after_filtering": 31,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.al.realdrive",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.amazon.aiv.AIVApp",
+        "total_requests": 41,
+        "requests_after_filtering": 41,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.etoro.openbook",
+        "total_requests": 60,
+        "requests_after_filtering": 60,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.amazon.echo",
+        "total_requests": 44,
+        "requests_after_filtering": 44,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.amazon.firetv.remote",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.amazon.mp3.AmazonCloudPlayer",
+        "total_requests": 33,
+        "requests_after_filtering": 33,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.avg.ios.security",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.appcraft.numberama",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.booking.BookingApp",
+        "total_requests": 42,
+        "requests_after_filtering": 42,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.funnyigames.phonecasediy",
+        "total_requests": 19,
+        "requests_after_filtering": 19,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.audible.iphone",
+        "total_requests": 48,
+        "requests_after_filtering": 48,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.randstadservices.digitalfactory.vaccinebuddy",
+        "total_requests": 82,
+        "requests_after_filtering": 82,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.avast.ios.security",
+        "total_requests": 11,
+        "requests_after_filtering": 11,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.BasicGames.PileIt3D",
+        "total_requests": 15,
+        "requests_after_filtering": 15,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.b2p.stackydash",
+        "total_requests": 16,
+        "requests_after_filtering": 16,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.BoostCollectiblesBV.ALDIemojiGermany",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.bgg.jump",
+        "total_requests": 10,
+        "requests_after_filtering": 10,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.bitstrips.imoji",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.deutschebahn.streckenagent",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.burbn.instagram",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.brother.iPrint-Scan",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.bshg.homeconnect",
+        "total_requests": 26,
+        "requests_after_filtering": 26,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.btang.femometer.eu",
+        "total_requests": 21,
+        "requests_after_filtering": 21,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.burbn.layouts",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.dealtime.app",
+        "total_requests": 32,
+        "requests_after_filtering": 32,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.canda.shopapp",
+        "total_requests": 13,
+        "requests_after_filtering": 13,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.getsomeheadspace.headspace",
+        "total_requests": 26,
+        "requests_after_filtering": 26,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.frontierdesign.videostar",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.Docs",
+        "total_requests": 16,
+        "requests_after_filtering": 16,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.comeco.teo",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.crazylabs.acrylicnails",
+        "total_requests": 23,
+        "requests_after_filtering": 23,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.crossforward.pedometer",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.crossforward.WidgetSmith",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.czzhao.binance",
+        "total_requests": 39,
+        "requests_after_filtering": 39,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.cube4.rmkcosima",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.cubic.cumo.iphone.rmv",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.danyil.boltbrowser",
+        "total_requests": 12,
+        "requests_after_filtering": 12,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.deutschebahn.navigator",
+        "total_requests": 108,
+        "requests_after_filtering": 108,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.db.pbc.ng.mobile",
+        "total_requests": 12,
+        "requests_after_filtering": 12,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.db.pbc.phototan.db",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.sharepoint",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.duckduckgo.mobile.ios",
+        "total_requests": 11,
+        "requests_after_filtering": 11,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.dvloper.granny",
+        "total_requests": 13,
+        "requests_after_filtering": 13,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.ea.ios.fifaultimate",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.eat-commerce-limited.subway",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.huber.smarthealth",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.eifrig.blitzerde",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.ios.youtubekids",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.Office.Powerpoint",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.enbw.ev",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.EuropaParkMackKG.EPGuide",
+        "total_requests": 20,
+        "requests_after_filtering": 20,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.facebook.Messenger",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.fanatee.noodles",
+        "total_requests": 19,
+        "requests_after_filtering": 19,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.Maps",
+        "total_requests": 61,
+        "requests_after_filtering": 61,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.firescore.hairsalon",
+        "total_requests": 26,
+        "requests_after_filtering": 26,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.fivebits.emergencydispatch",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.floraincognita.floraincognita",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.fluffyfairygames.idleminertycoon",
+        "total_requests": 18,
+        "requests_after_filtering": 18,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.Movies",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.Stella",
+        "total_requests": 46,
+        "requests_after_filtering": 46,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.Translate",
+        "total_requests": 11,
+        "requests_after_filtering": 11,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.gamegarden.ms",
+        "total_requests": 8,
+        "requests_after_filtering": 8,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.Office.Word",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.GeoGuessr.iOS.GeoGuessr",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.getdropbox.Dropbox",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.infosoft.docutain",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.gls.glsone.hybridapp",
+        "total_requests": 41,
+        "requests_after_filtering": 41,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.b612",
+        "total_requests": 131,
+        "requests_after_filtering": 131,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.Drive",
+        "total_requests": 10,
+        "requests_after_filtering": 10,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.FamilyLink",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.Gmail",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.hangouts",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.keyboard",
+        "total_requests": 8,
+        "requests_after_filtering": 8,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.meetings",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.photos",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.Sheets",
+        "total_requests": 16,
+        "requests_after_filtering": 16,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.hypah.io.slither",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.google.Slides",
+        "total_requests": 16,
+        "requests_after_filtering": 16,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.gzim.impfpassapp",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.halfbrick.jetpack",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.handsomeoldtree.idlefirefightertycoon",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.lync2013.iphone",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.shoop.app",
+        "total_requests": 21,
+        "requests_after_filtering": 21,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.happyprinter.game",
+        "total_requests": 10,
+        "requests_after_filtering": 10,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.hp.printer.control",
+        "total_requests": 88,
+        "requests_after_filtering": 88,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.huawei.iossporthealth",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.smartglass",
+        "total_requests": 26,
+        "requests_after_filtering": 26,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.lufthansa.launcher",
+        "total_requests": 68,
+        "requests_after_filtering": 68,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.Office.Excel",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.ido.veryfit",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "io.highcore.stealthmaster",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.intradesys.darfichdas",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.mergedomhomedesign.game",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.jctswbglsm.SwipeAway",
+        "total_requests": 12,
+        "requests_after_filtering": 12,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.officelens",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.kaspersky.securityadvisor",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.kingsgroup.ss",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.sega.sonicdash",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.lbrc.PeriodCalendar",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.lemon.lvoverseas",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.linguee.DeepLMobileTranslator",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.linkedin.LinkedIn",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.make.it.fly",
+        "total_requests": 16,
+        "requests_after_filtering": 16,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.marktguru.mg2.de",
+        "total_requests": 13,
+        "requests_after_filtering": 13,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.maroieqrwlk.unpin",
+        "total_requests": 13,
+        "requests_after_filtering": 13,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.officemobile",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.skydrive",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.skype.teams",
+        "total_requests": 10,
+        "requests_after_filtering": 10,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.microsoft.to-do",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.roblox.robloxmobile",
+        "total_requests": 8,
+        "requests_after_filtering": 8,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.moodle.moodlemobile",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.moxco.bumble",
+        "total_requests": 11,
+        "requests_after_filtering": 11,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.nexters.titanhunters",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.rollic.tanglemaster3d",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "fr.doctolib.www",
+        "total_requests": 41,
+        "requests_after_filtering": 41,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.muhammedeminaksoy.cloneball",
+        "total_requests": 16,
+        "requests_after_filtering": 16,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.mr-brightside.myParcel",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.muratkul.stock",
+        "total_requests": 14,
+        "requests_after_filtering": 14,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.playrix.gardenscapes-m3-ios",
+        "total_requests": 38,
+        "requests_after_filtering": 38,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.playrix.gardenscapes-sweethome",
+        "total_requests": 37,
+        "requests_after_filtering": 37,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.mywickr.wickr",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.playrix.manor-matters",
+        "total_requests": 48,
+        "requests_after_filtering": 48,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.nike.nikeplus-gps",
+        "total_requests": 117,
+        "requests_after_filtering": 117,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.netflix.Netflix",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.rubygames.brainpuzzles",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.nintendo.zara",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.oneandone.controlcenter",
+        "total_requests": 40,
+        "requests_after_filtering": 40,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.nullapp.drivingschool3d",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.oneapp.ADSGuard.app",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.satisfyer.connect",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.oookamin.lumivpn",
+        "total_requests": 19,
+        "requests_after_filtering": 19,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.bjoerndemming.aldisued",
+        "total_requests": 15,
+        "requests_after_filtering": 15,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.stayinformed.ka802800048782",
+        "total_requests": 10,
+        "requests_after_filtering": 10,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.waldenback.driverlicenseapp",
+        "total_requests": 18,
+        "requests_after_filtering": 18,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.solocode.anton",
+        "total_requests": 181,
+        "requests_after_filtering": 181,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.sablostudio.dig.tycoon.idle.game",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.readdle.ReaddleDocsIPad",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.saiyun.avgchapters.episodestories.romance",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.seenax.hide-and-seek",
+        "total_requests": 20,
+        "requests_after_filtering": 20,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.valvesoftware.Steam",
+        "total_requests": 26,
+        "requests_after_filtering": 26,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.samsung.oneconnect4ios",
+        "total_requests": 19,
+        "requests_after_filtering": 19,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.playrix.fishdom-freeplay",
+        "total_requests": 39,
+        "requests_after_filtering": 39,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.playstation.psremoteplay",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.pronetis.ironballride2",
+        "total_requests": 8,
+        "requests_after_filtering": 8,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.qoni.guesstheiranswer",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.samuellaska.AdBuster",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.RBSSOFT.HyperMobile",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.relize.YogaForWeightLoss",
+        "total_requests": 216,
+        "requests_after_filtering": 216,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.readdle.PDFExpert5",
+        "total_requests": 11,
+        "requests_after_filtering": 11,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.SpektraGames.ParkingMasterMultiplayerCarGame",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.redbull.moto",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.telekom.entertaintv-iphone",
+        "total_requests": 109,
+        "requests_after_filtering": 109,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.shell.sitibv.retail",
+        "total_requests": 33,
+        "requests_after_filtering": 33,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.skype.skype",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.sygic.world",
+        "total_requests": 36,
+        "requests_after_filtering": 36,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.zuuks.bus.simulator.ultimate",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.windytv.ios",
+        "total_requests": 52,
+        "requests_after_filtering": 52,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.sofatutor.mobile",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.77onlineshop.seventyseven",
+        "total_requests": 26,
+        "requests_after_filtering": 26,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.supercell.magic",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.supercell.scroll",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.abnehm-app.caloriecounter",
+        "total_requests": 15,
+        "requests_after_filtering": 15,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.superspider.smoothwheel",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.sushirolls.game",
+        "total_requests": 8,
+        "requests_after_filtering": 8,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.tintash.nailsalon",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.actionbound",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.tinyspeck.chatlyio",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.adac.Spritpreise",
+        "total_requests": 27,
+        "requests_after_filtering": 27,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.tomtom.itunes.navapp",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.tripadvisor.LocalPicks",
+        "total_requests": 14,
+        "requests_after_filtering": 14,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.aok-bv.amg",
+        "total_requests": 8,
+        "requests_after_filtering": 8,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.turborilla.bike.racing.madskillsmotocross3",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.tuya.smartlife",
+        "total_requests": 14,
+        "requests_after_filtering": 14,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.uqxuwtxbbu.parkingjam",
+        "total_requests": 14,
+        "requests_after_filtering": 14,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "tr.com.apps.fashion.battle",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.auswaertiges-amt.sicher-reisen",
+        "total_requests": 214,
+        "requests_after_filtering": 214,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.uncosoft.highheels",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.webex.meeting",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.weplaydots.twodots",
+        "total_requests": 10,
+        "requests_after_filtering": 10,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.windscribe",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.wizzair.WizzAirApp",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.yanwa.app",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.barmergek.serviceapp",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "com.zafaco.breitbandmessung",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.fiducia.iphone.securego.wl",
+        "total_requests": 32,
+        "requests_after_filtering": 32,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.clark.ios.iphone.clark",
+        "total_requests": 27,
+        "requests_after_filtering": 27,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.co.barclays.barclaycardgermany",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.coronatestapp.coronatestapp",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.culture4life.luca",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.dak.dak-app",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.datev.smartlogin",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.degener.clicklearn.forms",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.deutschepost.postident",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.dkb.portalapp",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.elster.smart.release",
+        "total_requests": 35,
+        "requests_after_filtering": 35,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.edeka.Genusskonto",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.eSolution.eFit",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "TTYL.Inc.Poparazzi",
+        "total_requests": 18,
+        "requests_after_filtering": 18,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.fiduciagad.securego.vr",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.itech-gmbh.mein-laborergebnis",
+        "total_requests": 30,
+        "requests_after_filtering": 30,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.freundeliberias.epicom",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.heide-park.heidepark",
+        "total_requests": 19,
+        "requests_after_filtering": 19,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.ikksw.app",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.intelligentapps.ott.client",
+        "total_requests": 32,
+        "requests_after_filtering": 32,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.lotto-niedersachsen.tln",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.materna.bbk.mobile",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.mcdonalds.HappyMealKartenspiele",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.mediamarkt.app",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.metaquark.vbbquery",
+        "total_requests": 58,
+        "requests_after_filtering": 58,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.sinnleffers.sinnapp",
+        "total_requests": 8,
+        "requests_after_filtering": 8,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.mitarbeiterangebote.benefits",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.n-tv.n-tvmobil",
+        "total_requests": 54,
+        "requests_after_filtering": 54,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.prosiebensat1digital.prosieben",
+        "total_requests": 77,
+        "requests_after_filtering": 77,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.nextlevels.eguest",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.obi.companion",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.pass4all.letmepass",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.sec.lidl",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.starfinanz.sdepot",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.studyflix.Studyflix-App",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.telekom.telekommail",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.zalando.iphone",
+        "total_requests": 38,
+        "requests_after_filtering": 38,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.unicredit.apptan",
+        "total_requests": 12,
+        "requests_after_filtering": 12,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.unister.abindenurlaub",
+        "total_requests": 13,
+        "requests_after_filtering": 13,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "de.winsim.winSIM-Servicewelt",
+        "total_requests": 20,
+        "requests_after_filtering": 20,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "eu.doctorbox.mobile.ios.DoctorBox",
+        "total_requests": 8,
+        "requests_after_filtering": 8,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "eu.europa.publications.reopeneu",
+        "total_requests": 17,
+        "requests_after_filtering": 17,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "fahrschulcard",
+        "total_requests": 1,
+        "requests_after_filtering": 1,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "game.puzzle.block.sudoku",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "games.elia.logosound",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "games.elia.word7",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "jp.co.canon.bsd.iphone.PIXMA-Print",
+        "total_requests": 9,
+        "requests_after_filtering": 9,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "link.merge.puzzle.onnect.number",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "mega.ios",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "miki.EMMODay",
+        "total_requests": 11,
+        "requests_after_filtering": 11,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "mobi.MultiCraft",
+        "total_requests": 3,
+        "requests_after_filtering": 3,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "net.blutspender.www",
+        "total_requests": 4,
+        "requests_after_filtering": 4,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "org.leo.org.leo.dict.01",
+        "total_requests": 39,
+        "requests_after_filtering": 39,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "org.iggymedia.periodtracker",
+        "total_requests": 6,
+        "requests_after_filtering": 6,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "ph.telegra.Telegraph",
+        "total_requests": 2,
+        "requests_after_filtering": 2,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "ru.rightway.deichmann",
+        "total_requests": 5,
+        "requests_after_filtering": 5,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "se.maginteractive.quizduel2",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    },
+    {
+        "name": "soccer.score.star",
+        "total_requests": 7,
+        "requests_after_filtering": 7,
+        "blocked_requests": 0,
+        "blocked_ratio": 0
+    }
+]

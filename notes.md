@@ -451,15 +451,14 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
 * [x] ~~Screenrecording?~~
 * [x] Device settings?
 * [ ] Is uninstalling enough?
-* [ ] Add OkCupid to dataset
+* [x] Add OkCupid to dataset
+* [x] Graphs
+* [ ] Compare library offsets before and after restart (see `8865`)
 
 ## Simon
 
-* Personalised Ads setting?
 * Limitation: Jailbreak detection
-* Status complaint OkCupid
 * How to Abgabe?
-* Future work: Instead of only observing network traffic, actually trace interesting functions using Frida.
 * Assume that people have seen the previous talk?
 
 ## References
@@ -469,7 +468,3 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
     - https://github.com/ArtikusHG/nimbus/blob/master/nimbus
     - https://junesiphone.com/actions/
     - https://www.reddit.com/r/iOStraverse/comments/3rx3sn/tutorial_activator_actions/
-
-## TODO
-
-* Offsets der libs nach Neustart
