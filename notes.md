@@ -455,12 +455,6 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
 * [x] Graphs
 * [ ] Compare library offsets before and after restart (see `8865`)
 
-## Simon
-
-* Limitation: Jailbreak detection
-* How to Abgabe?
-* Assume that people have seen the previous talk?
-
 ## References
 
 * Activator commands:
