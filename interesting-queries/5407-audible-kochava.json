@@ -1,0 +1,59 @@
+{
+    "action": "install",
+    "sdk_protocol": "16",
+    "data": {
+        "os_version": "iOS 14.5.1",
+        "device": "iPhone10,4",
+        "disp_w": 750,
+        "ad_services_token": "fGrc9BaXLqOz8aUTosmx9tHSf3G/va5N0ujs8KSvXDIz4g/EqOnWJwKvc3q9x3PJmYvq0eAh0p/j+VaAwm+37E8WVHXL3TvdoAAAAVADAAAAoAAAAIDRYIzn8EcZNEyiuI76CKVgVSlVnyvI5+CTfTzfteLNPPhjngU2g5GcG9DRVwH7mJdNaVJoxYXkLgyS8dcXL7QyphBOAJAq8EmL2D1ogk4Wa8AjLnmiOObjTmzUpWYRGcXj50EW9k3pysUaVNNj0srL6Sy+WJk1t+Ck6U0xWgTo/QAAAB6+k8H1zt0xDU1kF9fYfhxoq3DSalg2mRUHE3iQm8MAAACfAVgwIIpEqFULqQlZjB/cE9k/DmnaAAAAhgkJEko0hmBX/r6ZNCwiUBy2smDOMw2icMKkiTcuHUw0qevvZNc6IFEosiYmvJWGl1X3biEO1gQJWLUrZPFzVweTU5DQm0x0UnenrJfOZkZDHcWJnhSb3rGRsvkTX5yYfU+Ckrp2ePdVSYQJf7LEGeS2r+cV6cQy97s6KUtxTG7xDyF7A0+gAAABBEULAAA=",
+        "device_model": "iPhone",
+        "identity_link": { "marketingcloudvisitorid": "49728088823015189425548504973918371147" },
+        "app_short_string": "3.48",
+        "app_name": "Audible",
+        "locale": "en_DE",
+        "device_orientation": "portrait",
+        "is_genuine": false,
+        "uptime": 0.2443,
+        "app_limit_tracking": true,
+        "usertime": 1624132516,
+        "disp_h": 1334,
+        "device_limit_tracking": true,
+        "apple_search_ads": {
+            "attribution": {
+                "method_2": {
+                    "error": {
+                        "code": 1,
+                        "user_info": { "NSLocalizedDescription": "The app is not authorized for ad tracking" },
+                        "domain": "ADClientErrorDomain"
+                    },
+                    "retrieval": { "in_progress_time_interval": 0.0581 }
+                },
+                "retrieval": { "in_progress_time_interval": 0.0581 }
+            }
+        },
+        "volume": 0.125,
+        "bms": 1621257545080,
+        "network_conn_type": "wifi",
+        "notifications_enabled": true,
+        "idfv": "02185687-FB54-4F8E-82C5-5E6DE159943D",
+        "system_ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "sdk_generated_ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/99999.999.999 (KHTML, like Gecko) Mobile/99Z999",
+        "screen_brightness": 0.0226,
+        "ad_services_token_time": 1624132516,
+        "battery_level": 100,
+        "package": "com.audible.iphone",
+        "architecture": "16777228.1",
+        "language": "en-DE",
+        "app_tracking_transparency": { "att": false },
+        "state_active": true,
+        "battery_status": "full",
+        "app_version": "665",
+        "timezone": "Europe/Berlin"
+    },
+    "nt_id": "F6CB7FBC-51E89335-4608-4D00-8BCD-4EC76055F160",
+    "kochava_app_id": "koaudible----ios558c8507b30dd",
+    "kochava_device_id": "KI1624132516T5FA1F93998744B36880D477DB976FB15",
+    "extension": false,
+    "send_date": "2021-06-19T19:55:17.731Z",
+    "sdk_version": "iOSTracker 4.5.0"
+}

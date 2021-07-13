@@ -1,0 +1,2671 @@
+{
+    "experiment_treatment": [
+        {
+            "data": {
+                "segment_key": "prod",
+                "is_early_lifecycle": "false",
+                "is_background_push": false,
+                "morpheus_request_uuid": "A03A17F0-0577-4F7C-AD72-82DDB2A041F4",
+                "experiment_key": "ios_14_helix_idfa_conversion_value",
+                "experiment_version": 0,
+                "treatment_name": "plan_b"
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865678,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "B6F6BB02-9CE7-4D3F-84DE-16234B24A5AD",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504668,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 1
+        },
+        {
+            "data": {
+                "segment_key": "ios_december_2020",
+                "is_early_lifecycle": "false",
+                "is_background_push": false,
+                "morpheus_request_uuid": "A03A17F0-0577-4F7C-AD72-82DDB2A041F4",
+                "experiment_key": "update_phone_number_library",
+                "experiment_version": 0,
+                "treatment_name": "treatment_november_2020"
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865699,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "34B8A4F6-746E-4412-B89F-2A1FC293C2EE",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504670,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 1
+        },
+        {
+            "data": {
+                "segment_key": "prod_ios",
+                "is_early_lifecycle": "false",
+                "is_background_push": false,
+                "morpheus_request_uuid": "A03A17F0-0577-4F7C-AD72-82DDB2A041F4",
+                "experiment_key": "ios_shared_session_kill_switch",
+                "experiment_version": 0,
+                "treatment_name": "treatment"
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865705,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "9B0C8E15-58AF-4446-8BAE-FDE296A77BDF",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504670,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 1
+        }
+    ],
+    "analytics": [
+        {
+            "data": {
+                "value_map_schema_name": "ParametersStoragePayload",
+                "type": "custom",
+                "value_map": {
+                    "event": "INITIALIZATION",
+                    "failureReason": "The operation couldn’t be completed. (ExperimentationFoundation.ParameterStorage.ParameterStorageErrors error 1.)",
+                    "numberOfParametersOnSuccess": "0"
+                },
+                "name": "67F9B071-810E",
+                "counter": 1
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802863948,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": { "id": "com.ubercab.UberClient", "version": "3.459.10002" },
+                "message_id": "A8223A0F-541D-474B-A41B-B5166D6A5B0B",
+                "flush_time_ms": 1624217507682,
+                "session": { "app_lifecycle_state": "foreground", "is_admin_user": false, "session_start_time_ms": 0 },
+                "carrier": {},
+                "time_ms": 1624217502678,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "ApplicationStartupReasonMetadata",
+                "type": "lifecycle",
+                "value_map": { "startupReason": "first_time" },
+                "name": "CA8E05A8-9E45",
+                "counter": 2
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802863956,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "9CD8DA8A-A2C8-4129-8DC8-8AB3C34D1CCE",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217502695,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "AppForegroundPayload",
+                "type": "lifecycle",
+                "value_map": { "isColdStart": "true", "referrer": "", "lastColdLaunchedVersion": "none", "url": "" },
+                "name": "D49DFCDE-82F5",
+                "counter": 3
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802863962,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "98A217A0-29A9-4B00-A289-4056C27E1C92",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217502713,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": { "type": "custom", "name": "14D67C07-7D9F", "counter": 4 },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864068,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "55F74027-D0C5-4460-8847-A5F94882CB07",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503081,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "IOSLocationPermissionsMetadata",
+                "type": "custom",
+                "value_map": { "current": "WHILE_USING_THE_APP" },
+                "name": "20629E80-F20F",
+                "counter": 5
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864076,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "32A45CB3-9759-4A4D-AEBD-4FFA63CE082F",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503090,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "LocationPermissionsMetadata",
+                "type": "custom",
+                "value_map": { "granted": "true" },
+                "name": "652AC443-25A4",
+                "counter": 6
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864080,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "29E9D432-0A58-4E0A-8B71-5F48E90C23A6",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503095,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": { "type": "custom", "name": "9BCB6A95-0D18", "counter": 7 },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864108,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "7515B2AE-6AA1-429A-B8AB-A0292BCCAFB4",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503095,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "ParametersFetchTriggerPayload",
+                "type": "custom",
+                "value_map": { "trigger": "AUTH" },
+                "name": "0FBE989B-19D3",
+                "counter": 8
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864112,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "21E6522E-8215-4FFE-853A-C48ADECF4B84",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503105,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "ParametersFetchTriggerPayload",
+                "type": "custom",
+                "value_map": { "trigger": "LOCATION" },
+                "name": "0FBE989B-19D3",
+                "counter": 9
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864116,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "A22AAE6C-57ED-497A-9166-41D07B1FAA87",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503105,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "RecoveredLaunchCrashCount",
+                "type": "custom",
+                "value_map": { "recoveredLaunchCrashCount": "0" },
+                "name": "A258A5CA-4ACA",
+                "counter": 10
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864149,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "7B4898D5-ACC5-40F1-ADD7-4E09D7D63914",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503112,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "PushSettingsMetadata",
+                "type": "custom",
+                "value_map": {
+                    "pushEnabled": "false",
+                    "settingsMetadata": "[{\"name\":\"BADGE\",\"enabled\":false},{\"description\":\"UNAlertStyle\",\"enabled\":false,\"name\":\"BANNERS\"},{\"name\":\"LOCKSCREEN\",\"enabled\":false},{\"name\":\"SOUND\",\"enabled\":false},{\"enabled\":false,\"name\":\"NOTIFICATIONCENTER\"},{\"description\":\"UNShowPreviewsSetting\",\"name\":\"PREVIEW\",\"enabled\":false},{\"enabled\":false,\"name\":\"CARPLAY\"},{\"name\":\"BYPASS_DND\",\"enabled\":false}]"
+                },
+                "name": "41DB0694-11D2",
+                "counter": 11
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864157,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "03A7D7BD-A269-40E7-A655-219F832EF2AA",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503152,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": { "type": "impression", "name": "247354EE-7831", "counter": 12 },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864175,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "DFECE7DA-4C8D-423B-931B-32B515B7CCCB",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503186,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": { "type": "impression", "name": "21531102-9622", "counter": 13 },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864180,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "8F54E4AB-26DA-4DDF-95B2-361BBE6A331C",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503186,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "ParametersFetchPayload",
+                "type": "custom",
+                "value_map": {
+                    "failedParametersCount": "1",
+                    "parametersCount": "651",
+                    "requestID": "35FD6CB3-8094-4F40-B51A-80690B8123F8",
+                    "loggingRecordsCount": "10"
+                },
+                "name": "5AC1A2B9-E12F",
+                "counter": 14
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864967,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "9CBB813D-28EA-47AA-8EBF-65D92BA61F2D",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503981,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "ParametersStoragePayload",
+                "type": "custom",
+                "value_map": { "numberOfParametersOnSuccess": "651", "event": "OVERWRITE" },
+                "name": "5B8356DF-C74B",
+                "counter": 15
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864977,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "FDF5387C-3B0A-4D1E-802D-08C4C5B7B447",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503989,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "ParametersFetchStreamPayload",
+                "type": "custom",
+                "value_map": {
+                    "result": "SUCCESS",
+                    "fetchType": "appLaunch",
+                    "blockingDurationMs": "902.0",
+                    "callerID": "11aadea6-7691-4fbd-9181-fc45a3f2e694"
+                },
+                "name": "02004282-E2D9",
+                "counter": 16
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864981,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "1C3B3261-5350-447A-B4A4-C6852EF05540",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503996,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": { "type": "custom", "name": "AD005262-D4B2", "counter": 17 },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865002,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "8E435248-F685-4322-871E-BF4BFB19B5B6",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503997,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "value_map_schema_name": "OnboardingStepEventMetadata",
+                "type": "custom",
+                "value_map": {
+                    "totalStepsTaken": "0",
+                    "flowType": "INITIAL",
+                    "state": "ONBOARDING",
+                    "screenType": "WELCOME"
+                },
+                "name": "9F634C9F-0511",
+                "counter": 18
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865059,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "A62911DB-CB84-4FFC-965B-712B4EF61D06",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504072,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "value_map_schema_name": "CanaryExperimetationMetadataV2",
+                "type": "impression",
+                "value_map": {
+                    "additionalExperiment": "canary_welcome_screen",
+                    "deviceNoGeoSync": "-1",
+                    "userMCCSync": "-1",
+                    "deviceNoGeoAsync": "-1",
+                    "userNoGeoSync": "-1",
+                    "userNoGeoAsync": "-1",
+                    "additionalExperimentVal": "-1",
+                    "deviceMCCAsync": "-1",
+                    "deviceGPSSync": "-1",
+                    "deviceGPSAsync": "-1",
+                    "userGPSAsync": "-1",
+                    "userGPSSync": "-1",
+                    "deviceMCCSync": "-1",
+                    "userMCCAsync": "-1"
+                },
+                "name": "3117D113-3A68",
+                "counter": 19
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865368,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "8FBD6DC4-3391-421C-9800-853857A5AF47",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504196,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "type": "custom",
+                "name": "C5A8E8F8-F927",
+                "counter": 20
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865459,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "5D5BF3A6-877F-4C58-9AE6-411474927427",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504202,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "type": "custom",
+                "name": "90661AAC-BA97",
+                "counter": 21
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865464,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "103D1406-1953-4B51-884A-B7ED8949F540",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504202,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "type": "custom",
+                "name": "6B28EAE1-E37D",
+                "counter": 22
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865476,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "EA476046-E41D-4AB0-B301-E5E0AF230301",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504219,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "type": "custom",
+                "name": "42C17A93-6DC5",
+                "counter": 23
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865480,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "BBBFB8A7-75BE-457D-8E45-18E3577437B0",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504239,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "type": "custom",
+                "name": "2D09036F-4109",
+                "counter": 24
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865514,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "56B16652-2C87-4469-8F0A-51CE08CE0AA3",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504311,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "value_map_schema_name": "ParametersFetchTriggerPayload",
+                "type": "custom",
+                "value_map": { "trigger": "LOCATION" },
+                "name": "0FBE989B-19D3",
+                "counter": 25
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865520,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "B2EC21CB-BBC0-48D3-B99C-A9247B7404A8",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504311,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "type": "impression",
+                "name": "436C1574-A3D1",
+                "counter": 26
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865526,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "8CFDFA27-6C1B-4658-BBBB-A893967F700F",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504311,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "type": "impression",
+                "name": "056E24C8-047C",
+                "counter": 27
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865531,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "1BB2E46E-6A57-4959-85E7-9ADAE38BF0C7",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504311,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "value_map_schema_name": "GenericStringMetadata",
+                "type": "custom",
+                "value_map": { "value": "The app is not authorized for ad tracking" },
+                "name": "A22384C0-8083",
+                "counter": 28
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865550,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "C37C8CD8-594B-439A-8CBA-A2A6805CB206",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504326,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "value_map_schema_name": "TuneMetadata",
+                "type": "custom",
+                "value_map": {
+                    "deeplink": "https://7336.deeplink.mobileapptracking.com/v1/link.txt?platform=ios&advertiser_id=7336&ver=5.1.0&package_name=com.ubercab.UberClient&conversion_user_agent=Mozilla/5.0%20(iPhone;%20CPU%20iPhone%20OS%2014_5_1%20like%20Mac%20OS%20X)%20AppleWebKit/605.1.15%20(KHTML,%20like%20Gecko)%20Mobile/15E148&ios_ad_tracking=0"
+                },
+                "name": "5F6D2B59-1021",
+                "counter": 29
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865562,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "A6500B7E-A060-402A-A289-36CD3620F705",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504465,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "value_map_schema_name": "GenericIntegerMetadata",
+                "type": "custom",
+                "value_map": { "value": "0" },
+                "name": "87EE8D57-A6BD",
+                "counter": 30
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504670,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.241241455078125
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865710,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "9CEF8B8E-C9BE-459C-BEA1-89FBE2D15E04",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504677,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        },
+        {
+            "data": {
+                "app_state": "{\"ribTree\":{\"treePayload\":{\"nodes\":[{\"id\":\"Root\"},{\"id\":\"Entry\"},{\"id\":\"WelcomeRider\"}],\"children\":[[1],[2],[]]},\"type\":\"treePayload\"}}",
+                "type": "custom",
+                "name": "2B574265-DEF6",
+                "counter": 31
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504670,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.241241455078125
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802867310,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "5ADF5030-3AFB-4AE9-ABCE-15487FCA981B",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217506324,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 111
+        }
+    ],
+    "log": [
+        {
+            "data": {
+                "dimensions": {
+                    "function": "mapProvider(cachedExperiments:applicationType:)",
+                    "message": "Experiment mapdisplay_map_provider is in control for application type: client",
+                    "category": "default",
+                    "date": "21:31:42.739",
+                    "line": "96",
+                    "file": "MapFactoryUtils.swift"
+                },
+                "level": "warning",
+                "uuid": "C8973E8F-667B-42B3-B3FF-9C6FAA14777C",
+                "message": "Experiment mapdisplay_map_provider is in control for application type: client",
+                "timestamp": 1624217502740,
+                "monitoring_key": "MapFactoryUtils"
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802863967,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "C36B6825-5217-4794-B71B-C6FC6119B839",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217502740,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 7
+        },
+        {
+            "data": {
+                "dimensions": {
+                    "line": "193",
+                    "date": "21:31:42.987",
+                    "category": "BugReporterFoundationPersistentStorage",
+                    "file": "PersitenceStorage.swift",
+                    "message": "Error in bug report Persistence : Bug report doesn't exist  : The file “com.uber.bugReports” couldn’t be opened because there is no such file.",
+                    "function": "fetchBugReports(_:)"
+                },
+                "level": "warning",
+                "uuid": "0A58C826-C51B-4E07-8C69-E8FEE16846B1",
+                "message": "Error in bug report Persistence : Bug report doesn't exist  : The file “com.uber.bugReports” couldn’t be opened because there is no such file.",
+                "timestamp": 1624217502987,
+                "monitoring_key": "BugReporterFoundationPersistentStorage"
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802863979,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "48081618-748D-47B9-922C-1092292B133C",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217502987,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 7
+        },
+        {
+            "data": {
+                "dimensions": {
+                    "message": "Unable to find RIB scope from name: Root",
+                    "date": "21:31:43.106",
+                    "line": "94",
+                    "function": "startTracking()",
+                    "file": "RIBTreeGenerator.swift",
+                    "category": "default"
+                },
+                "level": "warning",
+                "uuid": "CE45E005-B556-4358-922B-AB8320BB2FF7",
+                "message": "Unable to find RIB scope from name: Root",
+                "timestamp": 1624217503106,
+                "monitoring_key": "AppState"
+            },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802864125,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "47245B21-D93F-4BEA-9C6F-598B368F1E81",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217503106,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 7
+        },
+        {
+            "data": {
+                "dimensions": {
+                    "category": "Worker",
+                    "date": "21:31:44.202",
+                    "message": "TuneServerIntegrationRootWorker logAppStoreReceipt warning: Receipt couldn't be retrieved.",
+                    "line": "66",
+                    "file": "TuneServerIntegrationWorker.swift",
+                    "function": "logAppStoreReceipt()"
+                },
+                "level": "warning",
+                "uuid": "00E43BFA-955A-45BC-A222-323C481DD05E",
+                "message": "TuneServerIntegrationRootWorker logAppStoreReceipt warning: Receipt couldn't be retrieved.",
+                "timestamp": 1624217504202,
+                "monitoring_key": "tune_server_integration_worker_request_log_app_store_receipt_url_warning"
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865471,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "9C3622ED-0F3D-495D-A65A-F20FB38E05B9",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504202,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 7
+        },
+        {
+            "data": {
+                "dimensions": {
+                    "function": "logAppleSearchAdsAttribution()",
+                    "file": "TuneServerIntegrationWorker.swift",
+                    "line": "112",
+                    "category": "Worker",
+                    "date": "21:31:44.299",
+                    "message": "TuneServerIntegrationRootWorker requestAttributionDetails warning: Optional(Error Domain=ADClientErrorDomain Code=1 \"The app is not authorized for ad tracking\" UserInfo={NSLocalizedDescription=The app is not authorized for ad tracking})"
+                },
+                "level": "warning",
+                "uuid": "5745D5CA-5EAD-43E2-AD36-6C30816C891B",
+                "message": "TuneServerIntegrationRootWorker requestAttributionDetails warning: Optional(Error Domain=ADClientErrorDomain Code=1 \"The app is not authorized for ad tracking\" UserInfo={NSLocalizedDescription=The app is not authorized for ad tracking})",
+                "timestamp": 1624217504299,
+                "monitoring_key": "tune_server_integration_worker_request_attribution_details_warning"
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865502,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "768E4CCD-2A54-49AE-9458-3649D0CD5AD4",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504303,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 7
+        },
+        {
+            "data": {
+                "dimensions": {
+                    "date": "21:31:44.329",
+                    "message": "Unable to attribute iAd: Error Domain=ADClientErrorDomain Code=1 \"The app is not authorized for ad tracking\" UserInfo={NSLocalizedDescription=The app is not authorized for ad tracking}",
+                    "category": "default",
+                    "function": "encodeAppleSearchAds()",
+                    "file": "MarketingAttributionManager.swift",
+                    "line": "237"
+                },
+                "level": "warning",
+                "uuid": "085DE059-474C-4563-A42F-0E8E3A7C1594",
+                "message": "Unable to attribute iAd: Error Domain=ADClientErrorDomain Code=1 \"The app is not authorized for ad tracking\" UserInfo={NSLocalizedDescription=The app is not authorized for ad tracking}",
+                "timestamp": 1624217504329,
+                "monitoring_key": "MARKETING_ATTRIBUTION_APPLE_AD_ATTRIBUTION_FAILED"
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865557,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "435201C9-5103-497C-866E-09D190077B65",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504329,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 7
+        },
+        {
+            "data": {
+                "dimensions": {
+                    "file": "WatchWorker.swift",
+                    "line": "101",
+                    "category": "Watch",
+                    "message": "An error occurred while trying to update the watch session: Device is not paired.",
+                    "function": "sendPendingUpdate()",
+                    "date": "21:31:44.466"
+                },
+                "level": "warning",
+                "uuid": "997E9738-6EE3-44A6-98B4-5BCB55AD0B4D",
+                "message": "An error occurred while trying to update the watch session: Device is not paired.",
+                "timestamp": 1624217504466,
+                "monitoring_key": "WatchWorker"
+            },
+            "meta": {
+                "location": {
+                    "course": -1,
+                    "speed": -1,
+                    "city": "",
+                    "longitude": 10.566666666666666,
+                    "gps_time_ms": 1624217504328,
+                    "latitude": 52.233333333333334,
+                    "horizontal_accuracy": 65,
+                    "vertical_accuracy": 10,
+                    "altitude": 90.240249633789062
+                },
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802865566,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": true,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "D3C69B27-F9FB-4497-8916-D380BB87116F",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217504466,
+                "network": { "latency_band": "UNKNOWN", "type": "WiFi" }
+            },
+            "tags": [],
+            "schema_id": 7
+        }
+    ],
+    "event": [
+        {
+            "data": { "name": "mapdisplay_on_map_create", "metrics": {}, "dimensions": { "provider": "google" } },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802863972,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "D6873006-3F05-4BC0-BEC4-43676678B0D8",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217502828,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 13
+        },
+        {
+            "data": { "name": "mapdisplay_on_map_create", "metrics": {}, "dimensions": { "provider": "google" } },
+            "meta": {
+                "device": {
+                    "google_play_services_version": "",
+                    "os_type": "ios",
+                    "google_play_services_status": "",
+                    "ip_address": "10.0.0.83",
+                    "language": "en_DE",
+                    "battery_status": "charging",
+                    "year_class": 2017,
+                    "is_rooted": true,
+                    "device_id": "FA4FE8E6-3756-4A84-BA74-414D4AA2576C",
+                    "cpu_abi": "arm64 v8",
+                    "ios_advertiser_id": "00000000-0000-0000-0000-000000000000",
+                    "locale": "DE",
+                    "system_uptime": 802863975,
+                    "manufacturer": "Apple",
+                    "battery_level": 0.89999997615814209,
+                    "wifi_connected": false,
+                    "voiceover": false,
+                    "serial_number": "E05CB01B-E182-436D-94E4-9EEA18B2072D",
+                    "model": "iPhone10,4",
+                    "os_version": "14.5.1",
+                    "os_arch": "arm64 v8",
+                    "imei_number": ""
+                },
+                "app": {
+                    "build_type": "release",
+                    "id": "com.ubercab.UberClient",
+                    "version": "3.459.10002",
+                    "type": "rider_app",
+                    "build_uuid": "c4f41370-b9a3-11eb-9bdf-296d19676092",
+                    "commit_hash": "f8fcd85c141d4a0184f992ad6fab33624972c8b3"
+                },
+                "message_id": "BC1EB023-5D91-467B-ADEB-C9AB168C5DE2",
+                "flush_time_ms": 1624217507682,
+                "session": {
+                    "app_lifecycle_state": "foreground",
+                    "is_admin_user": false,
+                    "session_id": "67472E54-D98D-438D-9FDC-6D881F8D0F11",
+                    "session_start_time_ms": 1624217502723
+                },
+                "carrier": {},
+                "time_ms": 1624217502837,
+                "network": { "latency_band": "UNKNOWN", "type": "Unknown" }
+            },
+            "tags": [],
+            "schema_id": 13
+        }
+    ]
+}
