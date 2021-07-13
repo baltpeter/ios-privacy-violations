@@ -453,7 +453,12 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
 * [ ] Is uninstalling enough?
 * [x] Add OkCupid to dataset
 * [x] Graphs
-* [ ] Compare library offsets before and after restart (see `8865`)
+* [x] Compare library offsets before and after restart (see `8865`, `10765`, and `19074`)
+    - UUIDs and sizes the same between the three for all samples I tested, base addresses mostly the same
+    - UUIDs and sizes remain identical across reboot, base addresses change (ASLR or similar?)
+    - UUIDs don't seem to be unique to device, for example `6220413be62f34e99c8dc2bef5e7c204` is also found in:
+        * https://www.bountysource.com/issues/98525769-ios-esptouch-crash
+        * https://developer.apple.com/forums/thread/680961
 
 ## References
 

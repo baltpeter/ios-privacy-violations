@@ -8,7 +8,7 @@ const fetch = require('node-fetch');
 // From what I can tell, the token used below seems to be the same for everyone. It can be eastily obtained as follows:
 // Go to any app (like https://apps.apple.com/us/app/facebook/id284882215), and observe the network traffic while
 // clicking the 'See Details' link next to 'App Privacy'.
-// Note that the API endpoint we use is ratelimited quite heavily.
+// Note that the API endpoint we use is ratelimited but with a little delay this is no problem.
 
 const out_dir = path.join(__dirname, '..', 'data', 'privacy-labels');
 const apps_dir = '/media/benni/storage2/tmp/3u';
@@ -22,6 +22,7 @@ const getItemMeta = async (ipa) => {
     await zip.close();
     return { item_id: meta['itemId'], bundle_id: meta['softwareVersionBundleId'] };
 };
+const pause = (ms) => new Promise((res) => setTimeout(res, ms));
 
 (async () => {
     fs.ensureDirSync(out_dir);
@@ -55,12 +56,12 @@ const getItemMeta = async (ipa) => {
             method: 'GET',
             mode: 'cors',
         });
-        if (!res.ok) {
+        if (!res.ok && res.status !== 404) {
             if (res.status === 429) {
                 console.error('Hit ratelimit:', await res.text());
                 console.log(res);
                 process.exit(1);
-            } else if (res.status !== 404) {
+            } else {
                 console.error(`Hit unexpected status code (${res.status}):`, await res.text());
                 console.log(res);
             }
@@ -68,5 +69,6 @@ const getItemMeta = async (ipa) => {
             fs.writeFileSync(out_path, await res.text());
             console.log('Successfully fetched privacy labels for:', bundle_id);
         }
+        await pause(1000 + Math.random() * 500);
     }
 })();
