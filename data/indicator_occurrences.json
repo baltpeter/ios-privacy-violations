@@ -4,5 +4,7 @@
     "SSID": 4,
     "BSSID": 2,
     "local IPv4 address": 14,
-    "local IPv6 address": 10
+    "local IPv6 address": 10,
+    "IDFA": 2992,
+    "IDFV (keyword only)": 1992
 }

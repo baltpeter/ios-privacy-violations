@@ -53,6 +53,8 @@ const indicators = {
     ],
     'modem firmware': ['4.03.05'],
     SEID: ['044B24632'],
+    IDFA: ['00000000-0000-0000-0000-000000000000', 'idfa'],
+    'IDFV (keyword only)': ['idfv'],
 };
 
 (async () => {
