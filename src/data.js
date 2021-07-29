@@ -1,8 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-require('dotenv').config({ path: path.join(__dirname, '..', '.env') });
 const { db } = require('./common/db');
-const { base64Regex } = require('./common/util');
+const { getRequestsForIndicator } = require('./common/query');
 
 const out_dir = path.join(__dirname, '..', 'data');
 
@@ -62,16 +61,10 @@ const indicators = {
     const indicator_occurrences = {};
     const indicator_apps = {};
     for (const [name, strings] of Object.entries(indicators)) {
-        const raw_conditions = strings.map(
-            (s) => `content ILIKE '%${s}%' OR content_raw LIKE '%${s}%' OR path ILIKE '%${s}%'`
-        );
-        const base64_conditions = strings.map((s) => base64Regex(s)).map((r) => `content ~ '${r}' OR path ~ '${r}'`);
-        const query = `SELECT name, fr.id from apps join runs on apps.name = runs.app join filtered_requests fr on runs.id = fr.run
-    WHERE ${[...raw_conditions, ...base64_conditions].join('\n       OR ')};`;
-        const res = await db.manyOrNone(query);
-        const app_count = [...new Set(res.map((r) => r.name))].length;
+        const requests = await getRequestsForIndicator(db, strings);
+        const app_count = [...new Set(requests.map((r) => r.name))].length;
         if (app_count > 1) {
-            indicator_occurrences[name] = res.length;
+            indicator_occurrences[name] = requests.length;
             indicator_apps[name] = app_count;
         }
     }

@@ -5,6 +5,7 @@
 * Video of buying apps in 3u
 * Video of scrolling through App Store purchases
 * Screenshot of Facebook app or whatever with funny permissions
+* Oddity: Privacy labels DATA_NOT_LINKED_TO_YOU, purpose ANALYTICS, dataTypes User ID?! (e.g. archery.storify)
 
 ## iOS emulation
 
@@ -441,6 +442,102 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
 * Turn on Bluetooth.
 * Uninstall all third-party apps that are not absolutely necessary.
 
+## Privacy labels
+
+* 841 of 1001 apps have valid privacy labels. Of those, 32 claim not to collect any data, namely: 
+    - `ch.swisscows.messenger.teleguardapp`
+    - `cn.linfei.SimpleRecorder`
+    - `com.angelo.tiksaver`
+    - `com.appstudiopl.whatspoof`
+    - `com.cateater.funapps.stopmotion`
+    - `com.ducnguyen.watchd`
+    - `com.hanntech.free2pass`
+    - `com.intradesys.darfichdas`
+    - `com.moodle.moodlemobile`
+    - `com.ome.vpn`
+    - `com.plattino.ostflandschaft`
+    - `com.pureple.wardrobe`
+    - `com.qnniu.renpho`
+    - `com.samsung.gearwatch`
+    - `com.webex.meeting`
+    - `com.windscribe`
+    - `com.Yannick.SpiderDoll`
+    - `de.aok-bv.amg`
+    - `de.auswaertiges-amt.sicher-reisen`
+    - `de.bpb.wahlomat`
+    - `de.coronatestapp.coronatestapp`
+    - `de.digitales-schwarzes-brett.dsblight`
+    - `de.dkb.pushtan`
+    - `de.elster.smart.release`
+    - `de.freundeliberias.epicom`
+    - `de.labcare.onlinebefunde`
+    - `de.pei.app.safevac`
+    - `de.rki.impf-infos`
+    - `de.steinserg.AtWork`
+    - `eu.europa.publications.reopeneu`
+    - `net.blutspender.www`
+    - `tr.gov.saglik.hayatevesigar`
+
+### Things we can detect
+
+Based on https://developer.apple.com/app-store/app-privacy-details/
+
+#### Observed data category identifiers
+
+* [ ] `Advertising Data`
+* [ ] `Audio Data`
+* [ ] `Browsing History`
+* [x] `Coarse Location`
+* [x] `Contacts`
+* [?] `Crash Data`
+* [ ] `Credit Info`
+* [ ] `Customer Support`
+* [x] `Device ID`
+* [x] `Email Address`
+* [x] `Emails or Text Messages`
+* [ ] `Fitness`
+* [ ] `Gameplay Content`
+* [x] `Health`
+* [x] `Name`
+* [ ] `Other Data Types`
+* [ ] `Other Diagnostic Data`
+* [ ] `Other Financial Info`
+* [ ] `Other Usage Data`
+* [?] `Other User Contact Info`
+* [ ] `Other User Content`
+* [ ] `Payment Info`
+* [?] `Performance Data`
+* [ ] `Phone Number`
+* [?] `Photos or Videos`
+* [x] `Physical Address`
+* [x] `Precise Location`
+* [?] `Product Interaction`
+* [ ] `Purchase History`
+* [ ] `Search History`
+* [ ] `Sensitive Info`
+* [ ] `User ID`
+
+#### Observed purpose identifiers
+
+* [x] `Analytics`
+* [ ] `App Functionality`
+* [ ] `Developer’s Advertising or Marketing`
+* [ ] `Other Purposes`
+* [ ] `Product Personalization`
+* [x] `Third-Party Advertising`
+
+### Assumptions about the data based on observations
+
+* `o.data` always has exactly one entry.
+* `o.data[0].attributes` always has exactly one child: `privacyDetails`.
+* `o.data[0].attributes.privacyDetails` always has two children: `managePrivacyChoicesUrl` (can be `null`) and `privacyTypes` (can be an empty array).
+* These are the possible `privacyTypes`:
+    - `DATA_NOT_COLLECTED` (the app doesn't collect any data, this is then the only entry): both `dataCategories` and `purposes` will be empty
+    - `DATA_USED_TO_TRACK_YOU` ("data may be used to track you across apps and websites owned by other companies"): will have `dataCategories`, but empty `purposes`
+    - `DATA_LINKED_TO_YOU` ("collected and linked to your identity"): will have `purposes[n].dataCategories`, but empty `dataCategories`
+    - `DATA_NOT_LINKED_TO_YOU` ("collected but is not linked to your identity"): will have `purposes[n].dataCategories`, but empty `dataCategories`
+* TODO: Purposes.
+
 ## TODO
 
 * [x] Disable PiHole!
@@ -459,6 +556,8 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
     - UUIDs don't seem to be unique to device, for example `6220413be62f34e99c8dc2bef5e7c204` is also found in:
         * https://www.bountysource.com/issues/98525769-ios-esptouch-crash
         * https://developer.apple.com/forums/thread/680961
+* [x] Privacy labels
+    - Reference: https://developer.apple.com/app-store/app-privacy-details/, https://apps.apple.com/story/id1539235847
 
 ## References
 
