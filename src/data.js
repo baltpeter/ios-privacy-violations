@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { db } = require('./common/db');
-const { getRequestsForIndicator } = require('./common/query');
+const { getRequestsForIndicator, getTrackingFilterlist } = require('./common/query');
 
 const out_dir = path.join(__dirname, '..', 'data');
 
@@ -109,19 +109,7 @@ const indicators = {
     const requests = await db.many(
         'SELECT name, fr.host as host, fr.path as path from apps join runs on apps.name = runs.app join filtered_requests fr on runs.id = fr.run;'
     );
-    const lists = fs
-        .readdirSync(path.join(__dirname, 'common', 'filterlists'))
-        .filter((p) => p.endsWith('.txt'))
-        .map((p) => path.join(__dirname, 'common', 'filterlists', p))
-        .map((p) => fs.readFileSync(p, 'utf-8'))
-        .map((l) =>
-            l
-                .split('\n')
-                .filter((r) => r)
-                .filter((r) => !r.startsWith('#'))
-                .map((l) => (l.includes(' ') ? l.split(' ')[1] : l))
-        );
-    const list = lists.flat();
+    const list = getTrackingFilterlist();
 
     const filtered_requests = requests.filter((r) => !list.includes(r.host));
     console.log(`Total requests: ${requests.length}, requests after filtering: ${filtered_requests.length}`);

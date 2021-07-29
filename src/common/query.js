@@ -1,3 +1,5 @@
+const path = require('path');
+const fs = require('fs');
 const { base64Regex } = require('./util');
 
 const getRequestsForIndicator = async (db, strings, bundle_id = undefined) => {
@@ -11,4 +13,18 @@ const getRequestsForIndicator = async (db, strings, bundle_id = undefined) => {
     return await db.manyOrNone(query);
 };
 
-module.exports = { getRequestsForIndicator };
+const getTrackingFilterlist = () =>
+    fs
+        .readdirSync(path.join(__dirname, 'filterlists'))
+        .filter((p) => p.endsWith('.txt'))
+        .map((p) => path.join(__dirname, 'filterlists', p))
+        .map((p) => fs.readFileSync(p, 'utf-8'))
+        .map((l) =>
+            l
+                .split('\n')
+                .filter((r) => r)
+                .filter((r) => !r.startsWith('#'))
+                .map((l) => (l.includes(' ') ? l.split(' ')[1] : l))
+        )
+        .flat();
+module.exports = { getRequestsForIndicator, getTrackingFilterlist };

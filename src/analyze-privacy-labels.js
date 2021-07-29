@@ -2,7 +2,7 @@ const path = require('path');
 const fs = require('fs');
 const glob = require('glob');
 const { db } = require('./common/db');
-const { getRequestsForIndicator } = require('./common/query');
+const { getRequestsForIndicator, getTrackingFilterlist } = require('./common/query');
 
 const data_dir = path.join(__dirname, '..', 'data', 'privacy-labels');
 const out_dir = path.join(__dirname, '..', 'data');
@@ -17,9 +17,8 @@ const indicators = {
         'D549A4152B6A3652F6D77C65F5D2578EC1046DC4408BA2792588A0CF68B09482CFA0E15F47ACE75957DAB60DF64ECA02869944C8AF710922E57A4BE5294E58C7',
         'CF71BFFFEBC3AE1309252839DAF6377E3A6121AB642D65F70F8BDA385D08E2157BB594C0315B278AA9B883ADA7ACC85CED50B4D6A993C14E0268624A863BD64D',
     ],
-    'Physical Address': ['chreinerweg'],
     Health: ['DkwIXobsJN', 't5TfTlezmn', '108.5'],
-    'Precise Location': ['52.235', '10.564'],
+    'Precise Location': ['52.235', '10.564', 'chreinerweg'],
     'Coarse Location': ['52.23', '10.56'],
     Contacts: [
         'JGKfozntbF',
@@ -34,6 +33,9 @@ const indicators = {
     'Emails or Text Messages': ['9FBqD2CNIJ', '91377604'],
     'Device ID': ['00000000-0000-0000-0000-000000000000', 'idfa', 'idfv'],
 };
+const ads_regex =
+    /.doubleclick.net$|api.vungle.com$|.adcolony.com$|.supersonicads.com$|.inner-active.mobi$|unityads.unity3d.com$|ads.mopub.com$|.fyber.com$/;
+const list = getTrackingFilterlist();
 
 (async () => {
     const jsons = glob
@@ -51,6 +53,7 @@ const indicators = {
     );
 
     const category_instances = {};
+    const purpose_instances = {};
     for (const app of apps) {
         const [purposes, dataCategories] = app.privacyTypes.reduce(
             (acc, cur) => {
@@ -86,7 +89,11 @@ const indicators = {
                     name === 'Coarse Location'
                         ? dataCategories.includes(name) || dataCategories.includes('Precise Location')
                         : dataCategories.includes(name);
-                category_instances[app.bundleId].push({ data_category: name, requests: requests.map((r) => r.id), ok });
+                category_instances[app.bundleId].push({
+                    data_category: name,
+                    requests: requests.map((r) => r.id),
+                    ok,
+                });
                 if (!ok)
                     console.log(
                         app.bundleId,
@@ -95,7 +102,21 @@ const indicators = {
                     );
             }
         }
+
+        const requests = await db.manyOrNone(
+            'SELECT fr.host as host from apps join runs on apps.name = runs.app join filtered_requests fr on runs.id = fr.run where apps.name = ${bundle_id};',
+            { bundle_id: app.bundleId }
+        );
+        const tracking_used = requests.filter((r) => !list.includes(r.host)).length > 0;
+        const tracking_ok = purposes.includes('Analytics');
+        const ads_used = requests.some((r) => ads_regex.test(r.host));
+        const ads_ok = purposes.includes('Third-Party Advertising');
+        purpose_instances[app.bundleId] = { tracking_used, tracking_ok, ads_used, ads_ok };
+        if ((tracking_used && !tracking_ok) || (ads_used && !ads_ok)) {
+            console.log(app.bundleId, tracking_used, tracking_ok, ads_used, ads_ok);
+        }
     }
 
     fs.writeFileSync(path.join(out_dir, 'privacy_label_categories.json'), JSON.stringify(category_instances, null, 4));
+    fs.writeFileSync(path.join(out_dir, 'privacy_label_purposes.json'), JSON.stringify(purpose_instances, null, 4));
 })();

@@ -1,0 +1,5048 @@
+{
+    "app.scanz": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "app.tier.sharing": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "app.walpapers": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "archery.storify": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "at.grupet.mobile.um": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "at.ner.SolitaireNewFree": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "at.runtastic.gpssportapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "bp.rmaster.free": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "br.com.tapps.bidwars2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "capital.scalable.Scalable-Capital": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "ch.publisheria.bring": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "ch.swisscows.messenger.teleguardapp": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "cn.danatech.xingseus": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "cn.linfei.SimpleRecorder": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "co.allconnected.speedtest": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "co.alphaexploration.clubhouse": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "co.bird.Ride": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "co.infinitysoft.vpn360": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "co.thefabulous.app": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "co.visualsupply.cam": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.2ksports.mynba2k21": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.abishkking.loseweight": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.abishkking.maleworkout": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.abishkking.periodcalendar": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.activision.callofduty.shooter": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.adamszedelyi.snapme": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.adidas.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.adobe.Adobe-Reader": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.adobe.FillAndSign": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.adobe.PSMobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.adobe.scan.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.aftership.AfterShip": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.agilebits.onepassword-ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.aiarlabs.prequel": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.aidana.cardriving.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.airbnb.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.al.realdrive": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.alibaba.iAliexpress": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.alibaba.sourcing": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.alien.shooter.galaxy.attack": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.alltrails.AllTrails": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.amanotes.bh": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.amanotes.magictiles": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.amazon.aiv.AIVApp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.amazon.CloudDrivePhotos": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.amazon.echo": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.amazon.firetv.remote": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.amazon.mp3.AmazonCloudPlayer": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.amelosinteractive.snake": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.amour.chicme": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.angelo.tiksaver": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.apalonapps.plants": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.aplicativoslegais.Memes-For-WhatsApp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.app.reportspro": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.appcraft.numberama": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.apple.iMovie": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.apple.mobilegarageband": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.apple.store.Jolly": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.appmind.germanyradios": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.appstudiopl.whatspoof": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.asos.asos": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.atherisapps.fgen": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.atlassian.JitsiMeet.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.attapoll.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.audible.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.autoscout24.lab": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.avast.ios.security": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.avg.ios.security": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.avira.MobileEssentials": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.azurgames.stackball": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.b2p.stackydash": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.babbel.babbelMulti": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.babyeducationtoys.fashionstyle": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.baidujp.SimejiIntl": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.BallGames.Woodturning": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.barber.barberchopiphone": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.BasicGames.PileIt3D": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.belka-games.solitaire": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.bentostudio.ballsvsblocks": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.bestsecret.BestSecret": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.bettergames.real.drivingschool.simulator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.betterme.bettermen": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.bgg.jump": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.bigwinepot.nwdn.international": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.bitstrips.imoji": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.bjoernbartels.MyLove": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.blinkslabs.Blinkist": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.body.positive": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.bodyplan.bittimer": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.boohoo.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.booking.BookingApp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.bostonbanana.VideoToLive": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.brainbow.peakprod": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.braindom": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.braindom2riddle": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.bricksball.civil.crusher": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.brother.iPrint-Scan": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.BuhlData.SteuerPhone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.burbn.instagram": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.burbn.layouts": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.busuu.english.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.byappointment.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.camerasideas.InstaShot": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.camerasideas.Peachy": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.Campless.Campless": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.capp.cappuccino": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.car2go.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.cardify.tinder": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.cardinalblue.PicCollage": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.cassette.aquapark": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.cateater.funapps.stopmotion": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.chess.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.chillfleet.buddy": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.cihan.crashmasterrr": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.circular.pixels": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.cleverapps.mergecraft": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.codexivetechlimited.lifeseeker": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.coinmarketcap.CoinMarketCap": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.collage.belka": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.coloring.color.number.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.com.convertermp3.player": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.comeco.teo": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.commerzbank.photoTAN": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.comuto.comuto": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.contextlogic.Wish": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.converter.mp3": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.corentinlarroque.walkie-talkie": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.costarastrology.costar-mobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.crazylabs.acrylicnails": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.crossforward.pedometer": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.crossforward.WidgetSmith": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.crunchyroll.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.csj.ling": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.cubic.cumo.iphone.rmv": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.czzhao.binance": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.danyil.boltbrowser": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.dazn.theApp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.dazz.hoop": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.db.pbc.ng.mobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.db.pbc.phototan.db": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.dbmeterpro.dB-Meter-Free": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.dcdc.hwsj": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.dealtime.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.deezer.Deezer": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.deutschebahn.navigator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.deutschebahn.streckenagent": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.diguotech.numbertiles": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.disney.disneyplus": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.dr1ven.eraser": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.dreamgames.royalmatch": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.drink.water.aquarium": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.driveby.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.driving.sim2021.cargame": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.duckduckgo.mobile.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.ducnguyen.watchd": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.duolingo.DuolingoMobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.duosecurity.DuoMobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.dvloper.granny": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.ea.ios.fifamobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.ea.ios.fifaultimate": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.ea.ios.simsmobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.ea.pvzfree.bv": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.earlystudio.esound": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.easybrain.blockudoku": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.ebay.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.ebaykleinanzeigen.ebc": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.eddress.gorillas": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.ei.robmaster3d": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.eisterhues-media.TorAlarmWM": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.elokence.akinator.free": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.epson.ESCPR01": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.etoro.openbook": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.etsy.etsyforios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.EuropaParkMackKG.EPGuide": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.europosit.pixelcoloring": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.everywear.game5": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.ewa.ewaapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.expedia.booking": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.expressvpn.iosvpn": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.facebook.Facebook": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.facebook.Messenger": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.fanatee.noodles": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.fanatee.stop": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.fansup.followersplus": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.farfetch.discover": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.fc2.web.fujicubesoft.ManyBricksBreaker": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.feelthemusi.musi": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.feelty": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.fidget.buttons.antistresskit.box.ktale": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.finderly.shpock": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.fingersoft.hillclimbracing": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.firescore.hairsalon": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.firsttouch.hero2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.fitbit.FitbitMobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.fitcoach": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.fivebits.emergencydispatch": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.fivemobile.wattpad": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.flixbus.ios.Flixbus": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.floraincognita.floraincognita": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.floryday.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.fluffyfairygames.idleminertycoon": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.freemium.ios.apps.bubble.level": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.frontierdesign.videostar": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.funcell.ninemonths": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.fungames.blockcraft": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.fungames.sniper3d": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.funnyigames.phonecasediy": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.futurekeyapp": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.game.colorslime": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.gamegarden.ms": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.gameloft.despicableme2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.gamestart.hypergasstation3d": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.gametion.ludo": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.Garawell.BridgeRace": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.garmin.connect.mobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.geniussoftware.GeniusScan": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.GeoGuessr.iOS.GeoGuessr": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.getdropbox.Dropbox": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.getsomeheadspace.headspace": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.gjg.colorfill3d": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.gma.water.connect.puzzle": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.gma.water.sort.puzzle": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.gnarcade.doge": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.go-tellm.tellm": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.google.Authenticator": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.b612": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.google.chrome.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.Chromecast": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.google.Docs": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.Drive": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.FamilyLink": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.Gmail": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.google.GoogleMobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.google.hangouts": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.ios.youtube": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.google.ios.youtubekids": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.ios.youtubemusic": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.google.ios.ytcreator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.keyboard": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.LightCycle": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.Maps": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.google.meetings": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.Movies": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.photos": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.Sheets": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.Slides": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.Stella": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.google.Tachyon": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.google.Translate": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.gopro.GoPro": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.gorilla.brass": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.gouciapp.logos": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.governikus.ausweisapp2": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.gr.visitgreece": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.groundspeak.GeocachingIntro": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.groverapp.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.gunthermarktl.stepapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.gzim.impfpassapp": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.halfbrick.fruitninjax": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.halfbrick.jetpack": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.hammerandchisel.discord": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.handsomeoldtree.idlefirefightertycoon": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.hanntech.free2pass": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.happ.fidget3d": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.happymagenta.fromcore": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.happyprinter.game": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.hbs.broadcast.ometv": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.heatmvmnt.mobileapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.hf.Find-Lost-Device": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.highcore.giantrush": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.hipsterwhale.crossy": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.hm.goe": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.hoffstaedter.ranger": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.holidaycheck.hc": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.holidaypirates.urlaubspiraten": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.holidu.holidu": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.homiebearstudio.ufoidle": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.hp.babylite": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.HP.PregnancyiPhonelite": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.hp.printer.control": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.huawei.iossporthealth": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.huber.smarthealth": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.hutchgames.formularacing": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.hypah.io.slither": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.hyper.slingplane": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.iapps.whatsapp": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.icandesignapp.all": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.ido.veryfit": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.igg.ios.lordsmobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.igtracker.insights": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.imangi.templerun": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.indeed.JobSearch": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.inditex.pullbear": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.inditex.stradivarius": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.inditex.zara.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.infosoft.docutain": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.ingka.ikea.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.instancea.Kata": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.internet-rocks.codescanner": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.intradesys.darfichdas": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.intsig.CamScannerLite": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.ios.rbcdown.Countdown": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.iscoolentertainment.snc": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.isharing.iSharing-Lite": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.iteration-mobile.radarbot-free-ww": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.jaumo.iphoneapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.jctswbglsm.SwipeAway": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.joom.joom": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.journiapp.book": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.kaspersky.securityadvisor": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.KaueRosa.CityTakeover": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.kaufland.iosapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.kayac.ball-run": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.ketchapp.rider": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.kicktipp.kicktippiphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.kik.chat": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.kiloo.subwaysurfers": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.kineticstars.Moon": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.kingsgroup.ss": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.kiss2go.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.klarna.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.kura.save": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.kwalee.makeoverstudio": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.lbrc.PeriodCalendar": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.lebleby.gearrace": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.lemon.lvoverseas": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.lexwarelabs.goodmorning": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.lgeha.nuts": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.life360.safetymap": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.lightricks.Enlight-Editor": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.lightricks.Enlight-Phoenix": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.lightricks.Enlight-Photos": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.lightricks.Enlight-Video": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.lightricks.Facetune2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.lightricks.FacetuneVideo": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.lightx.photoeditor": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.lilithgame.roc.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.limasky.doodlejump2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.limasky.doodlejumpfree": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.limebike": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.linguee.DeepLMobileTranslator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.linkedin.LinkedIn": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.logmein.gotomeeting": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.logmein.gotowebinar": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.lufthansa.launcher": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.luzala.Fontise2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.madfut.madfut21": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.make.it.fly": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.mango.2010": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.maroieqrwlk.unpin": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.mars.avgchapters": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.masomo.headball2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.mattel163.phase10": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.mattel163.uno": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.mayur.animaltransform": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.mcafee.mms": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.medion.alditalk-freischaltung": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.MegaJoy.PrisonBreak68": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.meitu.mtxx": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.mergedomhomedesign.game": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.metamoki.weed": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.mgc.runnergame": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.microblink.PhotoMath": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.azureauthenticator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.lync2013.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.Office.Excel": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.Office.Outlook": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.microsoft.Office.Powerpoint": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.Office.Word": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.officelens": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.officemobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.sharepoint": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.skydrive": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.skype.teams": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.smartglass": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.microsoft.to-do": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.midasplayer.apps.candycrushsaga": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.midasplayer.apps.crash": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.mikrasya.Wheel": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.mind.quiz.brain.out": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.miniclip.8ballpoolmult": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.mobile-softing.coinmaster": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.modanisa.iPhone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.mojiedit.mojiedit": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.moodle.moodlemobile": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.moonfrog.ludo.club": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.moonlab.unfoldstories": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.moonsted.TGTG": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.moxco.bumble": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.mpmf.truckemall": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.mr-brightside.myParcel": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.muhammedeminaksoy.cloneball": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.muratkul.stock": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.muscle.rush": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.musica.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.myfitnesspal.mfp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.mywickr.wickr": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.n3twork.tetris": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.nakiostudio.playdotjs": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.nanotribe.games.cashier3d": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.naturalmotion.customstreetracer2": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.nect.app.prod": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.neocortext.doublicatapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.netflix.Netflix": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.netpulse.fitnessfirst": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.nexters.titanhunters": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.nguyenvh.holeio": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.nianticlabs.pokemongo": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.nike.nikeplus-gps": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.nike.omega": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.nike.onenikecommerce": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.nintendo.zara": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.nodestree.app.tiksave": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.nordcurrent.canteenhd": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.nordcurrent.fashion": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.nordvpn.NordVPN": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.nullapp.drivingschool3d": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.ohmgames.cheatandrun": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.okcupid.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.ome.vpn": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.ookla.speedtest": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.oookamin.lumivpn": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.opera.OperaNews": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.opera.OperaTouch": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.opodo.flights": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.outerspaceapps.itranslate": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.outfit7.mytalkingtom": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.ovelin.guitartuna": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.overwolf.statsroyale": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.ovilex.drivingschoolsim": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.pacer.pacerapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.panoramik.forgeofgodsblitz": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.particlenews.newsbreak": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.passport.photo.app": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.pastapizza.qrcode": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.path36.SpliceFree": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.paysafecard.paysafecard": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.peoplefun.blockscapes": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.peoplefun.wordcross": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.pg.oralb.1314.im.0046": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.philips.lighting.hue2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.photo.beautytuneapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.photo.dualcam": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.pickery.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.picsart.studio": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.pinpinteam.crowdbattle3d": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.pixelbox.roofrails": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.plantidentification": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.plattino.ostflandschaft": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.playgendary.bowmasters": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.playrix.fishdom-freeplay": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.playrix.gardenscapes-m3-ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.playrix.gardenscapes-sweethome": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.playrix.manor-matters": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.playrix.township-ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.playstation.eu.playstationadhoc": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.playstation.psremoteplay": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.playstrom.bob": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.playstrom.dop2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.plr.pam-app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.popcap.ios.PvZ2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.pronetis.ironballride2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.pureple.wardrobe": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.qnniu.renpho": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.qoni.guesstheiranswer": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.quizlet.quizlet": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.quok.blobRunner": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.quvideo.XiaoYing": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.rastislavcervenak.InternetQualityWiFiAR": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.RBSSOFT.HyperMobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.readdle.CalendarsLite": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.readdle.PDFExpert5": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.readdle.ReaddleDocsIPad": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.red.business": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.redbull.moto": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.reddit.Reddit": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.reflectly.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.relize.YogaForWeightLoss": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.resonantcavity.Voloco": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.retromonkey.shoerace": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.rewe.iosapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.riseup.game": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.rivergame.worldbattleGlobal": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.roblox.robloxmobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.roborock.smart": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.robtop.geometryjumplite": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.rollic.tanglemaster3d": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.rovio.baba": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.rtlinteractive.wetter.de": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.rubygames.brainpuzzles": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.rxsj.ios.en4399": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.ryanair.cheapflights": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.sablostudio.dig.tycoon.idle.game": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.saiyun.avgchapters.episodestories.romance": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.sally.sallyswelt": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.samsung.gearwatch": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.samsung.oneconnect4ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.samuellaska.AdBuster": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.sara.ios": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.satisfyer.connect": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.sdpgames.sculptpeople": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.seenax.hide-and-seek": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.sega.sonicdash": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.sergey-gerasimenko.EasyDocScan": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.Seriously.BestFiends": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.sethusenthil.savetoker": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.shazam.Shazam": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.sillens.iShape": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.sixdays.trust": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.sixt.isixt": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.sixwaves.cml": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.skgames.motor": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.skypaw.decibel": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.skype.skype": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.slippy.linerusher": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.smartloftapps.phototranslatefree": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.smmservice.pdfeditor": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.smmservice.printer": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.smmservice.smartprinter": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.smo.deepcleaninc3d": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.smule.sing": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.snowcorp.stickerly": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.socialchain.blockchainvault": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.solocode.anton": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.sonos.SonosController2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.soundcloud.TouchApp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.SpektraGames.ParkingMasterMultiplayerCarGame": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.SpielerPlus.SpielerPlus": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.Splitwise.SplitwiseMobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.spotify.client": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.sptube.browser": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.steuerbot": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.Stickers.ColorfulStickers": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.strava.stravaride": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.studysmarter": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.stx.pullhimout": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.sunbird-images.nabu.birds": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.super-toki.giraffe": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.superbox.ios.fire2048": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.supercell.laser": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.supercell.magic": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.supercell.scroll": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.supercell.soil": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.superspider.smoothwheel": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.sushirolls.game": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.sygic.world": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.symantec.securewifi": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.synlab.access": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.syubestgames.teachersimulator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.tahquam.CountdownStarFree": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.tarekmongy.RunofLife": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.teacapps.QRbot": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.TeleClinic.TeleClinic": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.tensquaregames.letsfish2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.thebinaryfamily.wissenstraining.free": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.thehungrywasp.iamsober": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.thetrainline.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.thousandblade.InsightPlus": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.tiltingpoint.spongebob": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.tintash.nailsalon": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.tinyco.potter": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.tinyspeck.chatlyio": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.tobit.slitte.60021-08989": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.tocaboca.tocalifeworld": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.todoist.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.tomatamara.stickermaker": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.tomtom.itunes.navapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.tonies.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.topfreegames.bikeracefree": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.toursprung.bikemap": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.toyopagroup.picaboo": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.tramb.park4night": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.tranzmate.tranzmate1": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.tripadvisor.LocalPicks": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.tummygames.sliceit": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.tunein.TuneInRadio": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.turborilla.bike.racing.madskillsmotocross3": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.tuya.smartlife": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.twodestudios.dodgemaster": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.twoheadedshark.tco": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.uberblic.ParcelTrack": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.ubercab.UberClient": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.ubercab.UberEats": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.uefa.euro2016": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.uncosoft.highheels": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.unicostudio.braintest": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.unitedinternet.mmc.mobile.gmx.iosmailer": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.uo.StoreLocator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.Upperpik.HairChallenge": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.ups.m.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.uqxuwtxbbu.parkingjam": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.vacation.countdown.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.valvesoftware.Steam": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.verv.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.vestiairedecopines.vestiaire": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.vfs.vibrator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.viber": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.vietphaptravelvn.tvremote": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.vilcsak.bitcoin2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.visualhype.pedometer": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.vividgames.realboxing2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.voiapp.voi": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.vova.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.vysgames.Exposed": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.vytal.vytalconsumerapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.waldenback.driverlicenseapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.wallpaperscraft.wallpapers": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.wayfair.WayfairApp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.waze.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.webex.meeting": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.weightwatchers.wwmobile": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.weplaydots.twodots": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.wetransfer.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.wgmb.angularkendo": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.what3words.ios.what3words": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.WhatStat": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.whiteroom.crazydelivery": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.wholee": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.windscribe": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.windytv.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.wings.iPhone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.wizzair.WizzAirApp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.woltapp.wolt": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.womboai.wombo": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "com.wondergames.warpath.ios": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.xiaomi.mihome": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.xing.XING": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.yahoo.Aerogram": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.Yannick.SpiderDoll": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.yanwa.app": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.yazio.ios.YAZIO": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.yoga-go": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.yorfstudio.zescape": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.yottagames.gameofmafia": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.yourcompany.PPClient": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.yourdelivery.lieferando": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.zaful.Zaful": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "com.zeptolab.cuttheropelite": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "com.zhiliaoapp.musically": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "com.zuuks.bus.simulator.ultimate": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "cz.nmbbrno.covid": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.77onlineshop.seventyseven": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.7mind.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.abnehm-app.caloriecounter": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.actionbound": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.adac.Fuehrerschein": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.aok-bv.amg": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.arbeitsagentur.bka": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.arbeitsagentur.jobboerse": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.auswaertiges-amt.sicher-reisen": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.avm.fritzappwlan": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.avm.MyFRITZ": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.barmergek.serviceapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.BodyFast.BodyFast2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.bottledsoftware.123Tanken": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.bpb.wahlomat": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.brance.momfit": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.brunogehalt.Bruno": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "de.bvg.ticket": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.check24.check24": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.comdirect.phototan": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.congstar.meincongstar": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.coronatestapp.coronatestapp": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.culture4life.luca": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.dak.dak-app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.datev.smartlogin": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.deinupdateMediaGmbh.deinupdate": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "de.deutschepost.postident": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.digitales-schwarzes-brett.dsblight": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.dkb.portalapp": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.dkb.pushtan": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.dwd.warnapp": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.dwins.Financeguru": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.elster.smart.release": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.eos-uptrade.fahrinfo.hvv": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.eSolution.eFit": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.eventim.iphoneapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.eventvoicemedia.dcpraxis": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.fahren-lernen.app": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.fastic.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.fiducia.iphone.securego.wl": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.fiducia.iphone.vrbanking": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.fiduciagad.securego.vr": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.fitx.member": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.freundeliberias.epicom": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.gymondo.Gymondo": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.heide-park.heidepark": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.hermes-europe.hermes": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.idealo.Idealo": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.ideawise.popcorn": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.identity.autoidapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.idnow.autoident": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.ikkclassic.one": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.ikksw.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.immonet.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.immoscout.immoscout": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.immowelt.immoweltapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.inforoad.cleverTanken": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.intelligentapps.ott.client": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.itech-gmbh.mein-laborergebnis": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.jochen-holzer.QR-Code-Scanner": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "de.klarmobil.kundenservice": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.knowunity.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.komoot.berlinbikeapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.labcare.onlinebefunde": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.markusliebschner.thatlist": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.materna.bbk.mobile": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.medpex": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.menschdanke.meindeal": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.metaquark.vbbquery": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.mobile.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "de.mobiletrend.flirtwiese": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.motain.iliga": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "de.n-tv.n-tvmobil": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.nebenan.nebenan": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.nextlevels.eguest": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.no26.Number26": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.olympiaverlag.kicker.kickeronline": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "de.pei.app.safevac": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.pixelhouse.chefkoch-iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.postbank.bestsign": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.postbank.finanzassistent.iphone": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.promobil.mobillife": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.rki.impf-infos": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.rossmann.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.smarthouse.finanzen": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.softgames.commerzbank": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.spiegel.spon": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.starfinanz.Finanzstatus": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.starfinanz.pushTanApp": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.starfinanz.sdepot": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.steinserg.AtWork": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.studyflix.Studyflix-App": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.swr.avp.ard.tablet": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.tagesschau.Tagesschau": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.taxfix.Taxfix": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.telekom.entertaintv-iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.telekom.Kundencenter": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.tellonym.app": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.theorie24.fs.mofa": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.tk.tk-app": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.traderepublic.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.tuc.mi.kahst.BirdNET-iOS.BirdNET-iOS": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.unicredit.apptan": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.uniq.snkraddicted.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.unister.abindenurlaub": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.vaccpro.vaccpro": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.WDR.NewsApp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.web.mobilenavigator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "de.webidsolutions.mywebid": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.westwing.shop": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.wetteronline.WetterApp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "de.winsim.winSIM-Servicewelt": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.zdf.mediathek.universal": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "de.zeit.online": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "dk.ooono.connect": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "ee.mtakso.client": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "eu.europa.publications.reopeneu": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "eu.pons.dictionary": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "eu.thalia.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "evolly.app.rokuremote": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "fahrschulcard": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "fddb.mobile.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "fi.reworks.redecor": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "fonts.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "fontskeyboard.fonts": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "fr.doctolib.www": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "free.music.downloader": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "game.block.puzzles.iq": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "game.puzzle.block.sudoku": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "games.elia.logosound": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "games.elia.word7": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "iDeC.SteveWidget": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "info.codecheck.Codecheck": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "io.cleanfox.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "io.erna": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "io.faceapp.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "io.highcore.stealthmaster": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "io.state.fight": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "io.voodoo.paper2": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "ios.bacha.soft.qr.code.v3": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "ios.catwalk.fashion.star": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "jp.co.canon.bsd.iphone.PIXMA-Print": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "jp.konami.yugiohmobile": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "link.merge.puzzle.onnect.number": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "mega.ios": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "Mg.FamilyLocator.PhoneTracker2": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "miki.EMMODay": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "mobi.MultiCraft": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "mytown.cinema.free": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "net.actionverite.avfranceinapp": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "net.atos.spth": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "net.bitburst.pollpay": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "net.blutspender.www": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "net.daylio.Daylio": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "net.DuckyGames.CraftIsland": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "net.easypark.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "net.nextbike.official2012": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "net.peakgames.toonblast": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "net.poppic.PopPic": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "net.skyscanner.iphone": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "net.zedge.wallpapers": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "nickseidel.passthebomb": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "nl.picnic.picnic-supermarkt": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "no.mobitroll.kahoot.controller": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "org.freevpn.vpn": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "org.iggymedia.periodtracker": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "org.leo.org.leo.dict.01": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "org.mozilla.ios.Firefox": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "org.plantnetproject.PlantNet": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "org.whispersystems.signal": {
+        "tracking_used": false,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "patpat": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "ph.telegra.Telegraph": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "pinterest": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "puzzle.blockpuzzle.cube.relax": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "ru.rightway.deichmann": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "scannerapp.free": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "se.illusionlabs.touchgrindbmx2": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "se.maginteractive.quizduel2": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "se.parkster.Parkster": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "se.resenatverket.FlightRadar24-Free": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "sg.bigo.live": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "soccer.score.star": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "solutions.wzp.translator": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "spa.games": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "Stocard": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "swc": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "tr.com.apps.fashion.battle": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "tr.gov.saglik.hayatevesigar": {
+        "tracking_used": true,
+        "tracking_ok": false,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "trendyol.com.trendyol": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "TTYL.Inc.Poparazzi": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "tv.twitch": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "us.zoom.videomeetings": {
+        "tracking_used": false,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    },
+    "videoeditor.app": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "vsmedia.de.photoblend": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "vt.free": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "war.of.islands": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": true
+    },
+    "wifisolutions.com.ua.AR": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "works.jubilee.timetree": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": true
+    },
+    "xyz.screenkit.screenkit": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": true,
+        "ads_ok": false
+    },
+    "zzkko.com.ZZKKO": {
+        "tracking_used": true,
+        "tracking_ok": true,
+        "ads_used": false,
+        "ads_ok": false
+    }
+}

@@ -6,6 +6,7 @@
 * Video of scrolling through App Store purchases
 * Screenshot of Facebook app or whatever with funny permissions
 * Oddity: Privacy labels DATA_NOT_LINKED_TO_YOU, purpose ANALYTICS, dataTypes User ID?! (e.g. archery.storify)
+* How many apps use Firebase Cloud Messaging?
 
 ## iOS emulation
 
@@ -448,35 +449,35 @@ Found in file '/private/var/Keychains/Analytics/trust_analytics.db', table 'hard
     - `ch.swisscows.messenger.teleguardapp`
     - `cn.linfei.SimpleRecorder`
     - `com.angelo.tiksaver`
-    - `com.appstudiopl.whatspoof`
+    - `com.appstudiopl.whatspoof` -> GAds
     - `com.cateater.funapps.stopmotion`
-    - `com.ducnguyen.watchd`
+    - `com.ducnguyen.watchd` -> GAds, Firebase
     - `com.hanntech.free2pass`
     - `com.intradesys.darfichdas`
-    - `com.moodle.moodlemobile`
-    - `com.ome.vpn`
+    - `com.moodle.moodlemobile` -> Firebase
+    - `com.ome.vpn` -> GAds, Facebook Graph
     - `com.plattino.ostflandschaft`
-    - `com.pureple.wardrobe`
-    - `com.qnniu.renpho`
-    - `com.samsung.gearwatch`
+    - `com.pureple.wardrobe` -> GAds, Firebase, Facebook
+    - `com.qnniu.renpho` -> Firebase, Crashlytics
+    - `com.samsung.gearwatch` -> Crashlytics, Firebase
     - `com.webex.meeting`
     - `com.windscribe`
-    - `com.Yannick.SpiderDoll`
+    - `com.Yannick.SpiderDoll` -> Unity
     - `de.aok-bv.amg`
-    - `de.auswaertiges-amt.sicher-reisen`
+    - `de.auswaertiges-amt.sicher-reisen` -> Firebase
     - `de.bpb.wahlomat`
     - `de.coronatestapp.coronatestapp`
     - `de.digitales-schwarzes-brett.dsblight`
-    - `de.dkb.pushtan`
+    - `de.dkb.pushtan` -> Webtrekk
     - `de.elster.smart.release`
     - `de.freundeliberias.epicom`
     - `de.labcare.onlinebefunde`
     - `de.pei.app.safevac`
-    - `de.rki.impf-infos`
+    - `de.rki.impf-infos` -> Firebase
     - `de.steinserg.AtWork`
     - `eu.europa.publications.reopeneu`
     - `net.blutspender.www`
-    - `tr.gov.saglik.hayatevesigar`
+    - `tr.gov.saglik.hayatevesigar` -> Firebase
 
 ### Things we can detect
 
@@ -509,7 +510,7 @@ Based on https://developer.apple.com/app-store/app-privacy-details/
 * [?] `Performance Data`
 * [ ] `Phone Number`
 * [?] `Photos or Videos`
-* [x] `Physical Address`
+* [ ] `Physical Address`
 * [x] `Precise Location`
 * [?] `Product Interaction`
 * [ ] `Purchase History`
