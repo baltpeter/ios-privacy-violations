@@ -559,6 +559,9 @@ Based on https://developer.apple.com/app-store/app-privacy-details/
         * https://developer.apple.com/forums/thread/680961
 * [x] Privacy labels
     - Reference: https://developer.apple.com/app-store/app-privacy-details/, https://apps.apple.com/story/id1539235847
+* [ ] Presentation
+    - iOS version?
+    - References
 
 ## References
 

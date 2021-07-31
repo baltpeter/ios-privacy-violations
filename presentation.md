@@ -4,17 +4,15 @@
     - iOS simulator
     - Appetize.io and Run that app: essentially iOS simulator
     - Corellium
-* Obtaining apps
-    - Top apps
-        * Official RSS feed: https://rss.itunes.apple.com/en-us (only first 200, though)
-        * Old app store API: http://itunes.apple.com/WebObjects/MZStore.woa/wa/topChartFragmentData?cc=de&genreId=36&pageSize=120&popId=27&pageNumbers=0,1,2,3,4,5,6,7,8,9 (1200) [https://stackoverflow.com/a/30134648, https://stackoverflow.com/a/58776183, https://42matters.com/docs/app-market-data/ios/apps/appstore-genres]
-    - TODO
-* Device preparation (TODO: probably merge into "Automation"?)
+* Device preparation
     - Jailbreak
     - mitmproxy [https://www.andyibanez.com/posts/intercepting-network-mitmproxy/#physical-ios-devices]
     - https://github.com/nabla-c0d3/ssl-kill-switch2
-    - SSH server
-    - https://cydia.saurik.com/package/libactivator/
+* Obtaining apps
+    - TODO
+    - Top apps
+        * Official RSS feed: https://rss.itunes.apple.com/en-us (only first 200, though)
+        * Old app store API: http://itunes.apple.com/WebObjects/MZStore.woa/wa/topChartFragmentData?cc=de&genreId=36&pageSize=120&popId=27&pageNumbers=0,1,2,3,4,5,6,7,8,9 (1200) [https://stackoverflow.com/a/30134648, https://stackoverflow.com/a/58776183, https://42matters.com/docs/app-market-data/ios/apps/appstore-genres]
 * Automation
     - macOS has Configurator
         * Install app: `cfgutil install-app <file>.ipa`
@@ -22,7 +20,7 @@
     - Linux has libimobiledevice
         * Install app: `ideviceinstaller --install <file>.ipa`
         * Uninstall app: `ideviceinstaller --uninstall <bundle-id>`
-    - For the rest, we just SSH into the device and use Activator. *shrug* (TODO: did we use any more?)
+    - For the rest, we just SSH into the device and use Activator (https://cydia.saurik.com/package/libactivator/). *shrug* 
         * Press home button: `activator send libactivator.system.homebutton`
         * Open app: `activator send <bundle-id>`
 * More automation
@@ -74,6 +72,8 @@
           ObjC.classes.CLLocationManager.authorizationStatus(); // For the running app.
           ObjC.classes.CLLocationManager.authorizationStatusForBundleIdentifier_("org.mozilla.ios.Firefox"); // For an arbitrary app.
           ```
+    - Clipboard seeding
+        * `ObjC.classes.UIPasteboard.generalPasteboard().setString_(string);`
 * Background noise filter (TODO: not sure if this is the right spot)
     - Apple has a very helpful support pages that explains (most) background connections: https://support.apple.com/en-us/HT210060
         * ```js
