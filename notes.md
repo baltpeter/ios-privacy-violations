@@ -2,11 +2,11 @@
 
 ## Presentation
 
-* Video of buying apps in 3u
-* Video of scrolling through App Store purchases
-* Screenshot of Facebook app or whatever with funny permissions
-* Oddity: Privacy labels DATA_NOT_LINKED_TO_YOU, purpose ANALYTICS, dataTypes User ID?! (e.g. archery.storify)
-* How many apps use Firebase Cloud Messaging?
+* [x] Video of buying apps in 3u
+* [x] Video of scrolling through App Store purchases
+* [x] Screenshot of Facebook app or whatever with funny permissions
+* [ ] Oddity: Privacy labels DATA_NOT_LINKED_TO_YOU, purpose ANALYTICS, dataTypes User ID?! (e.g. archery.storify)
+* [ ] How many apps use Firebase Cloud Messaging?
 
 ## iOS emulation
 
@@ -548,7 +548,7 @@ Based on https://developer.apple.com/app-store/app-privacy-details/
     - `ObjC.classes.UIPasteboard.generalPasteboard().setString_("LDDsvPqQdT")`
 * [x] ~~Screenrecording?~~
 * [x] Device settings?
-* [ ] Is uninstalling enough?
+* [x] Is uninstalling enough?
 * [x] Add OkCupid to dataset
 * [x] Graphs
 * [x] Compare library offsets before and after restart (see `8865`, `10765`, and `19074`)
@@ -559,9 +559,8 @@ Based on https://developer.apple.com/app-store/app-privacy-details/
         * https://developer.apple.com/forums/thread/680961
 * [x] Privacy labels
     - Reference: https://developer.apple.com/app-store/app-privacy-details/, https://apps.apple.com/story/id1539235847
-* [ ] Presentation
-    - iOS version?
-    - References
+* [x] Presentation
+    - kbsync 3u?
 
 ## References
 

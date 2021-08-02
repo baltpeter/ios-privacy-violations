@@ -1,0 +1,18 @@
+{
+    "ok": {
+        "Device ID": 356,
+        "Precise Location": 39,
+        "Coarse Location": 58,
+        "Name": 1,
+        "Email Address": 1,
+        "Contacts": 0
+    },
+    "nok": {
+        "Device ID": 51,
+        "Precise Location": 38,
+        "Coarse Location": 23,
+        "Name": 1,
+        "Email Address": 0,
+        "Contacts": 1
+    }
+}

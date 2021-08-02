@@ -3,8 +3,15 @@
     "location": 102,
     "SSID": 2,
     "BSSID": 2,
+    "device name": 142,
+    "OS version": 851,
     "local IPv4 address": 4,
     "local IPv6 address": 7,
     "IDFA": 420,
-    "IDFV (keyword only)": 308
+    "IDFV (keyword only)": 308,
+    "device model": 805,
+    "volume level": 123,
+    "screen resolution": 364,
+    "uptime (keyword only)": 102,
+    "disk space": 64
 }

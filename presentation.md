@@ -81,6 +81,17 @@
           ```
 * TODO: Honey data?
 * Privacy labels
-    - TODO
+    - TODO (maybe: https://developer.apple.com/app-store/user-privacy-and-data-use/)
 * Results
     - TODO
+* Conclusion
+    - Android and iOS very similar
+    - Major difference (currently): ad id (but changes coming to Android as well)
+    - Similar amount of tracking, covering the same data and through the same companies
+
+    - Apple does at least innovate a bit, e.g. through privacy labels (pretty accurate)
+* Future work
+    - Improve IPA aquisition "framework"
+    - Defenses
+    - Dive deeper into privacy labels
+    - More sophisticated data analysis

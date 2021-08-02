@@ -30,8 +30,8 @@ const indicators = {
     BSSID: ['34:81:c4:dc:36:1'],
     'WiFi address': ['3C:CD:36:D4:CC:E4'],
     'Bluetooth address': ['3C:CD:36:D2:BD:B2'],
-    'device name': ['frGl5OLv20'],
-    // 'OS version': ['14.5.1'],
+    'device name': ['R2Gl5OLv20'],
+    'OS version': ['14.5.1'],
     'model no.': ['MX162ZD'],
     'serial no.': ['FFMZP87VN1N0'],
     IMEI: ['356395106788056'],
@@ -54,6 +54,11 @@ const indicators = {
     SEID: ['044B24632'],
     IDFA: ['00000000-0000-0000-0000-000000000000', 'idfa'],
     'IDFV (keyword only)': ['idfv'],
+    'device model': ['iPhone10,4'],
+    'volume level': ['0.125'],
+    'screen resolution': ['1334%750', '750%1334'],
+    'uptime (keyword only)': ['uptime'],
+    'disk space': ['127968497664', 'disk%11'],
 };
 
 (async () => {
@@ -115,18 +120,80 @@ const indicators = {
     console.log(`Total requests: ${requests.length}, requests after filtering: ${filtered_requests.length}`);
 
     const apps = [...new Set(requests.map((r) => r.name))];
+    const top_list = require('../iphone-top-1200-2021-05-27.json')
+        .map((p) => p.contentData)
+        .flat();
     const filter_stats = apps
         .map((name) => {
             const total_requests = requests.filter((r) => r.name === name).length;
             const requests_after_filtering = filtered_requests.filter((r) => r.name === name).length;
+            const top_list_entry = top_list.find((e) => e.buyData['bundle-id'] === name);
+            if (!top_list_entry) {
+                console.log(name);
+                console.log(top_list_entry?.name.split('.')[0]);
+            }
             return {
                 name,
                 total_requests,
                 requests_after_filtering,
                 blocked_requests: total_requests - requests_after_filtering,
                 blocked_ratio: (total_requests - requests_after_filtering) / total_requests,
+                top_list_position: top_list_entry?.name.split('.')[0],
             };
         })
         .sort((a, b) => b.blocked_ratio - a.blocked_ratio);
     fs.writeFileSync(path.join(out_dir, 'filter_stats.json'), JSON.stringify(filter_stats, null, 4));
+
+    // Privacy labels
+    const privacy_label_indicator_data = require('../data/privacy_label_categories.json');
+    const pl_indicators = Object.values(privacy_label_indicator_data).reduce(
+        (acc, cur) => {
+            for (const cat of cur) {
+                const ok = cat.ok ? 'ok' : 'nok';
+                const nok = cat.ok ? 'nok' : 'ok';
+                if (acc[ok][cat.data_category]) acc[ok][cat.data_category]++;
+                else {
+                    acc[ok][cat.data_category] = 1;
+                    if (!acc[nok][cat.data_category]) acc[nok][cat.data_category] = 0;
+                }
+            }
+            return acc;
+        },
+        { ok: {}, nok: {} }
+    );
+    fs.writeFileSync(
+        path.join(out_dir, 'privacy_label_categories_for_graph.json'),
+        JSON.stringify(pl_indicators, null, 4)
+    );
+
+    const privacy_label_purpose_data = require('../data/privacy_label_purposes.json');
+    const pl_purposes = Object.values(privacy_label_purpose_data).reduce(
+        (acc, cur) => {
+            for (const type of ['tracking', 'ads']) {
+                const ok = cur[`${type}_ok`] ? 'ok' : 'nok';
+                if (cur[`${type}_used`]) {
+                    acc[ok][type]++;
+                }
+            }
+            return acc;
+        },
+        { ok: { tracking: 0, ads: 0 }, nok: { tracking: 0, ads: 0 } }
+    );
+    fs.writeFileSync(
+        path.join(out_dir, 'privacy_label_purposes_for_graph.json'),
+        JSON.stringify(
+            {
+                ok: [
+                    ['tracking', 'ads'],
+                    [pl_purposes.ok.tracking, pl_purposes.ok.ads],
+                ],
+                nok: [
+                    ['tracking', 'ads'],
+                    [pl_purposes.nok.tracking, pl_purposes.nok.ads],
+                ],
+            },
+            null,
+            4
+        )
+    );
 })();
